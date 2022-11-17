@@ -1,0 +1,353 @@
+,original_description,code,nearest_level1_code,addicional_info,original_code_system,article,Obs,code_description,level1_code_description,joint_ICD10,joint_ICD10_description
+0,Intestinal infectious diseases,A09.0,A09,a,ICD10,Schuettig et al (2019),,"Infectious gastroenteritis and colitis, unspecified","Infectious gastroenteritis and colitis, unspecified",A09.0,
+1,Intestinal infectious diseases,A09.9,A09,a,ICD10,Schuettig et al (2019),,"Infectious gastroenteritis and colitis, unspecified","Infectious gastroenteritis and colitis, unspecified",A09.9,
+2,Infections of the skin and subcutaneous tissue,A46,A46,a,ICD10,Schuettig et al (2019),,Erysipelas,Erysipelas,A46,Erysipelas
+3,HBV acute infectiona ,B16,B16,a,ICD10,Schuettig et al (2019),,Acute hepatitis B,Acute hepatitis B,B16,Acute hepatitis B
+4,HBV chronic infection,B18.0,B18,a,ICD10,Schuettig et al (2019),,Chronic viral hepatitis,Chronic viral hepatitis,B18.0,Chronic viral hepatitis B with delta-agent
+5,HBV chronic infection,B18.1,B18,a,ICD10,Schuettig et al (2019),,Chronic viral hepatitis,Chronic viral hepatitis,B18.1,Chronic viral hepatitis B without delta-agent
+6,Certain infectious and parasitic diseases ,B34.9,B34,a,ICD10,Schuettig et al (2019),,Viral infection of unspecified site,Viral infection of unspecified site,B34.9,"Viral infection, unspecified"
+7,Infectious parotitis,B26,B26,a,ICD10,Schuettig et al (2019),,Mumps,Mumps,B26,Mumps
+8,Certain infectious and parasitic diseases ,B85.0,B85,a,ICD10,Schuettig et al (2019),,Pediculosis and phthiriasis,Pediculosis and phthiriasis,B85.0,Pediculosis due to Pediculus humanus capitis
+9,Certain infectious and parasitic diseases ,B86,B86,a,ICD10,Schuettig et al (2019),,Scabies,Scabies,B86,Scabies
+10,Certain infectious and parasitic diseases ,B99,B99,a,ICD10,Schuettig et al (2019),,Other and unspecified infectious diseases,Other and unspecified infectious diseases,B99,Other and unspecified infectious diseases
+11,Diabetes mellitus,E11,E11,a,ICD10,Schuettig et al (2019),,Type 2 diabetes mellitus,Type 2 diabetes mellitus,E11,Type 2 diabetes mellitus
+12,Mood [affective] disorders,F32,F32,a,ICD10,Schuettig et al (2019),,Depressive episode,Depressive episode,F32,Depressive episode
+13,Mood [affective] disorders,F33,F33,a,ICD10,Schuettig et al (2019),,"Major depressive disorder, recurrent","Major depressive disorder, recurrent",F33,"Major depressive disorder, recurrent"
+14,Mood [affective] disorders,F34,F34,a,ICD10,Schuettig et al (2019),,Persistent mood [affective] disorders,Persistent mood [affective] disorders,F34,Persistent mood [affective] disorders
+15,Mood [affective] disorders,F38,F38,a,ICD10,Schuettig et al (2019),,,,F38,
+16,Mood [affective] disorders,F39,F39,a,ICD10,Schuettig et al (2019),,Unspecified mood [affective] disorder,Unspecified mood [affective] disorder,F39,Unspecified mood [affective] disorder
+17,Diseases of the nervous system,G35.1,G35,a,ICD10,Schuettig et al (2019),,Multiple sclerosis,Multiple sclerosis,G35.1,
+18,Diseases of the nervous system,G58.0,G58,a,ICD10,Schuettig et al (2019),,Other mononeuropathies,Other mononeuropathies,G58.0,Intercostal neuropathy
+19,Diseases of the eye and adnex,H10.9,H10,a,ICD10,Schuettig et al (2019),,Conjunctivitis,Conjunctivitis,H10.9,Unspecified conjunctivitis
+20,Diseases of the ear and mastoid process,H91.2,H91,a,ICD10,Schuettig et al (2019),,Other and unspecified hearing loss,Other and unspecified hearing loss,H91.2,Sudden idiopathic hearing loss
+21,Diseases of the ear and mastoid process,H93.1,H93,a,ICD10,Schuettig et al (2019),,"Other disorders of ear, not elsewhere classified","Other disorders of ear, not elsewhere classified",H93.1,Tinnitus
+22,Hypertensive diseases,I10.0,I10,a,ICD10,Schuettig et al (2019),,Essential (primary) hypertension,Essential (primary) hypertension,I10.0,
+23,Hypertensive diseases,I10.9,I10,a,ICD10,Schuettig et al (2019),,Essential (primary) hypertension,Essential (primary) hypertension,I10.9,
+24,Diseases of the circulatory system,I80,I80,b,ICD10,Schuettig et al (2019),,Phlebitis and thrombophlebitis,Phlebitis and thrombophlebitis,I80,Phlebitis and thrombophlebitis
+25,Diseases of the circulatory system,I83,I83,a,ICD10,Schuettig et al (2019),,Varicose veins of lower extremities,Varicose veins of lower extremities,I83,Varicose veins of lower extremities
+26,ENT infections,J00,J00,a,ICD10,Schuettig et al (2019),,Acute nasopharyngitis [common cold],Acute nasopharyngitis [common cold],J00,Acute nasopharyngitis [common cold]
+27,ENT infections,J02.9,J02,a,ICD10,Schuettig et al (2019),,Acute pharyngitis,Acute pharyngitis,J02.9,"Acute pharyngitis, unspecified"
+28,ENT infections,J03.9,J03,a,ICD10,Schuettig et al (2019),,Acute tonsillitis,Acute tonsillitis,J03.9,"Acute tonsillitis, unspecified"
+29,ENT infections,J04.0,J04,a,ICD10,Schuettig et al (2019),,Acute laryngitis and tracheitis,Acute laryngitis and tracheitis,J04.0,Acute laryngitis
+30,ENT infections,J06.8,J06,a,ICD10,Schuettig et al (2019),,Acute upper resp infections of multiple and unsp sites,Acute upper resp infections of multiple and unsp sites,J06.8,
+31,ENT infections,J06.9,J06,a,ICD10,Schuettig et al (2019),,Acute upper resp infections of multiple and unsp sites,Acute upper resp infections of multiple and unsp sites,J06.9,"Acute upper respiratory infection, unspecified"
+32,ENT infections,J20.9,J20,a,ICD10,Schuettig et al (2019),,Acute bronchitis,Acute bronchitis,J20.9,"Acute bronchitis, unspecified"
+33,Bronchitis,J40,J40,a,ICD10,Schuettig et al (2019),,"Bronchitis, not specified as acute or chronic","Bronchitis, not specified as acute or chronic",J40,"Bronchitis, not specified as acute or chronic"
+34,"Diseases of oral cavity, salivary glands and jaws",K11.2,K11,a,ICD10,Schuettig et al (2019),,Diseases of salivary glands,Diseases of salivary glands,K11.2,Sialoadenitis
+35,"Diseases of oral cavity, salivary glands and jaws",K12.0,K12,a,ICD10,Schuettig et al (2019),,Stomatitis and related lesions,Stomatitis and related lesions,K12.0,Recurrent oral aphthae
+36,"Diseases of oral cavity, salivary glands and jaws",K14.0,K14,a,ICD10,Schuettig et al (2019),,Diseases of tongue,Diseases of tongue,K14.0,Glossitis
+37,Diseases of the digestive system,K52.9,K52,a,ICD10,Schuettig et al (2019),,Other and unsp noninfective gastroenteritis and colitis,Other and unsp noninfective gastroenteritis and colitis,K52.9,"Noninfective gastroenteritis and colitis, unspecified"
+38,Diseases of the digestive system,K59.0,K59,a,ICD10,Schuettig et al (2019),,Other functional intestinal disorders,Other functional intestinal disorders,K59.0,Constipation
+39,Diseases of the digestive system,K59.1,K59,a,ICD10,Schuettig et al (2019),,Other functional intestinal disorders,Other functional intestinal disorders,K59.1,Functional diarrhea
+40,Infections of the skin and subcutaneous tissue,L03.0,L03,b,ICD10,Schuettig et al (2019),,Cellulitis and acute lymphangitis,Cellulitis and acute lymphangitis,L03.0,Cellulitis and acute lymphangitis of finger and toe
+41,"Dermatitis, eczema and other disease of the skin",L20.8,L20,a,ICD10,Schuettig et al (2019),,Atopic dermatitis,Atopic dermatitis,L20.8,Other atopic dermatitis
+42,"Dermatitis, eczema and other disease of the skin",L20.9,L20,a,ICD10,Schuettig et al (2019),,Atopic dermatitis,Atopic dermatitis,L20.9,"Atopic dermatitis, unspecified"
+43,"Dermatitis, eczema and other disease of the skin",L22,L22,a,ICD10,Schuettig et al (2019),,Diaper dermatitis,Diaper dermatitis,L22,Diaper dermatitis
+44,"Dermatitis, eczema and other disease of the skin",L23.2,L23,a,ICD10,Schuettig et al (2019),,Allergic contact dermatitis,Allergic contact dermatitis,L23.2,Allergic contact dermatitis due to cosmetics
+45,"Dermatitis, eczema and other disease of the skin",L23.4,L23,a,ICD10,Schuettig et al (2019),,Allergic contact dermatitis,Allergic contact dermatitis,L23.4,Allergic contact dermatitis due to dyes
+46,Arthropathies,M10.0,M10,a,ICD10,Schuettig et al (2019),,Gout,Gout,M10.0,Idiopathic gout
+47,Arthropathies,M25.5,M25,b,ICD10,Schuettig et al (2019),,"Other joint disorder, not elsewhere classified","Other joint disorder, not elsewhere classified",M25.5,Pain in joint
+48,Back pain,M54.1,M54,b,ICD10,Schuettig et al (2019),,Dorsalgia,Dorsalgia,M54.1,Radiculopathy
+49,Back pain,M54.2,M54,b,ICD10,Schuettig et al (2019),,Dorsalgia,Dorsalgia,M54.2,Cervicalgia
+50,Back pain,M54.4,M54,b,ICD10,Schuettig et al (2019),,Dorsalgia,Dorsalgia,M54.4,Lumbago with sciatica
+51,Back pain,M54.5,M54,b,ICD10,Schuettig et al (2019),,Dorsalgia,Dorsalgia,M54.5,Low back pain
+52,Back pain,M54.6,M54,b,ICD10,Schuettig et al (2019),,Dorsalgia,Dorsalgia,M54.6,Pain in thoracic spine
+53,Back pain,M54.8,M54,b,ICD10,Schuettig et al (2019),,Dorsalgia,Dorsalgia,M54.8,Other dorsalgia
+54,Back pain,M54.9,M54,b,ICD10,Schuettig et al (2019),,Dorsalgia,Dorsalgia,M54.9,"Dorsalgia, unspecified"
+55,Soft tissue disorders,M62.6,M62,b,ICD10,Schuettig et al (2019),,Other disorders of muscle,Other disorders of muscle,M62.6,
+56,Soft tissue disorders,M79.0,M79,b,ICD10,Schuettig et al (2019),,"Oth and unsp soft tissue disorders, not elsewhere classified","Oth and unsp soft tissue disorders, not elsewhere classified",M79.0,"Rheumatism, unspecified"
+57,Soft tissue disorders,M79.2,M79,b,ICD10,Schuettig et al (2019),,"Oth and unsp soft tissue disorders, not elsewhere classified","Oth and unsp soft tissue disorders, not elsewhere classified",M79.2,"Neuralgia and neuritis, unspecified"
+58,Soft tissue disorders,M79.6,M79,b,ICD10,Schuettig et al (2019),,"Oth and unsp soft tissue disorders, not elsewhere classified","Oth and unsp soft tissue disorders, not elsewhere classified",M79.6,"Pain in limb, hand, foot, fingers and toes"
+59,Biomechanical lesions,M99.8,M99,b,ICD10,Schuettig et al (2019),,"Biomechanical lesions, not elsewhere classified","Biomechanical lesions, not elsewhere classified",M99.8,Other biomechanical lesions
+60,Diseases of the genitourinary system,N12,N12,b,ICD10,Schuettig et al (2019),,"Tubulo-interstitial nephritis, not spcf as acute or chronic","Tubulo-interstitial nephritis, not spcf as acute or chronic",N12,"Tubulo-interstitial nephritis, not spcf as acute or chronic"
+61,Diseases of the genitourinary system,N28.8,N28,a,ICD10,Schuettig et al (2019),,"Oth disorders of kidney and ureter, not elsewhere classified","Oth disorders of kidney and ureter, not elsewhere classified",N28.8,Other specified disorders of kidney and ureter
+62,Diseases and symptoms of urinary system,N30.0,N30,b,ICD10,Schuettig et al (2019),,Cystitis,Cystitis,N30.0,Acute cystitis
+63,Diseases and symptoms of urinary system,N39.0,N39,a,ICD10,Schuettig et al (2019),,Other disorders of urinary system,Other disorders of urinary system,N39.0,"Urinary tract infection, site not specified"
+64,Diseases of male genital organs,N41.1,N41,a,ICD10,Schuettig et al (2019),,Inflammatory diseases of prostate,Inflammatory diseases of prostate,N41.1,Chronic prostatitis
+65,Diseases of male genital organs,N45.9,N45,a,ICD10,Schuettig et al (2019),,Orchitis and epididymitis,Orchitis and epididymitis,N45.9,
+66,Diseases of male genital organs,N48.1,N48,a,ICD10,Schuettig et al (2019),,Other disorders of penis,Other disorders of penis,N48.1,Balanitis
+67,Symptoms and signs involving the circulatory and respiratory systems,R04.0,R04,a,ICD10,Schuettig et al (2019),,Hemorrhage from respiratory passages,Hemorrhage from respiratory passages,R04.0,Epistaxis
+68,Symptoms and signs involving the circulatory and respiratory systems,R05,R05,a,ICD10,Schuettig et al (2019),,Cough,Cough,R05,Cough
+69,Symptoms and signs involving the circulatory and respiratory systems,R06.4,R06,a,ICD10,Schuettig et al (2019),,Abnormalities of breathing,Abnormalities of breathing,R06.4,Hyperventilation
+70,Symptoms and signs involving the circulatory and respiratory systems,R10.1,R10,a,ICD10,Schuettig et al (2019),,Abdominal and pelvic pain,Abdominal and pelvic pain,R10.1,Pain localized to upper abdomen
+71,Symptoms and signs involving the circulatory and respiratory systems,R10.3,R10,a,ICD10,Schuettig et al (2019),,Abdominal and pelvic pain,Abdominal and pelvic pain,R10.3,Pain localized to other parts of lower abdomen
+72,Symptoms and signs involving the circulatory and respiratory systems,R10.4,R10,a,ICD10,Schuettig et al (2019),,Abdominal and pelvic pain,Abdominal and pelvic pain,R10.4,
+73,Symptoms and signs involving the circulatory and respiratory systems,R11,R11,a,ICD10,Schuettig et al (2019),,Nausea and vomiting,Nausea and vomiting,R11,Nausea and vomiting
+74,"Dermatitis, eczema and other disease of the skin",R21,R21,a,ICD10,Schuettig et al (2019),,Rash and other nonspecific skin eruption,Rash and other nonspecific skin eruption,R21,Rash and other nonspecific skin eruption
+75,Diseases and symptoms of urinary system,R30.0,R30,a,ICD10,Schuettig et al (2019),,Pain associated with micturition,Pain associated with micturition,R30.0,Dysuria
+76,Diseases and symptoms of urinary system,R32,R32,a,ICD10,Schuettig et al (2019),,Unspecified urinary incontinence,Unspecified urinary incontinence,R32,Unspecified urinary incontinence
+77,General symptoms and signs,R50,R50,a,ICD10,Schuettig et al (2019),,Fever of other and unknown origin,Fever of other and unknown origin,R50,Fever of other and unknown origin
+78,General symptoms and signs,R51,R51,a,ICD10,Schuettig et al (2019),,Headache,Headache,R51,Headache
+79,General symptoms and signs,R52.9,R52,b,ICD10,Schuettig et al (2019),,"Pain, unspecified","Pain, unspecified",R52.9,
+80,General symptoms and signs,R53,R53,a,ICD10,Schuettig et al (2019),,Malaise and fatigue,Malaise and fatigue,R53,Malaise and fatigue
+81,Superficial injuries,S00.0,S00,a,ICD10,Schuettig et al (2019),,Superficial injury of head,Superficial injury of head,S00.0,Superficial injury of scalp
+82,Superficial injuries,S00.03,S00,a,ICD10,Schuettig et al (2019),,Superficial injury of head,Superficial injury of head,S00.03,Contusion of scalp
+83,Superficial injuries,S00.3,S00,a,ICD10,Schuettig et al (2019),,Superficial injury of head,Superficial injury of head,S00.3,Superficial injury of nose
+84,Superficial injuries,S00.8,S00,a,ICD10,Schuettig et al (2019),,Superficial injury of head,Superficial injury of head,S00.8,Superficial injury of other parts of head
+85,Superficial injuries,S00.9,S00,a,ICD10,Schuettig et al (2019),,Superficial injury of head,Superficial injury of head,S00.9,Superficial injury of unspecified part of head
+86,Superficial injuries,S30.0,S30,a,ICD10,Schuettig et al (2019),,"Superfic inj abdomen, low back, pelvis and external genitals","Superfic inj abdomen, low back, pelvis and external genitals",S30.0,Contusion of lower back and pelvis
+87,Superficial injuries,S40.0,S40,b,ICD10,Schuettig et al (2019),,Superficial injury of shoulder and upper arm,Superficial injury of shoulder and upper arm,S40.0,Contusion of shoulder and upper arm
+88,Superficial injuries,S50.0,S50,a,ICD10,Schuettig et al (2019),,Superficial injury of elbow and forearm,Superficial injury of elbow and forearm,S50.0,Contusion of elbow
+89,Superficial injuries,S50.1,S50,a,ICD10,Schuettig et al (2019),,Superficial injury of elbow and forearm,Superficial injury of elbow and forearm,S50.1,Contusion of forearm
+90,Superficial injuries,S50.8,S50,a,ICD10,Schuettig et al (2019),,Superficial injury of elbow and forearm,Superficial injury of elbow and forearm,S50.8,Other superficial injuries of forearm
+91,Superficial injuries,S60.0,S60,b,ICD10,Schuettig et al (2019),,"Superficial injury of wrist, hand and fingers","Superficial injury of wrist, hand and fingers",S60.0,Contusion of finger without damage to nail
+92,Superficial injuries,S60.2,S60,b,ICD10,Schuettig et al (2019),,"Superficial injury of wrist, hand and fingers","Superficial injury of wrist, hand and fingers",S60.2,Contusion of wrist and hand
+93,Superficial injuries,S60.8,S60,b,ICD10,Schuettig et al (2019),,"Superficial injury of wrist, hand and fingers","Superficial injury of wrist, hand and fingers",S60.8,Other superficial injuries of wrist
+94,Superficial injuries,S70.0,S70,a,ICD10,Schuettig et al (2019),,Superficial injury of hip and thigh,Superficial injury of hip and thigh,S70.0,Contusion of hip
+95,Superficial injuries,S80.0,S80,b,ICD10,Schuettig et al (2019),,Superficial injury of knee and lower leg,Superficial injury of knee and lower leg,S80.0,Contusion of knee
+96,Superficial injuries,S80.1,S80,b,ICD10,Schuettig et al (2019),,Superficial injury of knee and lower leg,Superficial injury of knee and lower leg,S80.1,Contusion of lower leg
+97,Superficial injuries,S80.8,S80,b,ICD10,Schuettig et al (2019),,Superficial injury of knee and lower leg,Superficial injury of knee and lower leg,S80.8,Other superficial injuries of lower leg
+98,"Contusion, sprain and strain",S20.2,S20,b,ICD10,Schuettig et al (2019),,Superficial injury of thorax,Superficial injury of thorax,S20.2,Contusion of thorax
+99,"Contusion, sprain and strain",S63.5,S63,b,ICD10,Schuettig et al (2019),,Dislocation and sprain of joints and ligaments at wrs/hnd lv,Dislocation and sprain of joints and ligaments at wrs/hnd lv,S63.5,Other and unspecified sprain of wrist
+100,"Contusion, sprain and strain",S63.6,S63,b,ICD10,Schuettig et al (2019),,Dislocation and sprain of joints and ligaments at wrs/hnd lv,Dislocation and sprain of joints and ligaments at wrs/hnd lv,S63.6,Other and unspecified sprain of finger(s)
+101,"Contusion, sprain and strain",S83.6,S83,b,ICD10,Schuettig et al (2019),,Dislocation and sprain of joints and ligaments of knee,Dislocation and sprain of joints and ligaments of knee,S83.6,Sprain of the superior tibiofibular joint and ligament
+102,Fractures and injuries,S92.5,S92,b,ICD10,Schuettig et al (2019),,"Fracture of foot and toe, except ankle","Fracture of foot and toe, except ankle",S92.5,Fracture of lesser toe(s)
+103,Superficial injuries,S90.1,S90,b,ICD10,Schuettig et al (2019),,"Superficial injury of ankle, foot and toes","Superficial injury of ankle, foot and toes",S90.1,Contusion of toe without damage to nail
+104,Superficial injuries,S90.3,S90,b,ICD10,Schuettig et al (2019),,"Superficial injury of ankle, foot and toes","Superficial injury of ankle, foot and toes",S90.3,Contusion of foot
+105,"Contusion, sprain and strain",S93.4,S93,b,ICD10,Schuettig et al (2019),,"Disloc & sprain of joints & ligaments at ankl, ft & toe lev","Disloc & sprain of joints & ligaments at ankl, ft & toe lev",S93.4,Sprain of ankle
+106,"Contusion, sprain and strain",S93.6,S93,b,ICD10,Schuettig et al (2019),,"Disloc & sprain of joints & ligaments at ankl, ft & toe lev","Disloc & sprain of joints & ligaments at ankl, ft & toe lev",S93.6,Sprain of foot
+107,Effects of external causes,T67.6,T67,b,ICD10,Schuettig et al (2019),,Effects of heat and light,Effects of heat and light,T67.6,"Heat fatigue, transient"
+108,Effects of external causes,T75.2,T75,b,ICD10,Schuettig et al (2019),,Other and unspecified effects of other external causes,Other and unspecified effects of other external causes,T75.2,Effects of vibration
+109,Effects of external causes,T78.4,T78,a,ICD10,Schuettig et al (2019),,"Adverse effects, not elsewhere classified","Adverse effects, not elsewhere classified",T78.4,Other and unspecified allergy
+110,Effects of external causes,T83.0,T83,a,ICD10,Schuettig et al (2019),,Complications of genitourinary prosth dev/grft,Complications of genitourinary prosth dev/grft,T83.0,Mechanical complication of urinary catheter
+111,Persons encountering health services for examination and investigation ,Z01,Z01,a,ICD10,Schuettig et al (2019),,"Encntr for oth sp exam w/o complaint, suspected or reprtd dx","Encntr for oth sp exam w/o complaint, suspected or reprtd dx",Z01,"Encntr for oth sp exam w/o complaint, suspected or reprtd dx"
+112,Persons encountering health services for examination and investigation ,Z09,Z09,a,ICD10,Schuettig et al (2019),,Encntr for f/u exam aft trtmt for cond oth than malig neoplm,Encntr for f/u exam aft trtmt for cond oth than malig neoplm,Z09,Encntr for f/u exam aft trtmt for cond oth than malig neoplm
+113,Persons with potential health hazards related to communicable diseases,Z23,Z23,a,ICD10,Schuettig et al (2019),,Encounter for immunization,Encounter for immunization,Z23,Encounter for immunization
+114,Persons with potential health hazards related to communicable diseases,Z24.4,Z24,a,ICD10,Schuettig et al (2019),,,,Z24.4,
+115,Persons with potential health hazards related to communicable diseases,Z24.5,Z24,a,ICD10,Schuettig et al (2019),,,,Z24.5,
+116,Persons with potential health hazards related to communicable diseases,Z24.6,Z24,a,ICD10,Schuettig et al (2019),,,,Z24.6,
+117,Persons with potential health hazards related to communicable diseases,Z25.8,Z25,a,ICD10,Schuettig et al (2019),,,,Z25.8,
+118,Persons with potential health hazards related to communicable diseases,Z27.4,Z27,a,ICD10,Schuettig et al (2019),,,,Z27.4,
+119,Persons with potential health hazards related to communicable diseases,Z29.8,Z29,a,ICD10,Schuettig et al (2019),,Encounter for other prophylactic measures,Encounter for other prophylactic measures,Z29.8,Encounter for other specified prophylactic measures
+120,Persons encountering health services for specific procedures and health care,Z41.9,Z41,a,ICD10,Schuettig et al (2019),,Encntr for proc for purposes oth than remedying health state,Encntr for proc for purposes oth than remedying health state,Z41.9,"Encntr for proc for purpose oth than remedy hlth state, unsp"
+121,Persons encountering health services for specific procedures and health care,Z43.0,Z43,a,ICD10,Schuettig et al (2019),,Encounter for attention to artificial openings,Encounter for attention to artificial openings,Z43.0,Encounter for attention to tracheostomy
+122,Persons encountering health services for specific procedures and health care,Z43.2,Z43,a,ICD10,Schuettig et al (2019),,Encounter for attention to artificial openings,Encounter for attention to artificial openings,Z43.2,Encounter for attention to ileostomy
+123,Persons encountering health services for specific procedures and health care,Z43.3,Z43,a,ICD10,Schuettig et al (2019),,Encounter for attention to artificial openings,Encounter for attention to artificial openings,Z43.3,Encounter for attention to colostomy
+124,Persons encountering health services for specific procedures and health care,Z47.8,Z47,b,ICD10,Schuettig et al (2019),,Orthopedic aftercare,Orthopedic aftercare,Z47.8,Encounter for other orthopedic aftercare
+125,Persons encountering health services for specific procedures and health care,Z47.9,Z47,b,ICD10,Schuettig et al (2019),,Orthopedic aftercare,Orthopedic aftercare,Z47.9,
+126,Persons encountering health services for specific procedures and health care,Z48.0,Z48,b,ICD10,Schuettig et al (2019),,Encounter for other postprocedural aftercare,Encounter for other postprocedural aftercare,Z48.0,"Encounter for attention to dressings, sutures and drains"
+127,Persons encountering health services for specific procedures and health care,Z48.8,Z48,b,ICD10,Schuettig et al (2019),,Encounter for other postprocedural aftercare,Encounter for other postprocedural aftercare,Z48.8,Encounter for other specified postprocedural aftercare
+128,Persons encountering health services for specific procedures and health care,Z48.9,Z48,b,ICD10,Schuettig et al (2019),,Encounter for other postprocedural aftercare,Encounter for other postprocedural aftercare,Z48.9,
+129,Persons encountering health services for specific procedures and health care,Z59,Z59,a,ICD10,Schuettig et al (2019),,Problems related to housing and economic circumstances,Problems related to housing and economic circumstances,Z59,Problems related to housing and economic circumstances
+130,Persons encountering health services for specific procedures and health care,Z63,Z63,a,ICD10,Schuettig et al (2019),,"Oth prob rel to prim support group, inc family circumstances","Oth prob rel to prim support group, inc family circumstances",Z63,"Oth prob rel to prim support group, inc family circumstances"
+131,Persons encountering health services for examination and investigation ,Z72.8,Z72,a,ICD10,Schuettig et al (2019),,Problems related to lifestyle,Problems related to lifestyle,Z72.8,Other problems related to lifestyle
+132,Persons encountering health services for examination and investigation ,Z74.8,Z74,a,ICD10,Schuettig et al (2019),,Problems related to care provider dependency,Problems related to care provider dependency,Z74.8,Other problems related to care provider dependency
+133,Persons encountering health services for examination and investigation ,Z75.2,Z75,a,ICD10,Schuettig et al (2019),,Problems related to medical facilities and other health care,Problems related to medical facilities and other health care,Z75.2,Other waiting period for investigation and treatment
+134,Persons encountering health services for examination and investigation ,Z76.8,Z76,a,ICD10,Schuettig et al (2019),,Persons encountering health services in other circumstances,Persons encountering health services in other circumstances,Z76.8,Persons encountering health services in oth circumstances
+135,Gastroenteritis,A00,A00,,ICD10,Sarmento et al (2020),,Cholera,Cholera,A00,Cholera
+136,Gastroenteritis,A01,A01,,ICD10,Sarmento et al (2020),,Typhoid and paratyphoid fevers,Typhoid and paratyphoid fevers,A01,Typhoid and paratyphoid fevers
+137,Gastroenteritis,A02,A02,,ICD10,Sarmento et al (2020),,Other salmonella infections,Other salmonella infections,A02,Other salmonella infections
+138,Gastroenteritis,A03,A03,,ICD10,Sarmento et al (2020),,Shigellosis,Shigellosis,A03,Shigellosis
+139,Gastroenteritis,A04,A04,,ICD10,Sarmento et al (2020),,Other bacterial intestinal infections,Other bacterial intestinal infections,A04,Other bacterial intestinal infections
+140,Gastroenteritis,A05,A05,,ICD10,Sarmento et al (2020),,"Oth bacterial foodborne intoxications, NEC","Oth bacterial foodborne intoxications, NEC",A05,"Oth bacterial foodborne intoxications, NEC"
+141,Gastroenteritis,A06,A06,,ICD10,Sarmento et al (2020),,Amebiasis,Amebiasis,A06,Amebiasis
+142,Gastroenteritis,A07,A07,,ICD10,Sarmento et al (2020),,Other protozoal intestinal diseases,Other protozoal intestinal diseases,A07,Other protozoal intestinal diseases
+143,Gastroenteritis,A08,A08,,ICD10,Sarmento et al (2020),,Viral and other specified intestinal infections,Viral and other specified intestinal infections,A08,Viral and other specified intestinal infections
+144,Gastroenteritis,A09,A09,,ICD10,Sarmento et al (2020),,"Infectious gastroenteritis and colitis, unspecified","Infectious gastroenteritis and colitis, unspecified",A09,"Infectious gastroenteritis and colitis, unspecified"
+145,Tuberculosis,A15,A15,,ICD10,Sarmento et al (2020),,Respiratory tuberculosis,Respiratory tuberculosis,A15,Respiratory tuberculosis
+146,Tuberculosis,A16,A16,,ICD10,Sarmento et al (2020),,,,A16,
+147,Tuberculosis,A17,A17,,ICD10,Sarmento et al (2020),,Tuberculosis of nervous system,Tuberculosis of nervous system,A17,Tuberculosis of nervous system
+148,Tetanus,A33,A33,c,ICD10,Sarmento et al (2020),,Tetanus neonatorum,Tetanus neonatorum,A33,Tetanus neonatorum
+149,Tetanus,A34,A34,c,ICD10,Sarmento et al (2020),,Obstetrical tetanus,Obstetrical tetanus,A34,Obstetrical tetanus
+150,Tetanus,A35,A35,c,ICD10,Sarmento et al (2020),,Other tetanus,Other tetanus,A35,Other tetanus
+151,Diphtheria,A36,A36,c,ICD10,Sarmento et al (2020),,Diphtheria,Diphtheria,A36,Diphtheria
+152,Whooping cough,A37,A37,c,ICD10,Sarmento et al (2020),,Whooping cough,Whooping cough,A37,Whooping cough
+153,Syphilis,A51,A51,c,ICD10,Sarmento et al (2020),,Early syphilis,Early syphilis,A51,Early syphilis
+154,Syphilis,A52,A52,c,ICD10,Sarmento et al (2020),,Late syphilis,Late syphilis,A52,Late syphilis
+155,Syphilis,A53,A53,c,ICD10,Sarmento et al (2020),,Other and unspecified syphilis,Other and unspecified syphilis,A53,Other and unspecified syphilis
+156,Other diseases caused by chlamydiae,A69.1,A69,c,ICD10,Sarmento et al (2020),,Other spirochetal infections,Other spirochetal infections,A69.1,Other Vincent's infections
+157,Acute poliomyelitis,A80,A80,c,ICD10,Sarmento et al (2020),,Acute poliomyelitis,Acute poliomyelitis,A80,Acute poliomyelitis
+158,Measles,B05,B05,c,ICD10,Sarmento et al (2020),,Measles,Measles,B05,Measles
+159,Rubella,B06,B06,c,ICD10,Sarmento et al (2020),,Rubella [German measles],Rubella [German measles],B06,Rubella [German measles]
+160,Malignant neoplasms of digestive organs,C18,C18,,ICD10,Sarmento et al (2020),,Malignant neoplasm of colon,Malignant neoplasm of colon,C18,Malignant neoplasm of colon
+161,Malignant neoplasms of digestive organs,C19,C19,,ICD10,Sarmento et al (2020),,Malignant neoplasm of rectosigmoid junction,Malignant neoplasm of rectosigmoid junction,C19,Malignant neoplasm of rectosigmoid junction
+162,Malignant neoplasms of digestive organs,C20,C20,,ICD10,Sarmento et al (2020),,Malignant neoplasm of rectum,Malignant neoplasm of rectum,C20,Malignant neoplasm of rectum
+163,Malignant neoplasms of digestive organs,C21.8,C21,,ICD10,Sarmento et al (2020),,Malignant neoplasm of anus and anal canal,Malignant neoplasm of anus and anal canal,C21.8,"Malig neoplasm of ovrlp sites of rectum, anus and anal canal"
+164,Uterine cervical cancer,C53,C53,d,ICD10,Sarmento et al (2020),,Malignant neoplasm of cervix uteri,Malignant neoplasm of cervix uteri,C53,Malignant neoplasm of cervix uteri
+165,Iron deficiency anemia ,D50,D50,,ICD10,Sarmento et al (2020),,Iron deficiency anemia,Iron deficiency anemia,D50,Iron deficiency anemia
+166,Vitamin B12 deficiency anemia,D51,D51,c,ICD10,Sarmento et al (2020),,Vitamin B12 deficiency anemia,Vitamin B12 deficiency anemia,D51,Vitamin B12 deficiency anemia
+167,Folate deficiency anemia,D52,D52,c,ICD10,Sarmento et al (2020),,Folate deficiency anemia,Folate deficiency anemia,D52,Folate deficiency anemia
+168,Diabetes Mellitus Type 2,E11,E11,,ICD10,Sarmento et al (2020),,Type 2 diabetes mellitus,Type 2 diabetes mellitus,E11,Type 2 diabetes mellitus
+169,Diabetes mellitus (complications) ,E10.1,E10,,ICD10,Sarmento et al (2020),,Type 1 diabetes mellitus,Type 1 diabetes mellitus,E10.1,Type 1 diabetes mellitus with ketoacidosis
+170,Diabetes mellitus (complications) ,E10.5,E10,,ICD10,Sarmento et al (2020),,Type 1 diabetes mellitus,Type 1 diabetes mellitus,E10.5,Type 1 diabetes mellitus with circulatory complications
+171,Diabetes mellitus (complications) ,E10.6,E10,,ICD10,Sarmento et al (2020),,Type 1 diabetes mellitus,Type 1 diabetes mellitus,E10.6,Type 1 diabetes mellitus with other specified complications
+172,Diabetes mellitus (complications) ,E10.8,E10,,ICD10,Sarmento et al (2020),,Type 1 diabetes mellitus,Type 1 diabetes mellitus,E10.8,Type 1 diabetes mellitus with unspecified complications
+173,Diabetes mellitus (complications) ,E10.9,E10,,ICD10,Sarmento et al (2020),,Type 1 diabetes mellitus,Type 1 diabetes mellitus,E10.9,Type 1 diabetes mellitus without complications
+174,Diabetes mellitus (complications) ,E11.0,E11,,ICD10,Sarmento et al (2020),,Type 2 diabetes mellitus,Type 2 diabetes mellitus,E11.0,Type 2 diabetes mellitus with hyperosmolarity
+175,Diabetes mellitus (complications) ,E11.1,E11,,ICD10,Sarmento et al (2020),,Type 2 diabetes mellitus,Type 2 diabetes mellitus,E11.1,Type 2 diabetes mellitus with ketoacidosis
+176,Diabetes mellitus (complications) ,E11.5,E11,,ICD10,Sarmento et al (2020),,Type 2 diabetes mellitus,Type 2 diabetes mellitus,E11.5,Type 2 diabetes mellitus with circulatory complications
+177,Diabetes mellitus (complications) ,E11.6,E11,,ICD10,Sarmento et al (2020),,Type 2 diabetes mellitus,Type 2 diabetes mellitus,E11.6,Type 2 diabetes mellitus with other specified complications
+178,Diabetes mellitus (complications) ,E11.8,E11,,ICD10,Sarmento et al (2020),,Type 2 diabetes mellitus,Type 2 diabetes mellitus,E11.8,Type 2 diabetes mellitus with unspecified complications
+179,Diabetes mellitus (complications) ,E11.9,E11,,ICD10,Sarmento et al (2020),,Type 2 diabetes mellitus,Type 2 diabetes mellitus,E11.9,Type 2 diabetes mellitus without complications
+180,Diabetes mellitus (complications) ,E12.0,E12,,ICD10,Sarmento et al (2020),,,,E12.0,
+181,Diabetes mellitus (complications) ,E12.1,E12,,ICD10,Sarmento et al (2020),,,,E12.1,
+182,Diabetes mellitus (complications) ,E12.5,E12,,ICD10,Sarmento et al (2020),,,,E12.5,
+183,Diabetes mellitus (complications) ,E12.6,E12,,ICD10,Sarmento et al (2020),,,,E12.6,
+184,Diabetes mellitus (complications) ,E12.8,E12,,ICD10,Sarmento et al (2020),,,,E12.8,
+185,Diabetes mellitus (complications) ,E12.9,E12,,ICD10,Sarmento et al (2020),,,,E12.9,
+186,Diabetes mellitus (complications) ,E13.0,E13,,ICD10,Sarmento et al (2020),,Other specified diabetes mellitus,Other specified diabetes mellitus,E13.0,Other specified diabetes mellitus with hyperosmolarity
+187,Diabetes mellitus (complications) ,E13.1,E13,,ICD10,Sarmento et al (2020),,Other specified diabetes mellitus,Other specified diabetes mellitus,E13.1,Other specified diabetes mellitus with ketoacidosis
+188,Diabetes mellitus (complications) ,E13.5,E13,,ICD10,Sarmento et al (2020),,Other specified diabetes mellitus,Other specified diabetes mellitus,E13.5,Oth diabetes mellitus with circulatory complications
+189,Diabetes mellitus (complications) ,E13.6,E13,,ICD10,Sarmento et al (2020),,Other specified diabetes mellitus,Other specified diabetes mellitus,E13.6,Oth diabetes mellitus with other specified complications
+190,Diabetes mellitus (complications) ,E13.8,E13,,ICD10,Sarmento et al (2020),,Other specified diabetes mellitus,Other specified diabetes mellitus,E13.8,Oth diabetes mellitus with unspecified complications
+191,Diabetes mellitus (complications) ,E13.9,E13,,ICD10,Sarmento et al (2020),,Other specified diabetes mellitus,Other specified diabetes mellitus,E13.9,Other specified diabetes mellitus without complications
+192,Diabetes mellitus (complications) ,E14.0,E14,,ICD10,Sarmento et al (2020),,,,E14.0,
+193,Diabetes mellitus (complications) ,E14.1,E14,,ICD10,Sarmento et al (2020),,,,E14.1,
+194,Diabetes mellitus (complications) ,E14.5,E14,,ICD10,Sarmento et al (2020),,,,E14.5,
+195,Diabetes mellitus (complications) ,E14.6,E14,,ICD10,Sarmento et al (2020),,,,E14.6,
+196,Diabetes mellitus (complications) ,E14.8,E14,,ICD10,Sarmento et al (2020),,,,E14.8,
+197,Diabetes mellitus (complications) ,E14.9,E14,,ICD10,Sarmento et al (2020),,,,E14.9,
+198,Diabetes mellitus (complications) ,E15,E15,,ICD10,Sarmento et al (2020),,Nondiabetic hypoglycemic coma,Nondiabetic hypoglycemic coma,E15,Nondiabetic hypoglycemic coma
+199,Obesity ,E66,E66,,ICD10,Sarmento et al (2020),,Overweight and obesity,Overweight and obesity,E66,Overweight and obesity
+200,Dehydration / Hydroelectrolytic changes,E86,E86,,ICD10,Sarmento et al (2020),,Volume depletion,Volume depletion,E86,Volume depletion
+201,Dehydration / Hydroelectrolytic changes,E87.6,E87,,ICD10,Sarmento et al (2020),,"Other disorders of fluid, electrolyte and acid-base balance","Other disorders of fluid, electrolyte and acid-base balance",E87.6,Hypokalemia
+202,Dementia ,F01,F01,,ICD10,Sarmento et al (2020),,Vascular dementia,Vascular dementia,F01,Vascular dementia
+203,Dementia ,F03,F03,,ICD10,Sarmento et al (2020),,Unspecified dementia,Unspecified dementia,F03,Unspecified dementia
+204,Depression,F32,F32,,ICD10,Sarmento et al (2020),,Depressive episode,Depressive episode,F32,Depressive episode
+205,Depression,F33,F33,,ICD10,Sarmento et al (2020),,"Major depressive disorder, recurrent","Major depressive disorder, recurrent",F33,"Major depressive disorder, recurrent"
+206,Dementia,G30,G30,,ICD10,Sarmento et al (2020),,Alzheimer's disease,Alzheimer's disease,G30,Alzheimer's disease
+207,Dementia,G31.0,G31,,ICD10,Sarmento et al (2020),,"Oth degenerative diseases of nervous system, NEC","Oth degenerative diseases of nervous system, NEC",G31.0,Frontotemporal dementia
+208,Dementia,G31.8,G31,,ICD10,Sarmento et al (2020),,"Oth degenerative diseases of nervous system, NEC","Oth degenerative diseases of nervous system, NEC",G31.8,Other specified degenerative diseases of nervous system
+209,Acute otitis media,H65.0,H65,c,ICD10,Sarmento et al (2020),,Nonsuppurative otitis media,Nonsuppurative otitis media,H65.0,Acute serous otitis media
+210,Acute otitis media,H65.1,H65,c,ICD10,Sarmento et al (2020),,Nonsuppurative otitis media,Nonsuppurative otitis media,H65.1,Other acute nonsuppurative otitis media
+211,Acute otitis media,H66.0,H66,c,ICD10,Sarmento et al (2020),,Suppurative and unspecified otitis media,Suppurative and unspecified otitis media,H66.0,Acute suppurative otitis media
+212,Hypertensive diseases,I10,I10,,ICD10,Sarmento et al (2020),,Essential (primary) hypertension,Essential (primary) hypertension,I10,Essential (primary) hypertension
+213,Hypertensive diseases,I11.9,I11,,ICD10,Sarmento et al (2020),,Hypertensive heart disease,Hypertensive heart disease,I11.9,Hypertensive heart disease without heart failure
+214,Hypertensive diseases,I12,I12,,ICD10,Sarmento et al (2020),,Hypertensive chronic kidney disease,Hypertensive chronic kidney disease,I12,Hypertensive chronic kidney disease
+215,Hypertensive diseases,I13.1,I13,,ICD10,Sarmento et al (2020),,Hypertensive heart and chronic kidney disease,Hypertensive heart and chronic kidney disease,I13.1,Hypertensive heart and chronic kidney disease w/o hrt fail
+216,Hypertensive diseases,I13.9,I13,,ICD10,Sarmento et al (2020),,Hypertensive heart and chronic kidney disease,Hypertensive heart and chronic kidney disease,I13.9,
+217,Hypertensive diseases,I15,I15,,ICD10,Sarmento et al (2020),,Secondary hypertension,Secondary hypertension,I15,Secondary hypertension
+218,Heart failure ,I11.0,I11,,ICD10,Sarmento et al (2020),,Hypertensive heart disease,Hypertensive heart disease,I11.0,Hypertensive heart disease with heart failure
+219,Heart failure ,I13.0,I13,,ICD10,Sarmento et al (2020),,Hypertensive heart and chronic kidney disease,Hypertensive heart and chronic kidney disease,I13.0,Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny
+220,Heart failure ,I13.2,I13,,ICD10,Sarmento et al (2020),,Hypertensive heart and chronic kidney disease,Hypertensive heart and chronic kidney disease,I13.2,Hyp hrt & chr kdny dis w hrt fail and w stg 5 chr kdny/ESRD
+221,Atrial fibrillation ,I48,I48,,ICD10,Sarmento et al (2020),,Atrial fibrillation and flutter,Atrial fibrillation and flutter,I48,Atrial fibrillation and flutter
+222,Heart failure ,I50,I50,,ICD10,Sarmento et al (2020),,Heart failure,Heart failure,I50,Heart failure
+223,"Hypertension, hypotension, atherosclerosis, heart failure, thrombosis, phlebitis and thrombophlebitis",I50,I50,,ICD10,Sarmento et al (2020),,Heart failure,Heart failure,I50,Heart failure
+224,Hypertensive diseases,I60,I60,,ICD10,Sarmento et al (2020),,Nontraumatic subarachnoid hemorrhage,Nontraumatic subarachnoid hemorrhage,I60,Nontraumatic subarachnoid hemorrhage
+225,Hypertensive diseases,I61,I61,,ICD10,Sarmento et al (2020),,Nontraumatic intracerebral hemorrhage,Nontraumatic intracerebral hemorrhage,I61,Nontraumatic intracerebral hemorrhage
+226,Hypertensive diseases,I64,I64,,ICD10,Sarmento et al (2020),,,,I64,
+227,Hypertensive diseases,I67.4,I67,,ICD10,Sarmento et al (2020),,Other cerebrovascular diseases,Other cerebrovascular diseases,I67.4,Hypertensive encephalopathy
+228,Thromboembolic venous diseasea,I80,I80,d,ICD10,Sarmento et al (2020),,Phlebitis and thrombophlebitis,Phlebitis and thrombophlebitis,I80,Phlebitis and thrombophlebitis
+229,Thromboembolic venous diseasea,I82.2,I82,d,ICD10,Sarmento et al (2020),,Other venous embolism and thrombosis,Other venous embolism and thrombosis,I82.2,Embolism and thrombosis of vena cava and oth thoracic veins
+230,Thromboembolic venous diseasea,I82.3,I82,d,ICD10,Sarmento et al (2020),,Other venous embolism and thrombosis,Other venous embolism and thrombosis,I82.3,Embolism and thrombosis of renal vein
+231,Thromboembolic venous diseasea,I82.8,I82,d,ICD10,Sarmento et al (2020),,Other venous embolism and thrombosis,Other venous embolism and thrombosis,I82.8,Embolism and thrombosis of other specified veins
+232,Thromboembolic venous diseasea,I82.9,I82,d,ICD10,Sarmento et al (2020),,Other venous embolism and thrombosis,Other venous embolism and thrombosis,I82.9,Embolism and thrombosis of unspecified vein
+233,Acute sinusitis,J01,J01,c,ICD10,Sarmento et al (2020),,Acute sinusitis,Acute sinusitis,J01,Acute sinusitis
+234,Acute pharyngitis,J02,J02,d,ICD10,Sarmento et al (2020),,Acute pharyngitis,Acute pharyngitis,J02,Acute pharyngitis
+235,Acute tonsillitis,J03,J03,d,ICD10,Sarmento et al (2020),,Acute tonsillitis,Acute tonsillitis,J03,Acute tonsillitis
+236,Upper respiratory tract infection,J06,J06,d,ICD10,Sarmento et al (2020),,Acute upper resp infections of multiple and unsp sites,Acute upper resp infections of multiple and unsp sites,J06,Acute upper resp infections of multiple and unsp sites
+237,Influenza ,J09,J09,,ICD10,Sarmento et al (2020),,Influenza due to certain identified influenza viruses,Influenza due to certain identified influenza viruses,J09,Influenza due to certain identified influenza viruses
+238,Influenza ,J10,J10,,ICD10,Sarmento et al (2020),,Influenza due to other identified influenza virus,Influenza due to other identified influenza virus,J10,Influenza due to other identified influenza virus
+239,Influenza ,J11,J11,,ICD10,Sarmento et al (2020),,Influenza due to unidentified influenza virus,Influenza due to unidentified influenza virus,J11,Influenza due to unidentified influenza virus
+240,Pneumonia ,J13,J13,,ICD10,Sarmento et al (2020),,Pneumonia due to Streptococcus pneumoniae,Pneumonia due to Streptococcus pneumoniae,J13,Pneumonia due to Streptococcus pneumoniae
+241,Pneumonia ,J14,J14,,ICD10,Sarmento et al (2020),,Pneumonia due to Hemophilus influenzae,Pneumonia due to Hemophilus influenzae,J14,Pneumonia due to Hemophilus influenzae
+242,Pneumonia ,J15.3,J15,,ICD10,Sarmento et al (2020),,"Bacterial pneumonia, not elsewhere classified","Bacterial pneumonia, not elsewhere classified",J15.3,"Pneumonia due to streptococcus, group B"
+243,Pneumonia ,J15.4,J15,,ICD10,Sarmento et al (2020),,"Bacterial pneumonia, not elsewhere classified","Bacterial pneumonia, not elsewhere classified",J15.4,Pneumonia due to other streptococci
+244,Pneumonia ,J15.7,J15,,ICD10,Sarmento et al (2020),,"Bacterial pneumonia, not elsewhere classified","Bacterial pneumonia, not elsewhere classified",J15.7,Pneumonia due to Mycoplasma pneumoniae
+245,Pneumonia ,J15.8,J15,,ICD10,Sarmento et al (2020),,"Bacterial pneumonia, not elsewhere classified","Bacterial pneumonia, not elsewhere classified",J15.8,Pneumonia due to other specified bacteria
+246,Pneumonia ,J15.9,J15,,ICD10,Sarmento et al (2020),,"Bacterial pneumonia, not elsewhere classified","Bacterial pneumonia, not elsewhere classified",J15.9,Unspecified bacterial pneumonia
+247,Pneumonia ,J16.0,J16,,ICD10,Sarmento et al (2020),,"Pneumonia due to oth infectious organisms, NEC","Pneumonia due to oth infectious organisms, NEC",J16.0,Chlamydial pneumonia
+248,Pneumonia ,J16.8,J16,,ICD10,Sarmento et al (2020),,"Pneumonia due to oth infectious organisms, NEC","Pneumonia due to oth infectious organisms, NEC",J16.8,Pneumonia due to other specified infectious organisms
+249,Pneumonia ,J18,J18,,ICD10,Sarmento et al (2020),,"Pneumonia, unspecified organism","Pneumonia, unspecified organism",J18,"Pneumonia, unspecified organism"
+250,Chronic obstructive pulmonary disease / chronic bronchitis,J40,J40,,ICD10,Sarmento et al (2020),,"Bronchitis, not specified as acute or chronic","Bronchitis, not specified as acute or chronic",J40,"Bronchitis, not specified as acute or chronic"
+251,Chronic obstructive pulmonary disease / chronic bronchitis,J41,J41,,ICD10,Sarmento et al (2020),,Simple and mucopurulent chronic bronchitis,Simple and mucopurulent chronic bronchitis,J41,Simple and mucopurulent chronic bronchitis
+252,Chronic obstructive pulmonary disease / chronic bronchitis,J42,J42,,ICD10,Sarmento et al (2020),,Unspecified chronic bronchitis,Unspecified chronic bronchitis,J42,Unspecified chronic bronchitis
+253,Chronic obstructive pulmonary disease / chronic bronchitis,J43,J43,,ICD10,Sarmento et al (2020),,Emphysema,Emphysema,J43,Emphysema
+254,Chronic obstructive pulmonary disease / chronic bronchitis,J44,J44,,ICD10,Sarmento et al (2020),,Other chronic obstructive pulmonary disease,Other chronic obstructive pulmonary disease,J44,Other chronic obstructive pulmonary disease
+255,Chronic obstructive pulmonary disease / chronic bronchitis,J47,J47,,ICD10,Sarmento et al (2020),,Bronchiectasis,Bronchiectasis,J47,Bronchiectasis
+256,Asthma,J45,J45,,ICD10,Sarmento et al (2020),,Asthma,Asthma,J45,Asthma
+257,Asthma,J46,J46,,ICD10,Sarmento et al (2020),,,,J46,
+258,Heart failure ,J81,J81,,ICD10,Sarmento et al (2020),,Pulmonary edema,Pulmonary edema,J81,Pulmonary edema
+259,Dental and oral cavity pathology ,K02,K02,,ICD10,Sarmento et al (2020),,Dental caries,Dental caries,K02,Dental caries
+260,Dental and oral cavity pathology ,K03,K03,,ICD10,Sarmento et al (2020),,Other diseases of hard tissues of teeth,Other diseases of hard tissues of teeth,K03,Other diseases of hard tissues of teeth
+261,Dental and oral cavity pathology ,K04,K04,,ICD10,Sarmento et al (2020),,Diseases of pulp and periapical tissues,Diseases of pulp and periapical tissues,K04,Diseases of pulp and periapical tissues
+262,Dental and oral cavity pathology ,K05,K05,,ICD10,Sarmento et al (2020),,Gingivitis and periodontal diseases,Gingivitis and periodontal diseases,K05,Gingivitis and periodontal diseases
+263,Dental and oral cavity pathology ,K06,K06,,ICD10,Sarmento et al (2020),,Other disorders of gingiva and edentulous alveolar ridge,Other disorders of gingiva and edentulous alveolar ridge,K06,Other disorders of gingiva and edentulous alveolar ridge
+264,Dental and oral cavity pathology ,K08,K08,,ICD10,Sarmento et al (2020),,Other disorders of teeth and supporting structures,Other disorders of teeth and supporting structures,K08,Other disorders of teeth and supporting structures
+265,Dental and oral cavity pathology ,K09,K09,,ICD10,Sarmento et al (2020),,"Cysts of oral region, not elsewhere classified","Cysts of oral region, not elsewhere classified",K09,"Cysts of oral region, not elsewhere classified"
+266,Dental and oral cavity pathology ,K12,K12,,ICD10,Sarmento et al (2020),,Stomatitis and related lesions,Stomatitis and related lesions,K12,Stomatitis and related lesions
+267,Dental and oral cavity pathology ,K13,K13,,ICD10,Sarmento et al (2020),,Other diseases of lip and oral mucosa,Other diseases of lip and oral mucosa,K13,Other diseases of lip and oral mucosa
+268,Dental and oral cavity pathology ,K14,K14,,ICD10,Sarmento et al (2020),,Diseases of tongue,Diseases of tongue,K14,Diseases of tongue
+269,Acute skin infections ,L01,L01,,ICD10,Sarmento et al (2020),,Impetigo,Impetigo,L01,Impetigo
+270,Acute skin infections ,L02,L02,,ICD10,Sarmento et al (2020),,"Cutaneous abscess, furuncle and carbuncle","Cutaneous abscess, furuncle and carbuncle",L02,"Cutaneous abscess, furuncle and carbuncle"
+271,Acute skin infections ,L03,L03,,ICD10,Sarmento et al (2020),,Cellulitis and acute lymphangitis,Cellulitis and acute lymphangitis,L03,Cellulitis and acute lymphangitis
+272,Acute skin infections ,L04,L04,,ICD10,Sarmento et al (2020),,Acute lymphadenitis,Acute lymphadenitis,L04,Acute lymphadenitis
+273,Acute skin infections ,L08,L08,,ICD10,Sarmento et al (2020),,Other local infections of skin and subcutaneous tissue,Other local infections of skin and subcutaneous tissue,L08,Other local infections of skin and subcutaneous tissue
+274,Urinary tract infections ,N10,N10,,ICD10,Sarmento et al (2020),,Acute pyelonephritis,Acute pyelonephritis,N10,Acute pyelonephritis
+275,Urinary tract infections ,N11,N11,,ICD10,Sarmento et al (2020),,Chronic tubulo-interstitial nephritis,Chronic tubulo-interstitial nephritis,N11,Chronic tubulo-interstitial nephritis
+276,Urinary tract infections ,N12,N12,,ICD10,Sarmento et al (2020),,"Tubulo-interstitial nephritis, not spcf as acute or chronic","Tubulo-interstitial nephritis, not spcf as acute or chronic",N12,"Tubulo-interstitial nephritis, not spcf as acute or chronic"
+277,Urinary tract infections ,N30.0,N30,,ICD10,Sarmento et al (2020),,Cystitis,Cystitis,N30.0,Acute cystitis
+278,Urinary tract infections ,N30.8,N30,,ICD10,Sarmento et al (2020),,Cystitis,Cystitis,N30.8,Other cystitis
+279,Urinary tract infections ,N30.9,N30,,ICD10,Sarmento et al (2020),,Cystitis,Cystitis,N30.9,"Cystitis, unspecified"
+280,Urinary tract infections in pregnancy,O23.0,O23,c,ICD10,Sarmento et al (2020),,Infections of genitourinary tract in pregnancy,Infections of genitourinary tract in pregnancy,O23.0,Infections of kidney in pregnancy
+281,Urinary tract infections in pregnancy,O23.1,O23,c,ICD10,Sarmento et al (2020),,Infections of genitourinary tract in pregnancy,Infections of genitourinary tract in pregnancy,O23.1,Infections of bladder in pregnancy
+282,Urinary tract infections in pregnancy,O23.2,O23,c,ICD10,Sarmento et al (2020),,Infections of genitourinary tract in pregnancy,Infections of genitourinary tract in pregnancy,O23.2,Infections of urethra in pregnancy
+283,Urinary tract infections in pregnancy,O23.3,O23,c,ICD10,Sarmento et al (2020),,Infections of genitourinary tract in pregnancy,Infections of genitourinary tract in pregnancy,O23.3,Infections of other parts of urinary tract in pregnancy
+284,Urinary tract infections in pregnancy,O23.4,O23,c,ICD10,Sarmento et al (2020),,Infections of genitourinary tract in pregnancy,Infections of genitourinary tract in pregnancy,O23.4,Unspecified infection of urinary tract in pregnancy
+285,Urinary tract infections in pregnancy,O23.9,O23,c,ICD10,Sarmento et al (2020),,Infections of genitourinary tract in pregnancy,Infections of genitourinary tract in pregnancy,O23.9,Unspecified genitourinary tract infection in pregnancy
+286,Superficial injuries,T00.9,T00,c,ICD10,Sarmento et al (2020),,,,T00.9,
+287,Superficial injuries,T14.0,T14,d,ICD10,Sarmento et al (2020),,Injury of unspecified body region,Injury of unspecified body region,T14.0,
+288,Superficial injuries,T14.03,T14,d,ICD10,Sarmento et al (2020),,Injury of unspecified body region,Injury of unspecified body region,T14.03,
+289,Voluntary termination of pregnancy,Z33.2,Z33,d,ICD10,Sarmento et al (2020),,Pregnant state,Pregnant state,Z33.2,Encounter for elective termination of pregnancy
+290,Otras tuberculosis ,012,012,,ICD9,Caminal et al (2001),,"Tuberculous pleurisy, unspecified","Tuberculous pleurisy, unspecified",A156,Tuberculous pleurisy
+291,Otras tuberculosis ,013,013,,ICD9,Caminal et al (2001),,"Tuberculous meningitis, unspecified","Tuberculous meningitis, unspecified",A170,Tuberculous meningitis
+292,Otras tuberculosis ,014,014,,ICD9,Caminal et al (2001),,"Tuberculous peritonitis, unspecified","Tuberculous peritonitis, unspecified",A1831,Tuberculous peritonitis
+293,Otras tuberculosis ,015,015,,ICD9,Caminal et al (2001),,"Tuberculosis of vertebral column, unspecified","Tuberculosis of vertebral column, unspecified",A1801,Tuberculosis of spine
+294,Otras tuberculosis ,016,016,,ICD9,Caminal et al (2001),,"Tuberculosis of kidney, unspecified","Tuberculosis of kidney, unspecified",A1811,Tuberculosis of kidney and ureter
+295,Otras tuberculosis ,017,017,,ICD9,Caminal et al (2001),,"Tuberculosis of skin and subcutaneous cellular tissue, unspecified","Tuberculosis of skin and subcutaneous cellular tissue, unspecified",A184,Tuberculosis of skin and subcutaneous tissue
+296,Otras tuberculosis ,018,018,,ICD9,Caminal et al (2001),,"Acute miliary tuberculosis, unspecified","Acute miliary tuberculosis, unspecified",A192,"Acute miliary tuberculosis, unspecified"
+297,Difteria,032,032,,ICD9,Caminal et al (2001),,,,,
+298,Tétanos,037,037,,ICD9,Caminal et al (2001),,,,,
+299,Poliomielitis aguda,045,045,,ICD9,Caminal et al (2001),,"Acute paralytic poliomyelitis specified as bulbar, poliovirus, unspecified type","Acute paralytic poliomyelitis specified as bulbar, poliovirus, unspecified type",A8039,Other acute paralytic poliomyelitis
+300,Sífilis congénita,090,090,,ICD9,Caminal et al (2001),,,,,
+301,Diabetes con complicaciones generales agudas ,250.1,250,,ICD9,Caminal et al (2001),,"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled","Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",E1110,Type 2 diabetes mellitus with ketoacidosis without coma
+302,Diabetes con complicaciones generales agudas ,250.2,250,,ICD9,Caminal et al (2001),,"Diabetes with hyperosmolarity, type II or unspecified type, not stated as uncontrolled","Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",E1100,Type 2 diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)
+303,Diabetes con complicaciones generales agudas ,250.3,250,,ICD9,Caminal et al (2001),,"Diabetes with other coma, type II or unspecified type, not stated as uncontrolled","Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",E1111,Type 2 diabetes mellitus with ketoacidosis with coma
+304,Coma hipoglucémico ,251.0,251,,ICD9,Caminal et al (2001),,,,,
+305,Gangrena  (785.4) + diabetes con trastornos circulatorios periféricos (250.7),785.4,785,,ICD9,Caminal et al (2001),Originally described as  Gangrene + Diabetes with peripheral circulatory disorders coded as 785.4 + 250.7 but codes added separately to normalize data,,,,
+306,Gangrena  (785.4) + diabetes con trastornos circulatorios periféricos (250.7),250.7,250,,ICD9,Caminal et al (2001),,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled","Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",E1151,Type 2 diabetes w diabetic peripheral angiopath w/o gangrene
+307,Hipopotasemia ,276.8,276,,ICD9,Caminal et al (2001),,,,,
+308,Disminución de volumen/deshidratación ,276.5,276,,ICD9,Caminal et al (2001),,"Volume depletion, unspecified",,E869,"Volume depletion, unspecified"
+309,Meningitis por hemófilo,320.0,320,,ICD9,Caminal et al (2001),,,,,
+310,Fiebre reumática ,390,390,,ICD9,Caminal et al (2001),,,,,
+311,Fiebre reumática ,391,391,,ICD9,Caminal et al (2001),,,,,
+312,Hipertensión esencial maligna ,401.0,401,,ICD9,Caminal et al (2001),,,,,
+313,Enfermedad cardíaca hipertensiva maligna con IC ,402.01,402,,ICD9,Caminal et al (2001),,Malignant hypertensive heart disease with heart failure,Malignant hypertensive heart disease without heart failure,I110,Hypertensive heart disease with heart failure
+314,Enfermedad cardíaca hipertensiva benigna con IC ,402.11,402,,ICD9,Caminal et al (2001),,Benign hypertensive heart disease with heart failure,Malignant hypertensive heart disease without heart failure,I110,Hypertensive heart disease with heart failure
+315,Enfermedad cardíaca hipertensiva sin especificar con IC ,402.91,402,,ICD9,Caminal et al (2001),,Unspecified hypertensive heart disease with heart failure,Malignant hypertensive heart disease without heart failure,I110,Hypertensive heart disease with heart failure
+316,Enfermedad renal hipertensiva maligna,403.0,403,,ICD9,Caminal et al (2001),,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified","Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified",I129,Hypertensive chronic kidney disease w stg 1-4/unsp chr kdny
+317,Enfermedad cardíaca y renal hipertensiva maligna ,404.0,404,,ICD9,Caminal et al (2001),,"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified","Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified",I1310,"Hyp hrt & chr kdny dis w/o hrt fail, w stg 1-4/unsp chr kdny"
+318,Hipertensión secundaria maligna, 405.0, 40,,ICD9,Caminal et al (2001),,,,,
+319,Enfermedad cardíaca isquémica,410,410,,ICD9,Caminal et al (2001),,"Acute myocardial infarction of anterolateral wall, episode of care unspecified","Acute myocardial infarction of anterolateral wall, episode of care unspecified",I2109,STEMI involving oth coronary artery of anterior wall
+320,Enfermedad cardíaca isquémica,411,411,,ICD9,Caminal et al (2001),,,,,
+321,Enfermedad cardíaca isquémica,412,412,,ICD9,Caminal et al (2001),,,,,
+322,Enfermedad cardíaca isquémica,413,413,,ICD9,Caminal et al (2001),,,,,
+323,Enfermedad cardíaca isquémica,414,414,,ICD9,Caminal et al (2001),,"Coronary atherosclerosis of unspecified type of vessel, native or graft","Coronary atherosclerosis of unspecified type of vessel, native or graft",I2510,Athscl heart disease of native coronary artery w/o ang pctrs
+324,Fallo cardíaco ,428,428,,ICD9,Caminal et al (2001),,,,,
+325,Enfermedad cerebrovascular,430,430,,ICD9,Caminal et al (2001),,,,,
+326,Enfermedad cerebrovascular,431,431,,ICD9,Caminal et al (2001),,,,,
+327,Enfermedad cerebrovascular,436,436,,ICD9,Caminal et al (2001),,,,,
+328,Enfermedad cerebrovascular,437.2,437,,ICD9,Caminal et al (2001),,,,,
+329,Absceso peritonsilar,475,475,,ICD9,Caminal et al (2001),,,,,
+330,Neumonía debida a hemófilo ,482.2,482,,ICD9,Caminal et al (2001),,,,,
+331,Neumonía debida a estreptococos ,482.3,482,,ICD9,Caminal et al (2001),,"Pneumonia due to Streptococcus, unspecified",,J154,Pneumonia due to other streptococci
+332,Neumonía debida a otro organismo especificado ,483,483,,ICD9,Caminal et al (2001),,,,,
+333,"Bronconeumonía/neumonía, por organismo sin especificar ",485,485,,ICD9,Caminal et al (2001),,,,,
+334,"Bronconeumonía/neumonía, por organismo sin especificar ",486,486,,ICD9,Caminal et al (2001),,,,,
+335,"Edema agudo de pulmón, sin especificar ",518.4,518,,ICD9,Caminal et al (2001),,,,,
+336,"Úlcera gástrica aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ",531.0,531,,ICD9,Caminal et al (2001),,"Acute gastric ulcer with hemorrhage, without mention of obstruction","Acute gastric ulcer with hemorrhage, without mention of obstruction",K250,Acute gastric ulcer with hemorrhage
+337,"Úlcera gástrica aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ",531.2,531,,ICD9,Caminal et al (2001),,"Acute gastric ulcer with hemorrhage and perforation, without mention of obstruction","Acute gastric ulcer with hemorrhage, without mention of obstruction",K252,Acute gastric ulcer with both hemorrhage and perforation
+338,"Úlcera gástrica aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ",531.4,531,,ICD9,Caminal et al (2001),,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction","Acute gastric ulcer with hemorrhage, without mention of obstruction",K254,Chronic or unspecified gastric ulcer with hemorrhage
+339,"Úlcera gástrica aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ",531.6,531,,ICD9,Caminal et al (2001),,"Chronic or unspecified gastric ulcer with hemorrhage and perforation, without mention of obstruction","Acute gastric ulcer with hemorrhage, without mention of obstruction",K256,Chronic or unsp gastric ulcer w both hemorrhage and perf
+340,"Úlcera duodenal aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación",532.0,532,,ICD9,Caminal et al (2001),,"Acute duodenal ulcer with hemorrhage, without mention of obstruction","Acute duodenal ulcer with hemorrhage, without mention of obstruction",K260,Acute duodenal ulcer with hemorrhage
+341,"Úlcera duodenal aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación",532.2,532,,ICD9,Caminal et al (2001),,"Acute duodenal ulcer with hemorrhage and perforation, without mention of obstruction","Acute duodenal ulcer with hemorrhage, without mention of obstruction",K262,Acute duodenal ulcer with both hemorrhage and perforation
+342,"Úlcera duodenal aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación",532.4,532,,ICD9,Caminal et al (2001),,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction","Acute duodenal ulcer with hemorrhage, without mention of obstruction",K264,Chronic or unspecified duodenal ulcer with hemorrhage
+343,"Úlcera duodenal aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación",532.6,532,,ICD9,Caminal et al (2001),,"Chronic or unspecified duodenal ulcer with hemorrhage and perforation, without mention of obstruction","Acute duodenal ulcer with hemorrhage, without mention of obstruction",K266,Chronic or unsp duodenal ulcer w both hemorrhage and perf
+344,"Úlcera péptica, sitio no especificado, aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ",533.0,533,,ICD9,Caminal et al (2001),,"Acute peptic ulcer of unspecified site with hemorrhage, without mention of obstruction","Acute peptic ulcer of unspecified site with hemorrhage, without mention of obstruction",K270,"Acute peptic ulcer, site unspecified, with hemorrhage"
+345,"Úlcera péptica, sitio no especificado, aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ",533.2,533,,ICD9,Caminal et al (2001),,"Acute peptic ulcer of unspecified site with hemorrhage and perforation, without mention of obstruction","Acute peptic ulcer of unspecified site with hemorrhage, without mention of obstruction",K272,"Acute peptic ulcer, site unsp, w both hemorrhage and perf"
+346,"Úlcera péptica, sitio no especificado, aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ",533.4,533,,ICD9,Caminal et al (2001),,"Chronic or unspecified peptic ulcer of unspecified site with hemorrhage, without mention of obstruction","Acute peptic ulcer of unspecified site with hemorrhage, without mention of obstruction",K274,"Chronic or unsp peptic ulcer, site unsp, with hemorrhage"
+347,"Úlcera péptica, sitio no especificado, aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ",533.6,533,,ICD9,Caminal et al (2001),,"Chronic or unspecified peptic ulcer of unspecified site with hemorrhage and perforation, without mention of obstruction","Acute peptic ulcer of unspecified site with hemorrhage, without mention of obstruction",K276,"Chr or unsp peptic ulcer, site unsp, w both hemor and perf"
+348,Apendicitis aguda con peritonitis generalizada,540.0,540,,ICD9,Caminal et al (2001),,,,,
+349,Apendicitis aguda con absceso peritoneal,540.1,540,,ICD9,Caminal et al (2001),,,,,
+350,Pielonefritis aguda,590.1,590,,ICD9,Caminal et al (2001),,Acute pyelonephritis without lesion of renal medullary necrosis,Chronic pyelonephritis without lesion of renal medullary necrosis,N10,Acute pyelonephritis
+351,"Enfermedad inflamatoria de ovario, trompa de Falopio, tejido celular pélvico y peritoneo",614,614,,ICD9,Caminal et al (2001),,,,,
