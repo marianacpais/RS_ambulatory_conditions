@@ -1,0 +1,1111 @@
+id;original_description;code;nearest_level1_code;original_code_system;article;code_description;level1_code_description;umls_cui;level1_umls_cui
+1;Intestinal infectious diseases;A09.0;A09;ICD10;Schuettig et al (2019);ERROR;Infectious gastroenteritis and colitis, unspecified;ERROR - atom;C0021342
+2;Intestinal infectious diseases;A09.9;A09;ICD10;Schuettig et al (2019);ERROR;Infectious gastroenteritis and colitis, unspecified;ERROR - atom;C0021342
+3;Infections of the skin and subcutaneous tissue;A46;A46;ICD10;Schuettig et al (2019);Erysipelas;Erysipelas;C0014733;C0014733
+4;HBV acute infectiona ;B16;B16;ICD10;Schuettig et al (2019);Acute hepatitis B;Acute hepatitis B;C0276609;C0276609
+5;HBV chronic infection;B18.0;B18;ICD10;Schuettig et al (2019);Chronic viral hepatitis B with delta-agent;Chronic viral hepatitis;C0400918;C0549126
+6;HBV chronic infection;B18.1;B18;ICD10;Schuettig et al (2019);Chronic viral hepatitis B without delta-agent;Chronic viral hepatitis;C2911652;C0549126
+7;Certain infectious and parasitic diseases ;B34.9;B34;ICD10;Schuettig et al (2019);Viral infection, unspecified;Viral infection of unspecified site;C0042769;C0042769
+8;Infectious parotitis;B26;B26;ICD10;Schuettig et al (2019);Mumps;Mumps;C0026780;C0026780
+9;Certain infectious and parasitic diseases ;B85.0;B85;ICD10;Schuettig et al (2019);Pediculosis due to Pediculus humanus capitis;Pediculosis and phthiriasis;C0030757;C0153317
+10;Certain infectious and parasitic diseases ;B86;B86;ICD10;Schuettig et al (2019);Scabies;Scabies;C0036262;C0036262
+11;Certain infectious and parasitic diseases ;B99;B99;ICD10;Schuettig et al (2019);Other and unspecified infectious diseases;Other and unspecified infectious diseases;C0348336;C0348336
+12;Diabetes mellitus;E11;E11;ICD10;Schuettig et al (2019);Type 2 diabetes mellitus;Type 2 diabetes mellitus;C0011847;C0011847
+13;Mood [affective] disorders;F32;F32;ICD10;Schuettig et al (2019);Depressive episode;Depressive episode;C0349217;C0349217
+14;Mood [affective] disorders;F33;F33;ICD10;Schuettig et al (2019);Major depressive disorder, recurrent;Major depressive disorder, recurrent;;
+15;Mood [affective] disorders;F34;F34;ICD10;Schuettig et al (2019);Persistent mood [affective] disorders;Persistent mood [affective] disorders;C0349224;C0349224
+16;Mood [affective] disorders;F38;F38;ICD10;Schuettig et al (2019);ERROR;ERROR;ERROR - atom;ERROR - atom
+17;Mood [affective] disorders;F39;F39;ICD10;Schuettig et al (2019);Unspecified mood [affective] disorder;Unspecified mood [affective] disorder;;
+18;Diseases of the nervous system;G35.1;G35;ICD10;Schuettig et al (2019);ERROR;Multiple sclerosis;ERROR - atom;C0026769
+19;Diseases of the nervous system;G58.0;G58;ICD10;Schuettig et al (2019);Intercostal neuropathy;Other mononeuropathies;C0393897;C0494490
+20;Diseases of the eye and adnex;H10.9;H10;ICD10;Schuettig et al (2019);Unspecified conjunctivitis;Conjunctivitis;C0009763;C0009763
+21;Diseases of the ear and mastoid process;H91.2;H91;ICD10;Schuettig et al (2019);Sudden idiopathic hearing loss;Other and unspecified hearing loss;C4316900;C2881946
+22;Diseases of the ear and mastoid process;H93.1;H93;ICD10;Schuettig et al (2019);Tinnitus;Other disorders of ear, not elsewhere classified;C0040264;C0494566
+23;Hypertensive diseases;I10.0;I10;ICD10;Schuettig et al (2019);ERROR;Essential (primary) hypertension;ERROR - atom;C0085580
+24;Hypertensive diseases;I10.9;I10;ICD10;Schuettig et al (2019);ERROR;Essential (primary) hypertension;ERROR - atom;C0085580
+25;Diseases of the circulatory system;I80;I80;ICD10;Schuettig et al (2019);Phlebitis and thrombophlebitis;Phlebitis and thrombophlebitis;C0031542;C0031542
+26;Diseases of the circulatory system;I83;I83;ICD10;Schuettig et al (2019);Varicose veins of lower extremities;Varicose veins of lower extremities;C0155778;C0155778
+27;ENT infections;J00;J00;ICD10;Schuettig et al (2019);Acute nasopharyngitis [common cold];Acute nasopharyngitis [common cold];C0009443;C0009443
+28;ENT infections;J02.9;J02;ICD10;Schuettig et al (2019);Acute pharyngitis, unspecified;Acute pharyngitis;;
+29;ENT infections;J03.9;J03;ICD10;Schuettig et al (2019);Acute tonsillitis, unspecified;Acute tonsillitis;;C0001361
+30;ENT infections;J04.0;J04;ICD10;Schuettig et al (2019);Acute laryngitis;Acute laryngitis and tracheitis;C0001327;C0155811
+31;ENT infections;J06.8;J06;ICD10;Schuettig et al (2019);ERROR;Acute upper respiratory infections of multiple and unspecified sites;ERROR - atom;C0264223
+32;ENT infections;J06.9;J06;ICD10;Schuettig et al (2019);Acute upper respiratory infection, unspecified;Acute upper respiratory infections of multiple and unspecified sites;C0264222;C0264223
+33;ENT infections;J20.9;J20;ICD10;Schuettig et al (2019);Acute bronchitis, unspecified;Acute bronchitis;C0149514;C0149514
+34;Bronchitis;J40;J40;ICD10;Schuettig et al (2019);Bronchitis, not specified as acute or chronic;Bronchitis, not specified as acute or chronic;C0006277;C0006277
+35;Diseases of oral cavity, salivary glands and jaws;K11.2;K11;ICD10;Schuettig et al (2019);Sialoadenitis;Diseases of salivary glands;C0037023;C0036093
+36;Diseases of oral cavity, salivary glands and jaws;K12.0;K12;ICD10;Schuettig et al (2019);Recurrent oral aphthae;Stomatitis and related lesions;C0086789;C0494713
+37;Diseases of oral cavity, salivary glands and jaws;K14.0;K14;ICD10;Schuettig et al (2019);Glossitis;Diseases of tongue;C0017675;C0040409
+38;Diseases of the digestive system;K52.9;K52;ICD10;Schuettig et al (2019);Noninfective gastroenteritis and colitis, unspecified;Other and unspecified noninfective gastroenteritis and colitis;C0341276;C0029512
+39;Diseases of the digestive system;K59.0;K59;ICD10;Schuettig et al (2019);Constipation;Other functional intestinal disorders;C0009806;C0341089
+40;Diseases of the digestive system;K59.1;K59;ICD10;Schuettig et al (2019);Functional diarrhea;Other functional intestinal disorders;C0156173;C0341089
+41;Infections of the skin and subcutaneous tissue;L03.0;L03;ICD10;Schuettig et al (2019);Cellulitis and acute lymphangitis of finger and toe;Cellulitis and acute lymphangitis;C0030578;C2888134
+42;Dermatitis, eczema and other disease of the skin;L20.8;L20;ICD10;Schuettig et al (2019);Other atopic dermatitis;Atopic dermatitis;C0494831;C0011615
+43;Dermatitis, eczema and other disease of the skin;L20.9;L20;ICD10;Schuettig et al (2019);Atopic dermatitis, unspecified;Atopic dermatitis;C0011615;C0011615
+44;Dermatitis, eczema and other disease of the skin;L22;L22;ICD10;Schuettig et al (2019);Diaper dermatitis;Diaper dermatitis;C0011974;C0011974
+45;Dermatitis, eczema and other disease of the skin;L23.2;L23;ICD10;Schuettig et al (2019);Allergic contact dermatitis due to cosmetics;Allergic contact dermatitis;C0451925;C0162820
+46;Dermatitis, eczema and other disease of the skin;L23.4;L23;ICD10;Schuettig et al (2019);Allergic contact dermatitis due to dyes;Allergic contact dermatitis;C0451927;C0162820
+47;Arthropathies;M10.0;M10;ICD10;Schuettig et al (2019);Idiopathic gout;Gout;C0149896;C2712871
+48;Arthropathies;M25.5;M25;ICD10;Schuettig et al (2019);Pain in joint;Other joint disorder, not elsewhere classified;C0003862;C0494938
+49;Back pain;M54.1;M54;ICD10;Schuettig et al (2019);Radiculopathy;Dorsalgia;C1442952;C0004604
+50;Back pain;M54.2;M54;ICD10;Schuettig et al (2019);Cervicalgia;Dorsalgia;C0007859;C0004604
+51;Back pain;M54.4;M54;ICD10;Schuettig et al (2019);Lumbago with sciatica;Dorsalgia;C0452160;C0004604
+52;Back pain;M54.5;M54;ICD10;Schuettig et al (2019);Low back pain;Dorsalgia;C0024031;C0004604
+53;Back pain;M54.6;M54;ICD10;Schuettig et al (2019);Pain in thoracic spine;Dorsalgia;C0677061;C0004604
+54;Back pain;M54.8;M54;ICD10;Schuettig et al (2019);Other dorsalgia;Dorsalgia;C0477632;C0004604
+55;Back pain;M54.9;M54;ICD10;Schuettig et al (2019);Dorsalgia, unspecified;Dorsalgia;C0004604;C0004604
+56;Soft tissue disorders;M62.6;M62;ICD10;Schuettig et al (2019);ERROR;Other disorders of muscle;ERROR - atom;C0494973
+57;Soft tissue disorders;M79.0;M79;ICD10;Schuettig et al (2019);Rheumatism, unspecified;Other and unspecified soft tissue disorders, not elsewhere classified;C0035435;C2896437
+58;Soft tissue disorders;M79.2;M79;ICD10;Schuettig et al (2019);Neuralgia and neuritis, unspecified;Other and unspecified soft tissue disorders, not elsewhere classified;C0494994;C2896437
+59;Soft tissue disorders;M79.6;M79;ICD10;Schuettig et al (2019);Pain in limb, hand, foot, fingers and toes;Other and unspecified soft tissue disorders, not elsewhere classified;C2896438;C2896437
+60;Biomechanical lesions;M99.8;M99;ICD10;Schuettig et al (2019);Other biomechanical lesions;Biomechanical lesions, not elsewhere classified;C0477709;C0868884
+61;Diseases of the genitourinary system;N12;N12;ICD10;Schuettig et al (2019);Tubulo-interstitial nephritis, not specified as acute or chronic;Tubulo-interstitial nephritis, not specified as acute or chronic;C0027707;C0027707
+62;Diseases of the genitourinary system;N28.8;N28;ICD10;Schuettig et al (2019);Other specified disorders of kidney and ureter;Other disorders of kidney and ureter, not elsewhere classified;C0029781;C0495063
+63;Diseases and symptoms of urinary system;N30.0;N30;ICD10;Schuettig et al (2019);Acute cystitis;Cystitis;C0149523;C0010692
+64;Diseases and symptoms of urinary system;N39.0;N39;ICD10;Schuettig et al (2019);Urinary tract infection, site not specified;Other disorders of urinary system;C0042029;C0178288
+65;Diseases of male genital organs;N41.1;N41;ICD10;Schuettig et al (2019);Chronic prostatitis;Inflammatory diseases of prostate;C0085696;C0033581
+66;Diseases of male genital organs;N45.9;N45;ICD10;Schuettig et al (2019);ERROR;Orchitis and epididymitis;ERROR - atom;C0149881
+67;Diseases of male genital organs;N48.1;N48;ICD10;Schuettig et al (2019);Balanitis;Other disorders of penis;C0004690;C0495079
+68;Symptoms and signs involving the circulatory and respiratory systems;R04.0;R04;ICD10;Schuettig et al (2019);Epistaxis;Hemorrhage from respiratory passages;C0014591;C0478116
+69;Symptoms and signs involving the circulatory and respiratory systems;R05;R05;ICD10;Schuettig et al (2019);Cough;Cough;C0010200;C0010200
+70;Symptoms and signs involving the circulatory and respiratory systems;R06.4;R06;ICD10;Schuettig et al (2019);Hyperventilation;Abnormalities of breathing;C0020578;C1260922
+71;Symptoms and signs involving the circulatory and respiratory systems;R10.1;R10;ICD10;Schuettig et al (2019);Pain localized to upper abdomen;Abdominal and pelvic pain;C0232492;C0495669
+72;Symptoms and signs involving the circulatory and respiratory systems;R10.3;R10;ICD10;Schuettig et al (2019);Pain localized to other parts of lower abdomen;Abdominal and pelvic pain;C0478118;C0495669
+73;Symptoms and signs involving the circulatory and respiratory systems;R10.4;R10;ICD10;Schuettig et al (2019);ERROR;Abdominal and pelvic pain;ERROR - atom;C0495669
+74;Symptoms and signs involving the circulatory and respiratory systems;R11;R11;ICD10;Schuettig et al (2019);Nausea and vomiting;Nausea and vomiting;C0027498;C0027498
+75;Dermatitis, eczema and other disease of the skin;R21;R21;ICD10;Schuettig et al (2019);Rash and other nonspecific skin eruption;Rash and other nonspecific skin eruption;C0015230;C0015230
+76;Diseases and symptoms of urinary system;R30.0;R30;ICD10;Schuettig et al (2019);Dysuria;Pain associated with micturition;C0013428;C0013428
+77;Diseases and symptoms of urinary system;R32;R32;ICD10;Schuettig et al (2019);Unspecified urinary incontinence;Unspecified urinary incontinence;C0014394;C0014394
+78;General symptoms and signs;R50;R50;ICD10;Schuettig et al (2019);Fever of other and unknown origin;Fever of other and unknown origin;C2830447;C2830447
+79;General symptoms and signs;R51;R51;ICD10;Schuettig et al (2019);Headache;Headache;C0018681;C0018681
+80;General symptoms and signs;R52.9;R52;ICD10;Schuettig et al (2019);ERROR;Pain, unspecified;ERROR - atom;C0281856
+81;General symptoms and signs;R53;R53;ICD10;Schuettig et al (2019);Malaise and fatigue;Malaise and fatigue;C0024528;C0024528
+82;Superficial injuries;S00.0;S00;ICD10;Schuettig et al (2019);Superficial injury of scalp;Superficial injury of head;C0347539;C0347536
+83;Superficial injuries;S00.03;S00;ICD10;Schuettig et al (2019);Contusion of scalp;Superficial injury of head;;C0347536
+84;Superficial injuries;S00.3;S00;ICD10;Schuettig et al (2019);Superficial injury of nose;Superficial injury of head;C0392046;C0347536
+85;Superficial injuries;S00.8;S00;ICD10;Schuettig et al (2019);Superficial injury of other parts of head;Superficial injury of head;;C0347536
+86;Superficial injuries;S00.9;S00;ICD10;Schuettig et al (2019);Superficial injury of unspecified part of head;Superficial injury of head;C0347536;C0347536
+87;Superficial injuries;S30.0;S30;ICD10;Schuettig et al (2019);Contusion of lower back and pelvis;Superficial injury of abdomen, lower back, pelvis and external genitals;;C2836767
+88;Superficial injuries;S40.0;S40;ICD10;Schuettig et al (2019);Contusion of shoulder and upper arm;Superficial injury of shoulder and upper arm;C0160932;C0160840
+89;Superficial injuries;S50.0;S50;ICD10;Schuettig et al (2019);Contusion of elbow;Superficial injury of elbow and forearm;C0432763;C2843635
+90;Superficial injuries;S50.1;S50;ICD10;Schuettig et al (2019);Contusion of forearm;Superficial injury of elbow and forearm;C0432762;C2843635
+91;Superficial injuries;S50.8;S50;ICD10;Schuettig et al (2019);Other superficial injuries of forearm;Superficial injury of elbow and forearm;C0478285;C2843635
+92;Superficial injuries;S60.0;S60;ICD10;Schuettig et al (2019);Contusion of finger without damage to nail;Superficial injury of wrist, hand and fingers;C0495893;C2848915
+93;Superficial injuries;S60.2;S60;ICD10;Schuettig et al (2019);Contusion of wrist and hand;Superficial injury of wrist, hand and fingers;C0432765;C2848915
+94;Superficial injuries;S60.8;S60;ICD10;Schuettig et al (2019);Other superficial injuries of wrist;Superficial injury of wrist, hand and fingers;C2849480;C2848915
+95;Superficial injuries;S70.0;S70;ICD10;Schuettig et al (2019);Contusion of hip;Superficial injury of hip and thigh;C0160950;C0495927
+96;Superficial injuries;S80.0;S80;ICD10;Schuettig et al (2019);Contusion of knee;Superficial injury of knee and lower leg;C0160953;C2860302
+97;Superficial injuries;S80.1;S80;ICD10;Schuettig et al (2019);Contusion of lower leg;Superficial injury of knee and lower leg;C0160952;C2860302
+98;Superficial injuries;S80.8;S80;ICD10;Schuettig et al (2019);Other superficial injuries of lower leg;Superficial injury of knee and lower leg;C0478334;C2860302
+99;Contusion, sprain and strain;S20.2;S20;ICD10;Schuettig et al (2019);Contusion of thorax;Superficial injury of thorax;C1439254;C1439255
+100;Contusion, sprain and strain;S63.5;S63;ICD10;Schuettig et al (2019);Other and unspecified sprain of wrist;Dislocation and sprain of joints and ligaments at wrist and hand level;C2854156;
+101;Contusion, sprain and strain;S63.6;S63;ICD10;Schuettig et al (2019);Other and unspecified sprain of finger(s);Dislocation and sprain of joints and ligaments at wrist and hand level;C2854205;
+102;Contusion, sprain and strain;S83.6;S83;ICD10;Schuettig et al (2019);Sprain of the superior tibiofibular joint and ligament;Dislocation and sprain of joints and ligaments of knee;C2864564;
+103;Fractures and injuries;S92.5;S92;ICD10;Schuettig et al (2019);Fracture of lesser toe(s);Fracture of foot and toe, except ankle;C2868312;C2866987
+104;Superficial injuries;S90.1;S90;ICD10;Schuettig et al (2019);Contusion of toe without damage to nail;Superficial injury of ankle, foot and toes;C0495960;C2866060
+105;Superficial injuries;S90.3;S90;ICD10;Schuettig et al (2019);Contusion of foot;Superficial injury of ankle, foot and toes;C0160955;C2866060
+106;Contusion, sprain and strain;S93.4;S93;ICD10;Schuettig et al (2019);Sprain of ankle;Dislocation and sprain of joints and ligaments at ankle, foot and toe level;C0160087;
+107;Contusion, sprain and strain;S93.6;S93;ICD10;Schuettig et al (2019);Sprain of foot;Dislocation and sprain of joints and ligaments at ankle, foot and toe level;C0160093;
+108;Effects of external causes;T67.6;T67;ICD10;Schuettig et al (2019);Heat fatigue, transient;Effects of heat and light;C0152145;C0274287
+109;Effects of external causes;T75.2;T75;ICD10;Schuettig et al (2019);Effects of vibration;Other and unspecified effects of other external causes;C0452131;C2886565
+110;Effects of external causes;T78.4;T78;ICD10;Schuettig et al (2019);Other and unspecified allergy;Adverse effects, not elsewhere classified;C2886707;C0869220
+111;Effects of external causes;T83.0;T83;ICD10;Schuettig et al (2019);Mechanical complication of urinary catheter;Complications of genitourinary prosthetic devices, implants and grafts;C0347928;C0496146
+112;Persons encountering health services for examination and investigation ;Z01;Z01;ICD10;Schuettig et al (2019);Encounter for other special examination without complaint, suspected or reported diagnosis;Encounter for other special examination without complaint, suspected or reported diagnosis;;
+113;Persons encountering health services for examination and investigation ;Z09;Z09;ICD10;Schuettig et al (2019);Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm;Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm;;
+114;Persons with potential health hazards related to communicable diseases;Z23;Z23;ICD10;Schuettig et al (2019);Encounter for immunization;Encounter for immunization;C2910668;C2910668
+115;Persons with potential health hazards related to communicable diseases;Z24.4;Z24;ICD10;Schuettig et al (2019);ERROR;ERROR;ERROR - atom;ERROR - atom
+116;Persons with potential health hazards related to communicable diseases;Z24.5;Z24;ICD10;Schuettig et al (2019);ERROR;ERROR;ERROR - atom;ERROR - atom
+117;Persons with potential health hazards related to communicable diseases;Z24.6;Z24;ICD10;Schuettig et al (2019);ERROR;ERROR;ERROR - atom;ERROR - atom
+118;Persons with potential health hazards related to communicable diseases;Z25.8;Z25;ICD10;Schuettig et al (2019);ERROR;ERROR;ERROR - atom;ERROR - atom
+119;Persons with potential health hazards related to communicable diseases;Z27.4;Z27;ICD10;Schuettig et al (2019);ERROR;ERROR;ERROR - atom;ERROR - atom
+120;Persons with potential health hazards related to communicable diseases;Z29.8;Z29;ICD10;Schuettig et al (2019);Encounter for other specified prophylactic measures;Encounter for other prophylactic measures;C4270771;C4270761
+121;Persons encountering health services for specific procedures and health care;Z41.9;Z41;ICD10;Schuettig et al (2019);Encounter for procedure for purposes other than remedying health state, unspecified;Encounter for procedures for purposes other than remedying health state;C2910799;C2910792
+122;Persons encountering health services for specific procedures and health care;Z43.0;Z43;ICD10;Schuettig et al (2019);Encounter for attention to tracheostomy;Encounter for attention to artificial openings;C0260760;
+123;Persons encountering health services for specific procedures and health care;Z43.2;Z43;ICD10;Schuettig et al (2019);Encounter for attention to ileostomy;Encounter for attention to artificial openings;C0260762;
+124;Persons encountering health services for specific procedures and health care;Z43.3;Z43;ICD10;Schuettig et al (2019);Encounter for attention to colostomy;Encounter for attention to artificial openings;C0260763;
+125;Persons encountering health services for specific procedures and health care;Z47.8;Z47;ICD10;Schuettig et al (2019);Encounter for other orthopedic aftercare;Orthopedic aftercare;C2910907;C0260758
+126;Persons encountering health services for specific procedures and health care;Z47.9;Z47;ICD10;Schuettig et al (2019);ERROR;Orthopedic aftercare;ERROR - atom;C0260758
+127;Persons encountering health services for specific procedures and health care;Z48.0;Z48;ICD10;Schuettig et al (2019);Encounter for attention to dressings, sutures and drains;Encounter for other postprocedural aftercare;C2910911;C2910910
+128;Persons encountering health services for specific procedures and health care;Z48.8;Z48;ICD10;Schuettig et al (2019);Encounter for other specified postprocedural aftercare;Encounter for other postprocedural aftercare;C2910923;C2910910
+129;Persons encountering health services for specific procedures and health care;Z48.9;Z48;ICD10;Schuettig et al (2019);ERROR;Encounter for other postprocedural aftercare;ERROR - atom;C2910910
+130;Persons encountering health services for specific procedures and health care;Z59;Z59;ICD10;Schuettig et al (2019);Problems related to housing and economic circumstances;Problems related to housing and economic circumstances;C0476607;C0476607
+131;Persons encountering health services for specific procedures and health care;Z63;Z63;ICD10;Schuettig et al (2019);Other problems related to primary support group, including family circumstances;Other problems related to primary support group, including family circumstances;C0496688;C0496688
+132;Persons encountering health services for examination and investigation ;Z72.8;Z72;ICD10;Schuettig et al (2019);Other problems related to lifestyle;Problems related to lifestyle;C0348774;C0348087
+133;Persons encountering health services for examination and investigation ;Z74.8;Z74;ICD10;Schuettig et al (2019);Other problems related to care provider dependency;Problems related to care provider dependency;C0478611;C0476649
+134;Persons encountering health services for examination and investigation ;Z75.2;Z75;ICD10;Schuettig et al (2019);Other waiting period for investigation and treatment;Problems related to medical facilities and other health care;C0478612;C0476687
+135;Persons encountering health services for examination and investigation ;Z76.8;Z76;ICD10;Schuettig et al (2019);Persons encountering health services in other specified circumstances;Persons encountering health services in other circumstances;C0478615;C0178343
+136;Gastroenteritis;A00;A00;ICD10;Sarmento et al (2020);Cholera;Cholera;C0008354;C0008354
+137;Gastroenteritis;A01;A01;ICD10;Sarmento et al (2020);Typhoid and paratyphoid fevers;Typhoid and paratyphoid fevers;C0275976;C0275976
+138;Gastroenteritis;A02;A02;ICD10;Sarmento et al (2020);Other salmonella infections;Other salmonella infections;;
+139;Gastroenteritis;A03;A03;ICD10;Sarmento et al (2020);Shigellosis;Shigellosis;C0013371;C0013371
+140;Gastroenteritis;A04;A04;ICD10;Sarmento et al (2020);Other bacterial intestinal infections;Other bacterial intestinal infections;C0494023;C0494023
+141;Gastroenteritis;A05;A05;ICD10;Sarmento et al (2020);Other bacterial foodborne intoxications, not elsewhere classified;Other bacterial foodborne intoxications, not elsewhere classified;C2880103;C2880103
+142;Gastroenteritis;A06;A06;ICD10;Sarmento et al (2020);Amebiasis;Amebiasis;C0002438;C0002438
+143;Gastroenteritis;A07;A07;ICD10;Sarmento et al (2020);Other protozoal intestinal diseases;Other protozoal intestinal diseases;C0152506;C0152506
+144;Gastroenteritis;A08;A08;ICD10;Sarmento et al (2020);Viral and other specified intestinal infections;Viral and other specified intestinal infections;C0494032;C0494032
+145;Gastroenteritis;A09;A09;ICD10;Sarmento et al (2020);Infectious gastroenteritis and colitis, unspecified;Infectious gastroenteritis and colitis, unspecified;C0021342;C0021342
+146;Tuberculosis;A15;A15;ICD10;Sarmento et al (2020);Respiratory tuberculosis;Respiratory tuberculosis;C0041327;C0041327
+147;Tuberculosis;A16;A16;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+148;Tuberculosis;A17;A17;ICD10;Sarmento et al (2020);Tuberculosis of nervous system;Tuberculosis of nervous system;C0348107;C0348107
+149;Tetanus;A33;A33;ICD10;Sarmento et al (2020);Tetanus neonatorum;Tetanus neonatorum;C0343312;C0343312
+150;Tetanus;A34;A34;ICD10;Sarmento et al (2020);Obstetrical tetanus;Obstetrical tetanus;C0348973;C0348973
+151;Tetanus;A35;A35;ICD10;Sarmento et al (2020);Other tetanus;Other tetanus;C0039614;C0039614
+152;Diphtheria;A36;A36;ICD10;Sarmento et al (2020);Diphtheria;Diphtheria;C0012546;C0012546
+153;Whooping cough;A37;A37;ICD10;Sarmento et al (2020);Whooping cough;Whooping cough;C0043168;C0043168
+154;Syphilis;A51;A51;ICD10;Sarmento et al (2020);Early syphilis;Early syphilis;C0348148;C0348148
+155;Syphilis;A52;A52;ICD10;Sarmento et al (2020);Late syphilis;Late syphilis;C0153188;C0153188
+156;Syphilis;A53;A53;ICD10;Sarmento et al (2020);Other and unspecified syphilis;Other and unspecified syphilis;C0558995;C0558995
+157;Other diseases caused by chlamydiae;A69.1;A69;ICD10;Sarmento et al (2020);Other Vincent's infections;Other spirochetal infections;C0017575;C0153245
+158;Acute poliomyelitis;A80;A80;ICD10;Sarmento et al (2020);Acute poliomyelitis;Acute poliomyelitis;C0032371;C0032371
+159;Measles;B05;B05;ICD10;Sarmento et al (2020);Measles;Measles;C0025007;C0025007
+160;Rubella;B06;B06;ICD10;Sarmento et al (2020);Rubella [German measles];Rubella [German measles];C0035920;C0035920
+161;Malignant neoplasms of digestive organs;C18;C18;ICD10;Sarmento et al (2020);Malignant neoplasm of colon;Malignant neoplasm of colon;C0007102;C0007102
+162;Malignant neoplasms of digestive organs;C19;C19;ICD10;Sarmento et al (2020);Malignant neoplasm of rectosigmoid junction;Malignant neoplasm of rectosigmoid junction;C2919144;C2919144
+163;Malignant neoplasms of digestive organs;C20;C20;ICD10;Sarmento et al (2020);Malignant neoplasm of rectum;Malignant neoplasm of rectum;C0949022;C0949022
+164;Malignant neoplasms of digestive organs;C21.8;C21;ICD10;Sarmento et al (2020);Malignant neoplasm of overlapping sites of rectum, anus and anal canal;Malignant neoplasm of anus and anal canal;;C0346631
+165;Uterine cervical cancer;C53;C53;ICD10;Sarmento et al (2020);Malignant neoplasm of cervix uteri;Malignant neoplasm of cervix uteri;C0007847;C0007847
+166;Iron deficiency anemia ;D50;D50;ICD10;Sarmento et al (2020);Iron deficiency anemia;Iron deficiency anemia;C0008272;C0008272
+167;Vitamin B12 deficiency anemia;D51;D51;ICD10;Sarmento et al (2020);Vitamin B12 deficiency anemia;Vitamin B12 deficiency anemia;C2004521;C2004521
+168;Folate deficiency anemia;D52;D52;ICD10;Sarmento et al (2020);Folate deficiency anemia;Folate deficiency anemia;C0151482;C0151482
+169;Diabetes Mellitus Type 2;E11;E11;ICD10;Sarmento et al (2020);Type 2 diabetes mellitus;Type 2 diabetes mellitus;C0011847;C0011847
+170;Diabetes mellitus (complications) ;E10.1;E10;ICD10;Sarmento et al (2020);Type 1 diabetes mellitus with ketoacidosis;Type 1 diabetes mellitus;C0342294;C0011854
+171;Diabetes mellitus (complications) ;E10.5;E10;ICD10;Sarmento et al (2020);Type 1 diabetes mellitus with circulatory complications;Type 1 diabetes mellitus;C0837011;C0011854
+172;Diabetes mellitus (complications) ;E10.6;E10;ICD10;Sarmento et al (2020);Type 1 diabetes mellitus with other specified complications;Type 1 diabetes mellitus;C0342261;C0011854
+173;Diabetes mellitus (complications) ;E10.8;E10;ICD10;Sarmento et al (2020);Type 1 diabetes mellitus with unspecified complications;Type 1 diabetes mellitus;C1299613;C0011854
+174;Diabetes mellitus (complications) ;E10.9;E10;ICD10;Sarmento et al (2020);Type 1 diabetes mellitus without complications;Type 1 diabetes mellitus;C0494284;C0011854
+175;Diabetes mellitus (complications) ;E11.0;E11;ICD10;Sarmento et al (2020);Type 2 diabetes mellitus with hyperosmolarity;Type 2 diabetes mellitus;C0851219;C0011847
+176;Diabetes mellitus (complications) ;E11.1;E11;ICD10;Sarmento et al (2020);Type 2 diabetes mellitus with ketoacidosis;Type 2 diabetes mellitus;C0342295;C0011847
+177;Diabetes mellitus (complications) ;E11.5;E11;ICD10;Sarmento et al (2020);Type 2 diabetes mellitus with circulatory complications;Type 2 diabetes mellitus;C2874103;C0011847
+178;Diabetes mellitus (complications) ;E11.6;E11;ICD10;Sarmento et al (2020);Type 2 diabetes mellitus with other specified complications;Type 2 diabetes mellitus;C0342262;C0011847
+179;Diabetes mellitus (complications) ;E11.8;E11;ICD10;Sarmento et al (2020);Type 2 diabetes mellitus with unspecified complications;Type 2 diabetes mellitus;C1299614;C0011847
+180;Diabetes mellitus (complications) ;E11.9;E11;ICD10;Sarmento et al (2020);Type 2 diabetes mellitus without complications;Type 2 diabetes mellitus;C0494290;C0011847
+181;Diabetes mellitus (complications) ;E12.0;E12;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+182;Diabetes mellitus (complications) ;E12.1;E12;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+183;Diabetes mellitus (complications) ;E12.5;E12;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+184;Diabetes mellitus (complications) ;E12.6;E12;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+185;Diabetes mellitus (complications) ;E12.8;E12;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+186;Diabetes mellitus (complications) ;E12.9;E12;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+187;Diabetes mellitus (complications) ;E13.0;E13;ICD10;Sarmento et al (2020);Other specified diabetes mellitus with hyperosmolarity;Other specified diabetes mellitus;C0851211;
+188;Diabetes mellitus (complications) ;E13.1;E13;ICD10;Sarmento et al (2020);Other specified diabetes mellitus with ketoacidosis;Other specified diabetes mellitus;C0348941;
+189;Diabetes mellitus (complications) ;E13.5;E13;ICD10;Sarmento et al (2020);Other specified diabetes mellitus with circulatory complications;Other specified diabetes mellitus;C0837084;
+190;Diabetes mellitus (complications) ;E13.6;E13;ICD10;Sarmento et al (2020);Other specified diabetes mellitus with other specified complications;Other specified diabetes mellitus;C0348931;
+191;Diabetes mellitus (complications) ;E13.8;E13;ICD10;Sarmento et al (2020);Other specified diabetes mellitus with unspecified complications;Other specified diabetes mellitus;C0348932;
+192;Diabetes mellitus (complications) ;E13.9;E13;ICD10;Sarmento et al (2020);Other specified diabetes mellitus without complications;Other specified diabetes mellitus;C0494293;
+193;Diabetes mellitus (complications) ;E14.0;E14;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+194;Diabetes mellitus (complications) ;E14.1;E14;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+195;Diabetes mellitus (complications) ;E14.5;E14;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+196;Diabetes mellitus (complications) ;E14.6;E14;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+197;Diabetes mellitus (complications) ;E14.8;E14;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+198;Diabetes mellitus (complications) ;E14.9;E14;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+199;Diabetes mellitus (complications) ;E15;E15;ICD10;Sarmento et al (2020);Nondiabetic hypoglycemic coma;Nondiabetic hypoglycemic coma;C0020617;C0020617
+200;Obesity ;E66;E66;ICD10;Sarmento et al (2020);Overweight and obesity;Overweight and obesity;C1561826;C1561826
+201;Dehydration / Hydroelectrolytic changes;E86;E86;ICD10;Sarmento et al (2020);Volume depletion;Volume depletion;C0546884;C0546884
+202;Dehydration / Hydroelectrolytic changes;E87.6;E87;ICD10;Sarmento et al (2020);Hypokalemia;Other disorders of fluid, electrolyte and acid-base balance;C0020621;C0494355
+203;Dementia ;F01;F01;ICD10;Sarmento et al (2020);Vascular dementia;Vascular dementia;C0011263;C0011263
+204;Dementia ;F03;F03;ICD10;Sarmento et al (2020);Unspecified dementia;Unspecified dementia;C0011265;C0011265
+205;Depression;F32;F32;ICD10;Sarmento et al (2020);Depressive episode;Depressive episode;C0349217;C0349217
+206;Depression;F33;F33;ICD10;Sarmento et al (2020);Major depressive disorder, recurrent;Major depressive disorder, recurrent;;
+207;Dementia;G30;G30;ICD10;Sarmento et al (2020);Alzheimer's disease;Alzheimer's disease;C0002395;C0002395
+208;Dementia;G31.0;G31;ICD10;Sarmento et al (2020);Frontotemporal dementia;Other degenerative diseases of nervous system, not elsewhere classified;C0338451;C0494464
+209;Dementia;G31.8;G31;ICD10;Sarmento et al (2020);Other specified degenerative diseases of nervous system;Other degenerative diseases of nervous system, not elsewhere classified;C0477365;C0494464
+210;Acute otitis media;H65.0;H65;ICD10;Sarmento et al (2020);Acute serous otitis media;Nonsuppurative otitis media;C0155415;
+211;Acute otitis media;H65.1;H65;ICD10;Sarmento et al (2020);Other acute nonsuppurative otitis media;Nonsuppurative otitis media;C0477443;
+212;Acute otitis media;H66.0;H66;ICD10;Sarmento et al (2020);Acute suppurative otitis media;Suppurative and unspecified otitis media;C0271431;C0029888
+213;Hypertensive diseases;I10;I10;ICD10;Sarmento et al (2020);Essential (primary) hypertension;Essential (primary) hypertension;C0085580;C0085580
+214;Hypertensive diseases;I11.9;I11;ICD10;Sarmento et al (2020);Hypertensive heart disease without heart failure;Hypertensive heart disease;;
+215;Hypertensive diseases;I12;I12;ICD10;Sarmento et al (2020);Hypertensive chronic kidney disease;Hypertensive chronic kidney disease;C0848548;C0848548
+216;Hypertensive diseases;I13.1;I13;ICD10;Sarmento et al (2020);Hypertensive heart and chronic kidney disease without heart failure;Hypertensive heart and chronic kidney disease;C2882082;C0155601
+217;Hypertensive diseases;I13.9;I13;ICD10;Sarmento et al (2020);ERROR;Hypertensive heart and chronic kidney disease;ERROR - atom;C0155601
+218;Hypertensive diseases;I15;I15;ICD10;Sarmento et al (2020);Secondary hypertension;Secondary hypertension;C0155616;C0155616
+219;Heart failure ;I11.0;I11;ICD10;Sarmento et al (2020);Hypertensive heart disease with heart failure;Hypertensive heart disease;;
+220;Heart failure ;I13.0;I13;ICD10;Sarmento et al (2020);Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease;Hypertensive heart and chronic kidney disease;C2882081;C0155601
+221;Heart failure ;I13.2;I13;ICD10;Sarmento et al (2020);Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease;Hypertensive heart and chronic kidney disease;C2882086;C0155601
+222;Atrial fibrillation ;I48;I48;ICD10;Sarmento et al (2020);Atrial fibrillation and flutter;Atrial fibrillation and flutter;C0155709;C0155709
+223;Heart failure ;I50;I50;ICD10;Sarmento et al (2020);Heart failure;Heart failure;C0018801;C0018801
+224;Hypertension, hypotension, atherosclerosis, heart failure, thrombosis, phlebitis and thrombophlebitis;I50;I50;ICD10;Sarmento et al (2020);Heart failure;Heart failure;C0018801;C0018801
+225;Hypertensive diseases;I60;I60;ICD10;Sarmento et al (2020);Nontraumatic subarachnoid hemorrhage;Nontraumatic subarachnoid hemorrhage;C1410400;C1410400
+226;Hypertensive diseases;I61;I61;ICD10;Sarmento et al (2020);Nontraumatic intracerebral hemorrhage;Nontraumatic intracerebral hemorrhage;C3662030;C3662030
+227;Hypertensive diseases;I64;I64;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+228;Hypertensive diseases;I67.4;I67;ICD10;Sarmento et al (2020);Hypertensive encephalopathy;Other cerebrovascular diseases;C0151620;C0393949
+229;Thromboembolic venous diseasea;I80;I80;ICD10;Sarmento et al (2020);Phlebitis and thrombophlebitis;Phlebitis and thrombophlebitis;C0031542;C0031542
+230;Thromboembolic venous diseasea;I82.2;I82;ICD10;Sarmento et al (2020);Embolism and thrombosis of vena cava and other thoracic veins;Other venous embolism and thrombosis;C2883080;C0155774
+231;Thromboembolic venous diseasea;I82.3;I82;ICD10;Sarmento et al (2020);Embolism and thrombosis of renal vein;Other venous embolism and thrombosis;C0155776;C0155774
+232;Thromboembolic venous diseasea;I82.8;I82;ICD10;Sarmento et al (2020);Embolism and thrombosis of other specified veins;Other venous embolism and thrombosis;C0155777;C0155774
+233;Thromboembolic venous diseasea;I82.9;I82;ICD10;Sarmento et al (2020);Embolism and thrombosis of unspecified vein;Other venous embolism and thrombosis;C0494623;C0155774
+234;Acute sinusitis;J01;J01;ICD10;Sarmento et al (2020);Acute sinusitis;Acute sinusitis;;
+235;Acute pharyngitis;J02;J02;ICD10;Sarmento et al (2020);Acute pharyngitis;Acute pharyngitis;;
+236;Acute tonsillitis;J03;J03;ICD10;Sarmento et al (2020);Acute tonsillitis;Acute tonsillitis;C0001361;C0001361
+237;Upper respiratory tract infection;J06;J06;ICD10;Sarmento et al (2020);Acute upper respiratory infections of multiple and unspecified sites;Acute upper respiratory infections of multiple and unspecified sites;C0264223;C0264223
+238;Influenza ;J09;J09;ICD10;Sarmento et al (2020);Influenza due to certain identified influenza viruses;Influenza due to certain identified influenza viruses;C2712970;C2712970
+239;Influenza ;J10;J10;ICD10;Sarmento et al (2020);Influenza due to other identified influenza virus;Influenza due to other identified influenza virus;C0276353;C0276353
+240;Influenza ;J11;J11;ICD10;Sarmento et al (2020);Influenza due to unidentified influenza virus;Influenza due to unidentified influenza virus;C2977051;C2977051
+241;Pneumonia ;J13;J13;ICD10;Sarmento et al (2020);Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Streptococcus pneumoniae;C0155862;C0155862
+242;Pneumonia ;J14;J14;ICD10;Sarmento et al (2020);Pneumonia due to Hemophilus influenzae;Pneumonia due to Hemophilus influenzae;;
+243;Pneumonia ;J15.3;J15;ICD10;Sarmento et al (2020);Pneumonia due to streptococcus, group B;Bacterial pneumonia, not elsewhere classified;C0348801;
+244;Pneumonia ;J15.4;J15;ICD10;Sarmento et al (2020);Pneumonia due to other streptococci;Bacterial pneumonia, not elsewhere classified;C0375326;
+245;Pneumonia ;J15.7;J15;ICD10;Sarmento et al (2020);Pneumonia due to Mycoplasma pneumoniae;Bacterial pneumonia, not elsewhere classified;C0032302;
+246;Pneumonia ;J15.8;J15;ICD10;Sarmento et al (2020);Pneumonia due to other specified bacteria;Bacterial pneumonia, not elsewhere classified;C0032286;
+247;Pneumonia ;J15.9;J15;ICD10;Sarmento et al (2020);Unspecified bacterial pneumonia;Bacterial pneumonia, not elsewhere classified;;
+248;Pneumonia ;J16.0;J16;ICD10;Sarmento et al (2020);Chlamydial pneumonia;Pneumonia due to other infectious organisms, not elsewhere classified;C0339959;C0494644
+249;Pneumonia ;J16.8;J16;ICD10;Sarmento et al (2020);Pneumonia due to other specified infectious organisms;Pneumonia due to other infectious organisms, not elsewhere classified;C0348679;C0494644
+250;Pneumonia ;J18;J18;ICD10;Sarmento et al (2020);Pneumonia, unspecified organism;Pneumonia, unspecified organism;C0339951;C0339951
+251;Chronic obstructive pulmonary disease / chronic bronchitis;J40;J40;ICD10;Sarmento et al (2020);Bronchitis, not specified as acute or chronic;Bronchitis, not specified as acute or chronic;C0006277;C0006277
+252;Chronic obstructive pulmonary disease / chronic bronchitis;J41;J41;ICD10;Sarmento et al (2020);Simple and mucopurulent chronic bronchitis;Simple and mucopurulent chronic bronchitis;C0392000;C0392000
+253;Chronic obstructive pulmonary disease / chronic bronchitis;J42;J42;ICD10;Sarmento et al (2020);Unspecified chronic bronchitis;Unspecified chronic bronchitis;;
+254;Chronic obstructive pulmonary disease / chronic bronchitis;J43;J43;ICD10;Sarmento et al (2020);Emphysema;Emphysema;C0034067;C0034067
+255;Chronic obstructive pulmonary disease / chronic bronchitis;J44;J44;ICD10;Sarmento et al (2020);Other chronic obstructive pulmonary disease;Other chronic obstructive pulmonary disease;;
+256;Chronic obstructive pulmonary disease / chronic bronchitis;J47;J47;ICD10;Sarmento et al (2020);Bronchiectasis;Bronchiectasis;;
+257;Asthma;J45;J45;ICD10;Sarmento et al (2020);Asthma;Asthma;C1260881;C1260881
+258;Asthma;J46;J46;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+259;Heart failure ;J81;J81;ICD10;Sarmento et al (2020);Pulmonary edema;Pulmonary edema;C0034063;C0034063
+260;Dental and oral cavity pathology ;K02;K02;ICD10;Sarmento et al (2020);Dental caries;Dental caries;C3714731;C3714731
+261;Dental and oral cavity pathology ;K03;K03;ICD10;Sarmento et al (2020);Other diseases of hard tissues of teeth;Other diseases of hard tissues of teeth;C0399347;C0399347
+262;Dental and oral cavity pathology ;K04;K04;ICD10;Sarmento et al (2020);Diseases of pulp and periapical tissues;Diseases of pulp and periapical tissues;C0155933;C0155933
+263;Dental and oral cavity pathology ;K05;K05;ICD10;Sarmento et al (2020);Gingivitis and periodontal diseases;Gingivitis and periodontal diseases;C0494704;C0494704
+264;Dental and oral cavity pathology ;K06;K06;ICD10;Sarmento et al (2020);Other disorders of gingiva and edentulous alveolar ridge;Other disorders of gingiva and edentulous alveolar ridge;C0494706;C0494706
+265;Dental and oral cavity pathology ;K08;K08;ICD10;Sarmento et al (2020);Other disorders of teeth and supporting structures;Other disorders of teeth and supporting structures;C0494707;C0494707
+266;Dental and oral cavity pathology ;K09;K09;ICD10;Sarmento et al (2020);Cysts of oral region, not elsewhere classified;Cysts of oral region, not elsewhere classified;;
+267;Dental and oral cavity pathology ;K12;K12;ICD10;Sarmento et al (2020);Stomatitis and related lesions;Stomatitis and related lesions;C0494713;C0494713
+268;Dental and oral cavity pathology ;K13;K13;ICD10;Sarmento et al (2020);Other diseases of lip and oral mucosa;Other diseases of lip and oral mucosa;;
+269;Dental and oral cavity pathology ;K14;K14;ICD10;Sarmento et al (2020);Diseases of tongue;Diseases of tongue;C0040409;C0040409
+270;Acute skin infections ;L01;L01;ICD10;Sarmento et al (2020);Impetigo;Impetigo;C0021099;C0021099
+271;Acute skin infections ;L02;L02;ICD10;Sarmento et al (2020);Cutaneous abscess, furuncle and carbuncle;Cutaneous abscess, furuncle and carbuncle;C0494813;C0494813
+272;Acute skin infections ;L03;L03;ICD10;Sarmento et al (2020);Cellulitis and acute lymphangitis;Cellulitis and acute lymphangitis;C2888134;C2888134
+273;Acute skin infections ;L04;L04;ICD10;Sarmento et al (2020);Acute lymphadenitis;Acute lymphadenitis;;
+274;Acute skin infections ;L08;L08;ICD10;Sarmento et al (2020);Other local infections of skin and subcutaneous tissue;Other local infections of skin and subcutaneous tissue;C0157707;C0157707
+275;Urinary tract infections ;N10;N10;ICD10;Sarmento et al (2020);Acute pyelonephritis;Acute pyelonephritis;C0520575;C0520575
+276;Urinary tract infections ;N11;N11;ICD10;Sarmento et al (2020);Chronic tubulo-interstitial nephritis;Chronic tubulo-interstitial nephritis;;
+277;Urinary tract infections ;N12;N12;ICD10;Sarmento et al (2020);Tubulo-interstitial nephritis, not specified as acute or chronic;Tubulo-interstitial nephritis, not specified as acute or chronic;C0027707;C0027707
+278;Urinary tract infections ;N30.0;N30;ICD10;Sarmento et al (2020);Acute cystitis;Cystitis;C0149523;C0010692
+279;Urinary tract infections ;N30.8;N30;ICD10;Sarmento et al (2020);Other cystitis;Cystitis;;C0010692
+280;Urinary tract infections ;N30.9;N30;ICD10;Sarmento et al (2020);Cystitis, unspecified;Cystitis;C0010692;C0010692
+281;Urinary tract infections in pregnancy;O23.0;O23;ICD10;Sarmento et al (2020);Infections of kidney in pregnancy;Infections of genitourinary tract in pregnancy;;C0156756
+282;Urinary tract infections in pregnancy;O23.1;O23;ICD10;Sarmento et al (2020);Infections of bladder in pregnancy;Infections of genitourinary tract in pregnancy;C0452164;C0156756
+283;Urinary tract infections in pregnancy;O23.2;O23;ICD10;Sarmento et al (2020);Infections of urethra in pregnancy;Infections of genitourinary tract in pregnancy;C0452165;C0156756
+284;Urinary tract infections in pregnancy;O23.3;O23;ICD10;Sarmento et al (2020);Infections of other parts of urinary tract in pregnancy;Infections of genitourinary tract in pregnancy;C0477815;C0156756
+285;Urinary tract infections in pregnancy;O23.4;O23;ICD10;Sarmento et al (2020);Unspecified infection of urinary tract in pregnancy;Infections of genitourinary tract in pregnancy;C0495188;C0156756
+286;Urinary tract infections in pregnancy;O23.9;O23;ICD10;Sarmento et al (2020);Unspecified genitourinary tract infection in pregnancy;Infections of genitourinary tract in pregnancy;C0156756;C0156756
+287;Superficial injuries;T00.9;T00;ICD10;Sarmento et al (2020);ERROR;ERROR;ERROR - atom;ERROR - atom
+288;Superficial injuries;T14.0;T14;ICD10;Sarmento et al (2020);ERROR;Injury of unspecified body region;ERROR - atom;C0496020
+289;Superficial injuries;T14.03;T14;ICD10;Sarmento et al (2020);ERROR;Injury of unspecified body region;ERROR - atom;C0496020
+290;Voluntary termination of pregnancy;Z33.2;Z33;ICD10;Sarmento et al (2020);Encounter for elective termination of pregnancy;Pregnant state;C2910730;C0868560
+291;Otras tuberculosis ;12;12;ICD9;Caminal et al (2001);Other respiratory tuberculosis;Other respiratory tuberculosis;C0152620;C0152620
+292;Otras tuberculosis ;13;13;ICD9;Caminal et al (2001);Tuberculosis of meninges and central nervous system;Tuberculosis of meninges and central nervous system;C0152654;C0152654
+293;Otras tuberculosis ;14;14;ICD9;Caminal et al (2001);Tuberculosis of intestines, peritoneum, and mesenteric glands;Tuberculosis of intestines, peritoneum, and mesenteric glands;C0152717;C0152717
+294;Otras tuberculosis ;15;15;ICD9;Caminal et al (2001);Tuberculosis of bones and joints;Tuberculosis of bones and joints;C0041324;C0041324
+295;Otras tuberculosis ;16;16;ICD9;Caminal et al (2001);Tuberculosis of genitourinary system;Tuberculosis of genitourinary system;C0041333;C0041333
+296;Otras tuberculosis ;17;17;ICD9;Caminal et al (2001);Tuberculosis of other organs;Tuberculosis of other organs;C0041300;C0041300
+297;Otras tuberculosis ;18;18;ICD9;Caminal et al (2001);Miliary tuberculosis;Miliary tuberculosis;C0041321;C0041321
+298;Difteria;32;32;ICD9;Caminal et al (2001);Diphtheria;Diphtheria;C0012546;C0012546
+299;Tétanos;37;37;ICD9;Caminal et al (2001);Tetanus;Tetanus;C0039614;C0039614
+300;Poliomielitis aguda;45;45;ICD9;Caminal et al (2001);Acute poliomyelitis;Acute poliomyelitis;C0032371;C0032371
+301;Sífilis congénita;90;90;ICD9;Caminal et al (2001);Congenital syphilis;Congenital syphilis;C0039131;C0039131
+302;Diabetes con complicaciones generales agudas ;250.1;250;ICD9;Caminal et al (2001);Diabetes with ketoacidosis;Diabetes mellitus;C0011880;C0011849
+303;Diabetes con complicaciones generales agudas ;250.2;250;ICD9;Caminal et al (2001);Diabetes mellitus with hyperosmolarity;Diabetes mellitus;C0375121;C0011849
+304;Diabetes con complicaciones generales agudas ;250.3;250;ICD9;Caminal et al (2001);Diabetes with other coma;Diabetes mellitus;C0011870;C0011849
+305;Coma hipoglucémico ;251.0;251;ICD9;Caminal et al (2001);Hypoglycemic coma;Other disorders of pancreatic internal secretion;C0020617;C0154189
+306;Gangrena  (785.4) + diabetes con trastornos circulatorios periféricos (250.7);785.4;785;ICD9;Caminal et al (2001);Gangrene;Symptoms involving cardiovascular system;C0017086;C0159049
+307;Gangrena  (785.4) + diabetes con trastornos circulatorios periféricos (250.7);250.7;250;ICD9;Caminal et al (2001);Diabetes with peripheral circulatory disorders;Diabetes mellitus;C0011871;C0011849
+308;Hipopotasemia ;276.8;276;ICD9;Caminal et al (2001);Hypopotassemia;Disorders of fluid, electrolyte, and acid-base balance;C0020621;C0267994
+309;Disminución de volumen/deshidratación ;276.5;276;ICD9;Caminal et al (2001);Volume depletion;Disorders of fluid, electrolyte, and acid-base balance;C0546884;C0267994
+310;Meningitis por hemófilo;320.0;320;ICD9;Caminal et al (2001);Hemophilus meningitis;Bacterial meningitis;C0025292;C0085437
+311;Fiebre reumática ;390;390;ICD9;Caminal et al (2001);Rheumatic fever without mention of heart involvement;Rheumatic fever without mention of heart involvement;C0264743;C0264743
+312;Fiebre reumática ;391;391;ICD9;Caminal et al (2001);Rheumatic fever with heart involvement;Rheumatic fever with heart involvement;C3536892;C3536892
+313;Hipertensión esencial maligna ;401.0;401;ICD9;Caminal et al (2001);Malignant essential hypertension;Essential hypertension;C0024588;C0085580
+314;Enfermedad cardíaca hipertensiva maligna con IC ;402.01;402;ICD9;Caminal et al (2001);Malignant hypertensive heart disease with heart failure;Hypertensive heart disease;C1135329;C0152105
+315;Enfermedad cardíaca hipertensiva benigna con IC ;402.11;402;ICD9;Caminal et al (2001);Benign hypertensive heart disease with heart failure;Hypertensive heart disease;C1135331;C0152105
+316;Enfermedad cardíaca hipertensiva sin especificar con IC ;402.91;402;ICD9;Caminal et al (2001);Unspecified hypertensive heart disease with heart failure;Hypertensive heart disease;C1135333;C0152105
+317;Enfermedad renal hipertensiva maligna;403.0;403;ICD9;Caminal et al (2001);Hypertensive chronic kidney disease, malignant;Hypertensive chronic kidney disease;C1719462;C3695318
+318;Enfermedad cardíaca y renal hipertensiva maligna ;404.0;404;ICD9;Caminal et al (2001);Hypertensive heart and chronic kidney disease, malignant;Hypertensive heart and chronic kidney disease;C1719468;C1719469
+319;Hipertensión secundaria maligna; 405.0;40;ICD9;Caminal et al (2001);ERROR;ERROR;ERROR - atom;ERROR - atom
+320;Enfermedad cardíaca isquémica;410;410;ICD9;Caminal et al (2001);Acute myocardial infarction;Acute myocardial infarction;C0155626;C0155626
+321;Enfermedad cardíaca isquémica;411;411;ICD9;Caminal et al (2001);Other acute and subacute forms of ischemic heart disease;Other acute and subacute forms of ischemic heart disease;C0340283;C0340283
+322;Enfermedad cardíaca isquémica;412;412;ICD9;Caminal et al (2001);Old myocardial infarction;Old myocardial infarction;C0155668;C0155668
+323;Enfermedad cardíaca isquémica;413;413;ICD9;Caminal et al (2001);Angina pectoris;Angina pectoris;C0002962;C0002962
+324;Enfermedad cardíaca isquémica;414;414;ICD9;Caminal et al (2001);Other forms of chronic ischemic heart disease;Other forms of chronic ischemic heart disease;C0155669;C0155669
+325;Fallo cardíaco ;428;428;ICD9;Caminal et al (2001);Heart failure;Heart failure;C0018801;C0018801
+326;Enfermedad cerebrovascular;430;430;ICD9;Caminal et al (2001);Subarachnoid hemorrhage;Subarachnoid hemorrhage;C0038525;C0038525
+327;Enfermedad cerebrovascular;431;431;ICD9;Caminal et al (2001);Intracerebral hemorrhage;Intracerebral hemorrhage;C2937358;C2937358
+328;Enfermedad cerebrovascular;436;436;ICD9;Caminal et al (2001);Acute, but ill-defined, cerebrovascular disease;Acute, but ill-defined, cerebrovascular disease;C0001365;C0001365
+329;Enfermedad cerebrovascular;437.2;437;ICD9;Caminal et al (2001);Hypertensive encephalopathy;Other and ill-defined cerebrovascular disease;C0151620;C0155729
+330;Absceso peritonsilar;475;475;ICD9;Caminal et al (2001);Peritonsillar abscess;Peritonsillar abscess;C0031157;C0031157
+331;Neumonía debida a hemófilo ;482.2;482;ICD9;Caminal et al (2001);Pneumonia due to Hemophilus influenzae [H. influenzae];Other bacterial pneumonia;C0276026;C0155858
+332;Neumonía debida a estreptococos ;482.3;482;ICD9;Caminal et al (2001);Pneumonia due to Streptococcus;Other bacterial pneumonia;C0155862;C0155858
+333;Neumonía debida a otro organismo especificado ;483;483;ICD9;Caminal et al (2001);Pneumonia due to other specified organism;Pneumonia due to other specified organism;C0032287;C0032287
+334;Bronconeumonía/neumonía, por organismo sin especificar ;485;485;ICD9;Caminal et al (2001);Bronchopneumonia, organism unspecified;Bronchopneumonia, organism unspecified;C0006285;C0006285
+335;Bronconeumonía/neumonía, por organismo sin especificar ;486;486;ICD9;Caminal et al (2001);Pneumonia, organism unspecified;Pneumonia, organism unspecified;C0339951;C0339951
+336;Edema agudo de pulmón, sin especificar ;518.4;518;ICD9;Caminal et al (2001);Acute edema of lung, unspecified;Other diseases of lung;C0155919;C0348712
+337;Úlcera gástrica aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ;531.0;531;ICD9;Caminal et al (2001);Acute gastric ulcer with hemorrhage;Gastric ulcer;C0155967;C0038358
+338;Úlcera gástrica aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ;531.2;531;ICD9;Caminal et al (2001);Acute gastric ulcer with hemorrhage and perforation;Gastric ulcer;C0155973;C0038358
+339;Úlcera gástrica aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ;531.4;531;ICD9;Caminal et al (2001);Chronic or unspecified gastric ulcer with hemorrhage;Gastric ulcer;C0155979;C0038358
+340;Úlcera gástrica aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ;531.6;531;ICD9;Caminal et al (2001);Chronic or unspecified gastric ulcer with hemorrhage and perforation;Gastric ulcer;C0494723;C0038358
+341;Úlcera duodenal aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación;532.0;532;ICD9;Caminal et al (2001);Acute duodenal ulcer with hemorrhage;Duodenal ulcer;C0155992;C0013295
+342;Úlcera duodenal aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación;532.2;532;ICD9;Caminal et al (2001);Acute duodenal ulcer with hemorrhage and perforation;Duodenal ulcer;C0155998;C0013295
+343;Úlcera duodenal aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación;532.4;532;ICD9;Caminal et al (2001);Chronic or unspecified duodenal ulcer with hemorrhage;Duodenal ulcer;C0156004;C0013295
+344;Úlcera duodenal aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación;532.6;532;ICD9;Caminal et al (2001);Chronic or unspecified duodenal ulcer with hemorrhage and perforation;Duodenal ulcer;C0494726;C0013295
+345;Úlcera péptica, sitio no especificado, aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ;533.0;533;ICD9;Caminal et al (2001);Acute peptic ulcer of unspecified site with hemorrhage;Peptic ulcer, site unspecified;C0267288;C0030920
+346;Úlcera péptica, sitio no especificado, aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ;533.2;533;ICD9;Caminal et al (2001);Acute peptic ulcer of unspecified site with hemorrhage and perforation;Peptic ulcer, site unspecified;C0267294;C0030920
+347;Úlcera péptica, sitio no especificado, aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ;533.4;533;ICD9;Caminal et al (2001);Chronic or unspecified peptic ulcer of unspecified site with hemorrhage;Peptic ulcer, site unspecified;C0494730;C0030920
+348;Úlcera péptica, sitio no especificado, aguda o crónica o no especificada, con hemorragia o con hemorragia y perforación ;533.6;533;ICD9;Caminal et al (2001);Chronic or unspecified peptic ulcer of unspecified site with hemorrhage and perforation;Peptic ulcer, site unspecified;C0494732;C0030920
+349;Apendicitis aguda con peritonitis generalizada;540.0;540;ICD9;Caminal et al (2001);Acute appendicitis with generalized peritonitis;Acute appendicitis;C0156092;C0085693
+350;Apendicitis aguda con absceso peritoneal;540.1;540;ICD9;Caminal et al (2001);Acute appendicitis with peritoneal abscess;Acute appendicitis;C0156093;C0085693
+351;Pielonefritis aguda;590.1;590;ICD9;Caminal et al (2001);Acute pyelonephritis;Infections of kidney;C0520575;C0021313
+352;Enfermedad inflamatoria de ovario, trompa de Falopio, tejido celular pélvico y peritoneo;614;614;ICD9;Caminal et al (2001);Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum;Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum;C0156326;C0156326
+353;Viral infection unspec;79.9;79;ICD9;Sanderson et al (2000);Unspecified operation on bone injury;Reduction of fracture and dislocation;C0185150;C0161946
+354;Viralwarts;78.1;78;ICD9;Sanderson et al (2000);Application of external fixator device;Other operations on bones, except facial bones;C1561811;C0161945
+355;Diabetes (insulin-dependent);250.0;250;ICD9;Sanderson et al (2000);Diabetes mellitus without mention of complication;Diabetes mellitus;C0271635;C0011849
+356;Hypoglycaemia unspec;251.2;251;ICD9;Sanderson et al (2000);Hypoglycemia, unspecified;Other disorders of pancreatic internal secretion;C0020615;C0154189
+357;Diabetes (non-insulin·dependent);250.0;250;ICD9;Sanderson et al (2000);Diabetes mellitus without mention of complication;Diabetes mellitus;C0271635;C0011849
+358;Iron deficiency anemias;280;280;ICD9;Sanderson et al (2000);Iron deficiency anemias;Iron deficiency anemias;C0162316;C0162316
+359;Epilepsy unspec;345.9;345;ICD9;Sanderson et al (2000);Epilepsy, unspecified;Epilepsy and recurrent seizures;C0014544;C1719410
+360;Asthma extrinsic;493.0;493;ICD9;Sanderson et al (2000);Extrinsic asthma;Asthma;C0155877;C0004096
+361;Asthma unspec;493.9;493;ICD9;Sanderson et al (2000);Asthma, unspecified;Asthma;C0004096;C0004096
+362;Dyspepsia and other stomach function disorders;536.8;536;ICD9;Sanderson et al (2000);Dyspepsia and other specified disorders of function of stomach;Disorders of function of stomach;C0013396;C0156084
+363;Gastric ulcer unspec w/o haemorrhage or perforation;531.9;531;ICD9;Sanderson et al (2000);Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation;Gastric ulcer;C0400806;C0038358
+364;Gastritis and duodenitis unspec;535.5 ;535;ICD9;Sanderson et al (2000);ERROR;Gastritis and duodenitis;ERROR - atom;C0267166
+365;Constipation;564.0;564;ICD9;Sanderson et al (2000);Constipation;Functional digestive disorders, not elsewhere classified;C0009806;C0302382
+366;Dysplasia, mucous pclyp, erosion of cervix;602.0;602;ICD9;Sanderson et al (2000);Calculus of prostate;Other disorders of prostate;C0149525;C0156294
+367;Dysplasia, mucous pclyp, erosion of cervix;602.1;602;ICD9;Sanderson et al (2000);Congestion or hemorrhage of prostate;Other disorders of prostate;C0156295;C0156294
+368;Dysplasia, mucous pclyp, erosion of cervix;602.7;602;ICD9;Sanderson et al (2000);ERROR;Other disorders of prostate;ERROR - atom;C0156294
+369;Cellulitisof face, etc;682.0;682;ICD9;Sanderson et al (2000);Cellulitis and abscess of face;Other cellulitis and abscess;C0157696;C0157695
+370;Sebaceous cyst;706.2;706;ICD9;Sanderson et al (2000);Sebaceous cyst;Diseases of sebaceous glands;C0014511;C0036502
+371;Lower limb ulcer except decubitus;707.1;707;ICD9;Sanderson et al (2000);Ulcer of lower limbs, except pressure ulcer;Chronic ulcer of skin;C2349630;C0157738
+372;Ingrowing toenail;703.0;703;ICD9;Sanderson et al (2000);Ingrowing nail;Diseases of nail;C0027343;C0027339
+373;Ganglion and cyst of synovium, tendon and bursa;727.4;727;ICD9;Sanderson et al (2000);Ganglion and cyst of synovium, tendon, and bursa;Other disorders of synovium, tendon, and bursa;C0349693;C0158326
+374;Fracture of radius & ulna (lower,closed);813.4;813;ICD9;Sanderson et al (2000);Fracture of lower end of radius and ulna, closed;Fracture of radius and ulna;C0159738;C0159710
+375;Tuberculosis;11;11;ICD9;Caminal et al (2004);Pulmonary tuberculosis;Pulmonary tuberculosis;C0041327;C0041327
+376;Tuberculosis;11;11;ICD9;Caminal et al (2004);Pulmonary tuberculosis;Pulmonary tuberculosis;C0041327;C0041327
+377;Tuberculosis;12;12;ICD9;Caminal et al (2004);Other respiratory tuberculosis;Other respiratory tuberculosis;C0152620;C0152620
+378;Tuberculosis;13;13;ICD9;Caminal et al (2004);Tuberculosis of meninges and central nervous system;Tuberculosis of meninges and central nervous system;C0152654;C0152654
+379;Tuberculosis;14;14;ICD9;Caminal et al (2004);Tuberculosis of intestines, peritoneum, and mesenteric glands;Tuberculosis of intestines, peritoneum, and mesenteric glands;C0152717;C0152717
+380;Tuberculosis;15;15;ICD9;Caminal et al (2004);Tuberculosis of bones and joints;Tuberculosis of bones and joints;C0041324;C0041324
+381;Tuberculosis;16;16;ICD9;Caminal et al (2004);Tuberculosis of genitourinary system;Tuberculosis of genitourinary system;C0041333;C0041333
+382;Tuberculosis;17;17;ICD9;Caminal et al (2004);Tuberculosis of other organs;Tuberculosis of other organs;C0041300;C0041300
+383;Immunization and preventable infectious diseases;18;18;ICD9;Caminal et al (2004);Miliary tuberculosis;Miliary tuberculosis;C0041321;C0041321
+384;Immunization and preventable infectious diseases;37;37;ICD9;Caminal et al (2004);Tetanus;Tetanus;C0039614;C0039614
+385;Immunization and preventable infectious diseases;45;45;ICD9;Caminal et al (2004);Acute poliomyelitis;Acute poliomyelitis;C0032371;C0032371
+386;Congenital syphilis;90;90;ICD9;Caminal et al (2004);Congenital syphilis;Congenital syphilis;C0039131;C0039131
+387;Diabetes mellitus;250.0;250;ICD9;Caminal et al (2004);Diabetes mellitus without mention of complication;Diabetes mellitus;C0271635;C0011849
+388;Diabetes mellitus;250.1;250;ICD9;Caminal et al (2004);Diabetes with ketoacidosis;Diabetes mellitus;C0011880;C0011849
+389;Diabetes mellitus;250.2;250;ICD9;Caminal et al (2004);Diabetes mellitus with hyperosmolarity;Diabetes mellitus;C0375121;C0011849
+390;Diabetes mellitus;250.3;250;ICD9;Caminal et al (2004);Diabetes with other coma;Diabetes mellitus;C0011870;C0011849
+391;Diabetes mellitus;250.7;250;ICD9;Caminal et al (2004);Diabetes with peripheral circulatory disorders;Diabetes mellitus;C0011871;C0011849
+392;Diabetes mellitus;250.8;250;ICD9;Caminal et al (2004);Diabetes with other specified manifestations;Diabetes mellitus;C0154183;C0011849
+393;Diabetes mellitus;251.0;251;ICD9;Caminal et al (2004);Hypoglycemic coma;Other disorders of pancreatic internal secretion;C0020617;C0154189
+394;Diabetes mellitus;785.4;785;ICD9;Caminal et al (2004);Gangrene;Symptoms involving cardiovascular system;C0017086;C0159049
+395;Diabetes mellitus;250.7;250;ICD9;Caminal et al (2004);Diabetes with peripheral circulatory disorders;Diabetes mellitus;C0011871;C0011849
+396;Disorders of hydro-electrolyte metabolism;276.5;276;ICD9;Caminal et al (2004);Volume depletion;Disorders of fluid, electrolyte, and acid-base balance;C0546884;C0267994
+397;Disorders of hydro-electrolyte metabolism;276.8;276;ICD9;Caminal et al (2004);Hypopotassemia;Disorders of fluid, electrolyte, and acid-base balance;C0020621;C0267994
+398;Iron deficiency anemias;280;280;ICD9;Caminal et al (2004);Iron deficiency anemias;Iron deficiency anemias;C0162316;C0162316
+399;Gangrene + Diabetes with peripheral circulatory disorders;320.0;320;ICD9;Caminal et al (2004);Hemophilus meningitis;Bacterial meningitis;C0025292;C0085437
+400;Convulsions;345;345;ICD9;Caminal et al (2004);Epilepsy and recurrent seizures;Epilepsy and recurrent seizures;C1719410;C1719410
+401;Diseases of the upper respiratory tract;382;382;ICD9;Caminal et al (2004);Suppurative and unspecified otitis media;Suppurative and unspecified otitis media;C0029888;C0029888
+402;Immunization and preventable infectious diseases;390;390;ICD9;Caminal et al (2004);Rheumatic fever without mention of heart involvement;Rheumatic fever without mention of heart involvement;C0264743;C0264743
+403;Immunization and preventable infectious diseases;391;391;ICD9;Caminal et al (2004);Rheumatic fever with heart involvement;Rheumatic fever with heart involvement;C3536892;C3536892
+404;Hypertensive heart disease;401;401;ICD9;Caminal et al (2004);Essential hypertension;Essential hypertension;C0085580;C0085580
+405;Hypertensive heart disease;402.00;402;ICD9;Caminal et al (2004);Malignant hypertensive heart disease without heart failure;Hypertensive heart disease;C1135328;C0152105
+406;Hypertensive heart disease;402.10;402;ICD9;Caminal et al (2004);Benign hypertensive heart disease without heart failure;Hypertensive heart disease;C1135330;C0152105
+407;Hypertensive heart disease;403;403;ICD9;Caminal et al (2004);Hypertensive chronic kidney disease;Hypertensive chronic kidney disease;C3695318;C3695318
+408;Hypertensive heart disease;404;404;ICD9;Caminal et al (2004);Hypertensive heart and chronic kidney disease;Hypertensive heart and chronic kidney disease;C1719469;C1719469
+409;Hypertensive heart disease;405;405;ICD9;Caminal et al (2004);Secondary hypertension;Secondary hypertension;C0155616;C0155616
+410;Heart failure;402.01;402;ICD9;Caminal et al (2004);Malignant hypertensive heart disease with heart failure;Hypertensive heart disease;C1135329;C0152105
+411;Heart failure;402.11;402;ICD9;Caminal et al (2004);Benign hypertensive heart disease with heart failure;Hypertensive heart disease;C1135331;C0152105
+412;Heart failure;402.91;402;ICD9;Caminal et al (2004);Unspecified hypertensive heart disease with heart failure;Hypertensive heart disease;C1135333;C0152105
+413;Hypertensive heart disease;410;410;ICD9;Caminal et al (2004);Acute myocardial infarction;Acute myocardial infarction;C0155626;C0155626
+414;Hypertensive heart disease;411;411;ICD9;Caminal et al (2004);Other acute and subacute forms of ischemic heart disease;Other acute and subacute forms of ischemic heart disease;C0340283;C0340283
+415;Hypertensive heart disease;412;412;ICD9;Caminal et al (2004);Old myocardial infarction;Old myocardial infarction;C0155668;C0155668
+416;Hypertensive heart disease;413;413;ICD9;Caminal et al (2004);Angina pectoris;Angina pectoris;C0002962;C0002962
+417;Hypertensive heart disease;414;414;ICD9;Caminal et al (2004);Other forms of chronic ischemic heart disease;Other forms of chronic ischemic heart disease;C0155669;C0155669
+418;Heart failure;428;428;ICD9;Caminal et al (2004);Heart failure;Heart failure;C0018801;C0018801
+419;Hypertensive heart disease;430;430;ICD9;Caminal et al (2004);Subarachnoid hemorrhage;Subarachnoid hemorrhage;C0038525;C0038525
+420;Hypertensive heart disease;431;431;ICD9;Caminal et al (2004);Intracerebral hemorrhage;Intracerebral hemorrhage;C2937358;C2937358
+421;Hypertensive heart disease;436;436;ICD9;Caminal et al (2004);Acute, but ill-defined, cerebrovascular disease;Acute, but ill-defined, cerebrovascular disease;C0001365;C0001365
+422;Hypertensive heart disease;437.2;437;ICD9;Caminal et al (2004);Hypertensive encephalopathy;Other and ill-defined cerebrovascular disease;C0151620;C0155729
+423;Diseases of the upper respiratory tract;463;463;ICD9;Caminal et al (2004);Acute tonsillitis;Acute tonsillitis;C0001361;C0001361
+424;Diseases of the upper respiratory tract;465;465;ICD9;Caminal et al (2004);Acute upper respiratory infections of multiple or unspecified sites;Acute upper respiratory infections of multiple or unspecified sites;C0155816;C0155816
+425;Diseases of the upper respiratory tract;475;475;ICD9;Caminal et al (2004);Peritonsillar abscess;Peritonsillar abscess;C0031157;C0031157
+426;Pneumonia;481;481;ICD9;Caminal et al (2004);Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia];Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia];C0155862;C0155862
+427;Pneumonia;482.2;482;ICD9;Caminal et al (2004);Pneumonia due to Hemophilus influenzae [H. influenzae];Other bacterial pneumonia;C0276026;C0155858
+428;Pneumonia;482.3;482;ICD9;Caminal et al (2004);Pneumonia due to Streptococcus;Other bacterial pneumonia;C0155862;C0155858
+429;Pneumonia;482.9;482;ICD9;Caminal et al (2004);Bacterial pneumonia, unspecified;Other bacterial pneumonia;C0004626;C0155858
+430;Pneumonia;483;483;ICD9;Caminal et al (2004);Pneumonia due to other specified organism;Pneumonia due to other specified organism;C0032287;C0032287
+431;Pneumonia;485;485;ICD9;Caminal et al (2004);Bronchopneumonia, organism unspecified;Bronchopneumonia, organism unspecified;C0006285;C0006285
+432;Pneumonia;486;486;ICD9;Caminal et al (2004);Pneumonia, organism unspecified;Pneumonia, organism unspecified;C0339951;C0339951
+433;Bronchitis / Chronic obstructive pulmonary disease (COAD);466.0;466;ICD9;Caminal et al (2004);Acute bronchitis;Acute bronchitis and bronchiolitis;C0149514;C0155820
+434;Bronchitis / Chronic obstructive pulmonary disease (COAD);490;490;ICD9;Caminal et al (2004);Bronchitis, not specified as acute or chronic;Bronchitis, not specified as acute or chronic;C0006277;C0006277
+435;Bronchitis / Chronic obstructive pulmonary disease (COAD);491;491;ICD9;Caminal et al (2004);Chronic bronchitis;Chronic bronchitis;C0008677;C0008677
+436;Bronchitis / Chronic obstructive pulmonary disease (COAD);492;492;ICD9;Caminal et al (2004);Emphysema;Emphysema;C0034067;C0034067
+437;Bronchitis / Chronic obstructive pulmonary disease (COAD);494;494;ICD9;Caminal et al (2004);Bronchiectasis;Bronchiectasis;C0006267;C0006267
+438;Bronchitis / Chronic obstructive pulmonary disease (COAD);496;496;ICD9;Caminal et al (2004);Chronic airway obstruction, not elsewhere classified;Chronic airway obstruction, not elsewhere classified;C0302378;C0302378
+439;Asthma;493;493;ICD9;Caminal et al (2004);Asthma;Asthma;C0004096;C0004096
+440;Heart failure;518.4;518;ICD9;Caminal et al (2004);Acute edema of lung, unspecified;Other diseases of lung;C0155919;C0348712
+441;Bleeding or perforating ulcer;531.0;531;ICD9;Caminal et al (2004);Acute gastric ulcer with hemorrhage;Gastric ulcer;C0155967;C0038358
+442;Bleeding or perforating ulcer;531.2;531;ICD9;Caminal et al (2004);Acute gastric ulcer with hemorrhage and perforation;Gastric ulcer;C0155973;C0038358
+443;Bleeding or perforating ulcer;531.4;531;ICD9;Caminal et al (2004);Chronic or unspecified gastric ulcer with hemorrhage;Gastric ulcer;C0155979;C0038358
+444;Bleeding or perforating ulcer;531.6;531;ICD9;Caminal et al (2004);Chronic or unspecified gastric ulcer with hemorrhage and perforation;Gastric ulcer;C0494723;C0038358
+445;Bleeding or perforating ulcer;532.0;532;ICD9;Caminal et al (2004);Acute duodenal ulcer with hemorrhage;Duodenal ulcer;C0155992;C0013295
+446;Bleeding or perforating ulcer;532.2;532;ICD9;Caminal et al (2004);Acute duodenal ulcer with hemorrhage and perforation;Duodenal ulcer;C0155998;C0013295
+447;Bleeding or perforating ulcer;532.4;532;ICD9;Caminal et al (2004);Chronic or unspecified duodenal ulcer with hemorrhage;Duodenal ulcer;C0156004;C0013295
+448;Bleeding or perforating ulcer;532.6;532;ICD9;Caminal et al (2004);Chronic or unspecified duodenal ulcer with hemorrhage and perforation;Duodenal ulcer;C0494726;C0013295
+449;Bleeding or perforating ulcer;533.0;533;ICD9;Caminal et al (2004);Acute peptic ulcer of unspecified site with hemorrhage;Peptic ulcer, site unspecified;C0267288;C0030920
+450;Bleeding or perforating ulcer;533.2;533;ICD9;Caminal et al (2004);Acute peptic ulcer of unspecified site with hemorrhage and perforation;Peptic ulcer, site unspecified;C0267294;C0030920
+451;Bleeding or perforating ulcer;533.4;533;ICD9;Caminal et al (2004);Chronic or unspecified peptic ulcer of unspecified site with hemorrhage;Peptic ulcer, site unspecified;C0494730;C0030920
+452;Bleeding or perforating ulcer;533.6;533;ICD9;Caminal et al (2004);Chronic or unspecified peptic ulcer of unspecified site with hemorrhage and perforation;Peptic ulcer, site unspecified;C0494732;C0030920
+453;Appendicitis with complication;540.0;540;ICD9;Caminal et al (2004);Acute appendicitis with generalized peritonitis;Acute appendicitis;C0156092;C0085693
+454;Appendicitis with complication;540.1;540;ICD9;Caminal et al (2004);Acute appendicitis with peritoneal abscess;Acute appendicitis;C0156093;C0085693
+455;Gastroenteritis;558.9;558;ICD9;Caminal et al (2004);Other and unspecified noninfectious gastroenteritis and colitis;Other and unspecified noninfectious gastroenteritis and colitis;C0029512;C0029512
+456;Urinary tract infections;590.0;590;ICD9;Caminal et al (2004);Chronic pyelonephritis;Infections of kidney;C0085697;C0021313
+457;Urinary tract infections;590.1;590;ICD9;Caminal et al (2004);Acute pyelonephritis;Infections of kidney;C0520575;C0021313
+458;Urinary tract infections;599.0;599;ICD9;Caminal et al (2004);Urinary tract infection, site not specified;Other disorders of urethra and urinary tract;C0042029;C0546812
+459;Urinary tract infections;590.8;590;ICD9;Caminal et al (2004);Other pyelonephritis or pyonephrosis, not specified as acute or chronic;Infections of kidney;C0156255;C0021313
+460;Pelvic inflammatory disease;614;614;ICD9;Caminal et al (2004);Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum;Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum;C0156326;C0156326
+461;Disease of the skin and subcutaneous tissue;681;681;ICD9;Caminal et al (2004);Cellulitis and abscess of finger and toe;Cellulitis and abscess of finger and toe;C0157690;C0157690
+462;Disease of the skin and subcutaneous tissue;682;682;ICD9;Caminal et al (2004);Other cellulitis and abscess;Other cellulitis and abscess;C0157695;C0157695
+463;Disease of the skin and subcutaneous tissue;683;683;ICD9;Caminal et al (2004);Acute lymphadenitis;Acute lymphadenitis;C0157705;C0157705
+464;Disease of the skin and subcutaneous tissue;686;686;ICD9;Caminal et al (2004);Other local infections of skin and subcutaneous tissue;Other local infections of skin and subcutaneous tissue;C0157707;C0157707
+465;Convulsions;780.3;780;ICD9;Caminal et al (2004);Convulsions;General symptoms;C4048158;C0159028
+466;Gastroenteritis;A080;A080;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+467;Gastroenteritis;A081;A081;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+468;Gastroenteritis;A082;A082;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+469;Gastroenteritis;A083;A083;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+470;Gastroenteritis;A084;A084;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+471;Gastroenteritis;A085;A085;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+472;Gastroenteritis;A090;A090;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+473;Gastroenteritis;A099;A099;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+474;Volume depletion and other disorders of electrolyte and acid-base balance;E86;E86;ICD10;Jones et al (2018);Volume depletion;Volume depletion;C0546884;C0546884
+475;Volume depletion and other disorders of electrolyte and acid-base balance;E87;E87;ICD10;Jones et al (2018);Other disorders of fluid, electrolyte and acid-base balance;Other disorders of fluid, electrolyte and acid-base balance;C0494355;C0494355
+476;Physiological jaundice;P59.3;P59;ICD10;Jones et al (2018);Neonatal jaundice from breast milk inhibitor;Neonatal jaundice from other and unspecified causes;C0270215;C0158977
+477;Physiological jaundice;P59.9;P59;ICD10;Jones et al (2018);Neonatal jaundice, unspecified;Neonatal jaundice from other and unspecified causes;C0022353;C0158977
+478;Feeding difficulties;P92.2;P92;ICD10;Jones et al (2018);Slow feeding of newborn;Feeding problems of newborn;C0270273;C0159023
+479;Feeding difficulties;P92.3;P92;ICD10;Jones et al (2018);Underfeeding of newborn;Feeding problems of newborn;C0410924;C0159023
+480;Feeding difficulties;P92.4;P92;ICD10;Jones et al (2018);Overfeeding of newborn;Feeding problems of newborn;C0410925;C0159023
+481;Feeding difficulties;P92.5;P92;ICD10;Jones et al (2018);Neonatal difficulty in feeding at breast;Feeding problems of newborn;C0495462;C0159023
+482;Feeding difficulties;P92.8;P92;ICD10;Jones et al (2018);Other feeding problems of newborn;Feeding problems of newborn;C0477964;C0159023
+483;Feeding difficulties;P92.9;P92;ICD10;Jones et al (2018);Feeding problem of newborn, unspecified;Feeding problems of newborn;C0159023;C0159023
+484;Physiological jaundice;R17X;R17X;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+485;Feeding difficulties;R63.3;R63;ICD10;Jones et al (2018);Feeding difficulties;Symptoms and signs concerning food and fluid intake;C0232466;C3646024
+486;Physiological jaundice;S128;S128;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+487;Physiological jaundice;S129;S129;ICD10;Jones et al (2018);ERROR;ERROR;ERROR - atom;ERROR - atom
+488;Diabetes Mellitus Type 2;E11;E11;ICD10;Bohnet-Joschko (2022);Type 2 diabetes mellitus;Type 2 diabetes mellitus;C0011847;C0011847
+489;Volume depletion and other disorders of electrolyte and acid-base balance;E86;E86;ICD10;Bohnet-Joschko (2022);Volume depletion;Volume depletion;C0546884;C0546884
+490;Volume depletion and other disorders of electrolyte and acid-base balance;E87;E87;ICD10;Bohnet-Joschko (2022);Other disorders of fluid, electrolyte and acid-base balance;Other disorders of fluid, electrolyte and acid-base balance;C0494355;C0494355
+491;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K08;K08;ICD10;Bohnet-Joschko (2022);Other disorders of teeth and supporting structures;Other disorders of teeth and supporting structures;C0494707;C0494707
+492;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K21;K21;ICD10;Bohnet-Joschko (2022);Gastro-esophageal reflux disease;Gastro-esophageal reflux disease;C0017168;C0017168
+493;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K25;K25;ICD10;Bohnet-Joschko (2022);Gastric ulcer;Gastric ulcer;C1275742;C1275742
+494;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K26;K26;ICD10;Bohnet-Joschko (2022);Duodenal ulcer;Duodenal ulcer;C0013295;C0013295
+495;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K29;K29;ICD10;Bohnet-Joschko (2022);Gastritis and duodenitis;Gastritis and duodenitis;C0267166;C0267166
+496;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K52;K52;ICD10;Bohnet-Joschko (2022);Other and unspecified noninfective gastroenteritis and colitis;Other and unspecified noninfective gastroenteritis and colitis;C0029512;C0029512
+497;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K57;K57;ICD10;Bohnet-Joschko (2022);Diverticular disease of intestine;Diverticular disease of intestine;C4317009;C4317009
+498;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K59;K59;ICD10;Bohnet-Joschko (2022);Other functional intestinal disorders;Other functional intestinal disorders;C0341089;C0341089
+499;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;K62;K62;ICD10;Bohnet-Joschko (2022);Other diseases of anus and rectum;Other diseases of anus and rectum;C4544984;C4544984
+500;Gastrointestinal ulcers and inflammation, esophageal reflux disease, functional bowel disorders, dysphagia;R13;R13;ICD10;Bohnet-Joschko (2022);Aphagia and dysphagia;Aphagia and dysphagia;C2910400;C2910400
+501;Intestinal infections;A04;A04;ICD10;Bohnet-Joschko (2022);Other bacterial intestinal infections;Other bacterial intestinal infections;C0494023;C0494023
+502;Intestinal infections;A08;A08;ICD10;Bohnet-Joschko (2022);Viral and other specified intestinal infections;Viral and other specified intestinal infections;C0494032;C0494032
+503;Intestinal infections;A09;A09;ICD10;Bohnet-Joschko (2022);Infectious gastroenteritis and colitis, unspecified;Infectious gastroenteritis and colitis, unspecified;C0021342;C0021342
+504;Intestinal infections;R11;R11;ICD10;Bohnet-Joschko (2022);Nausea and vomiting;Nausea and vomiting;C0027498;C0027498
+505;Chronic kidney disease, cystitis, other diseases of the urinary system.;N18;N18;ICD10;Bohnet-Joschko (2022);Chronic kidney disease (CKD);Chronic kidney disease (CKD);C1561643;C1561643
+506;Chronic kidney disease, cystitis, other diseases of the urinary system.;N30;N30;ICD10;Bohnet-Joschko (2022);Cystitis;Cystitis;C0010692;C0010692
+507;Chronic kidney disease, cystitis, other diseases of the urinary system.;N39;N39;ICD10;Bohnet-Joschko (2022);Other disorders of urinary system;Other disorders of urinary system;C0178288;C0178288
+508;Dementia (vascular or Alzheimer's disease, primary Parkinson's syndrome);F01;F01;ICD10;Bohnet-Joschko (2022);Vascular dementia;Vascular dementia;C0011263;C0011263
+509;Dementia (vascular or Alzheimer's disease, primary Parkinson's syndrome);G20;G20;ICD10;Bohnet-Joschko (2022);Parkinson's disease;Parkinson's disease;C0030567;C0030567
+510;Dementia (vascular or Alzheimer's disease, primary Parkinson's syndrome);G30;G30;ICD10;Bohnet-Joschko (2022);Alzheimer's disease;Alzheimer's disease;C0002395;C0002395
+511;Mental disorders, personality or behavioral disorders, depressive disorder, schizoaffective disorder and schizophrenia, delirium;F05;F05;ICD10;Bohnet-Joschko (2022);Delirium due to known physiological condition;Delirium due to known physiological condition;;
+512;Mental disorders, personality or behavioral disorders, depressive disorder, schizoaffective disorder and schizophrenia, delirium;F06;F06;ICD10;Bohnet-Joschko (2022);Other mental disorders due to known physiological condition;Other mental disorders due to known physiological condition;;
+513;Mental disorders, personality or behavioral disorders, depressive disorder, schizoaffective disorder and schizophrenia, delirium;F07;F07;ICD10;Bohnet-Joschko (2022);Personality and behavioral disorders due to known physiological condition;Personality and behavioral disorders due to known physiological condition;C2874363;C2874363
+514;Mental disorders, personality or behavioral disorders, depressive disorder, schizoaffective disorder and schizophrenia, delirium;F10;F10;ICD10;Bohnet-Joschko (2022);Alcohol related disorders;Alcohol related disorders;C0236664;C0236664
+515;Mental disorders, personality or behavioral disorders, depressive disorder, schizoaffective disorder and schizophrenia, delirium;F20;F20;ICD10;Bohnet-Joschko (2022);Schizophrenia;Schizophrenia;C0036341;C0036341
+516;Mental disorders, personality or behavioral disorders, depressive disorder, schizoaffective disorder and schizophrenia, delirium;F32;F32;ICD10;Bohnet-Joschko (2022);Depressive episode;Depressive episode;C0349217;C0349217
+517;Mental disorders, personality or behavioral disorders, depressive disorder, schizoaffective disorder and schizophrenia, delirium;F33;F33;ICD10;Bohnet-Joschko (2022);Major depressive disorder, recurrent;Major depressive disorder, recurrent;;
+518;Other diseases of the nervous system (MS, epilepsy);G35;G35;ICD10;Bohnet-Joschko (2022);Multiple sclerosis;Multiple sclerosis;C0026769;C0026769
+519;Other diseases of the nervous system (MS, epilepsy);G40;G40;ICD10;Bohnet-Joschko (2022);Epilepsy and recurrent seizures;Epilepsy and recurrent seizures;C1719410;C1719410
+520;Cataracta Senilis;H25;H25;ICD10;Bohnet-Joschko (2022);Age-related cataract;Age-related cataract;C0036646;C0036646
+521;Anemias of different origin ;D50;D50;ICD10;Bohnet-Joschko (2022);Iron deficiency anemia;Iron deficiency anemia;C0008272;C0008272
+522;Anemias of different origin ;D64;D64;ICD10;Bohnet-Joschko (2022);Other anemias;Other anemias;C0472702;C0472702
+523;Hypertension, hypotension, atherosclerosis, heart failure, thrombosis, phlebitis and thrombophlebitis.;I10;I10;ICD10;Bohnet-Joschko (2022);Essential (primary) hypertension;Essential (primary) hypertension;C0085580;C0085580
+524;Hypertension, hypotension, atherosclerosis, heart failure, thrombosis, phlebitis and thrombophlebitis.;I50;I50;ICD10;Bohnet-Joschko (2022);Heart failure;Heart failure;C0018801;C0018801
+525;Hypertension, hypotension, atherosclerosis, heart failure, thrombosis, phlebitis and thrombophlebitis.;I70;I70;ICD10;Bohnet-Joschko (2022);Atherosclerosis;Atherosclerosis;C0264956;C0264956
+526;Hypertension, hypotension, atherosclerosis, heart failure, thrombosis, phlebitis and thrombophlebitis.;I80;I80;ICD10;Bohnet-Joschko (2022);Phlebitis and thrombophlebitis;Phlebitis and thrombophlebitis;C0031542;C0031542
+527;Hypertension, hypotension, atherosclerosis, heart failure, thrombosis, phlebitis and thrombophlebitis.;I95;I95;ICD10;Bohnet-Joschko (2022);Hypotension;Hypotension;C0020649;C0020649
+528;Other acute/chronic lower respiratory tract infections and influenza, sore throat and chest pain.;J10;J10;ICD10;Bohnet-Joschko (2022);Influenza due to other identified influenza virus;Influenza due to other identified influenza virus;C0276353;C0276353
+529;Other acute/chronic lower respiratory tract infections and influenza, sore throat and chest pain.;J20;J20;ICD10;Bohnet-Joschko (2022);Acute bronchitis;Acute bronchitis;C0149514;C0149514
+530;Other acute/chronic lower respiratory tract infections and influenza, sore throat and chest pain.;J22;J22;ICD10;Bohnet-Joschko (2022);Unspecified acute lower respiratory infection;Unspecified acute lower respiratory infection;C0238990;C0238990
+531;Other acute/chronic lower respiratory tract infections and influenza, sore throat and chest pain.;J40;J40;ICD10;Bohnet-Joschko (2022);Bronchitis, not specified as acute or chronic;Bronchitis, not specified as acute or chronic;C0006277;C0006277
+532;Other acute/chronic lower respiratory tract infections and influenza, sore throat and chest pain.;J44;J44;ICD10;Bohnet-Joschko (2022);Other chronic obstructive pulmonary disease;Other chronic obstructive pulmonary disease;;
+533;Other acute/chronic lower respiratory tract infections and influenza, sore throat and chest pain.;R07;R07;ICD10;Bohnet-Joschko (2022);Pain in throat and chest;Pain in throat and chest;C0495666;C0495666
+534;Skin infections, decubital ulcer and pressure zone, skin cancer exclusive melanoma;A46;A46;ICD10;Bohnet-Joschko (2022);Erysipelas;Erysipelas;C0014733;C0014733
+535;Skin infections, decubital ulcer and pressure zone, skin cancer exclusive melanoma;C44;C44;ICD10;Bohnet-Joschko (2022);Other and unspecified malignant neoplasm of skin;Other and unspecified malignant neoplasm of skin;C1321904;C1321904
+536;Skin infections, decubital ulcer and pressure zone, skin cancer exclusive melanoma;L02;L02;ICD10;Bohnet-Joschko (2022);Cutaneous abscess, furuncle and carbuncle;Cutaneous abscess, furuncle and carbuncle;C0494813;C0494813
+537;Skin infections, decubital ulcer and pressure zone, skin cancer exclusive melanoma;L89;L89;ICD10;Bohnet-Joschko (2022);Pressure ulcer;Pressure ulcer;C0011127;C0011127
+538;Back pain, disturbances of gait and mobility;M54;M54;ICD10;Bohnet-Joschko (2022);Dorsalgia;Dorsalgia;C0004604;C0004604
+539;Back pain, disturbances of gait and mobility;R26;R26;ICD10;Bohnet-Joschko (2022);Abnormalities of gait and mobility;Abnormalities of gait and mobility;C0495683;C0495683
+540;Superficial injuries of various parts of the body;S00;S00;ICD10;Bohnet-Joschko (2022);Superficial injury of head;Superficial injury of head;C0347536;C0347536
+541;Superficial injuries of various parts of the body;S01;S01;ICD10;Bohnet-Joschko (2022);Open wound of head;Open wound of head;C0273239;C0273239
+542;Superficial injuries of various parts of the body;S20;S20;ICD10;Bohnet-Joschko (2022);Superficial injury of thorax;Superficial injury of thorax;C1439255;C1439255
+543;Superficial injuries of various parts of the body;S30;S30;ICD10;Bohnet-Joschko (2022);Superficial injury of abdomen, lower back, pelvis and external genitals;Superficial injury of abdomen, lower back, pelvis and external genitals;C2836767;C2836767
+544;Superficial injuries of various parts of the body;S70;S70;ICD10;Bohnet-Joschko (2022);Superficial injury of hip and thigh;Superficial injury of hip and thigh;C0495927;C0495927
+545;Superficial injuries of various parts of the body;S80;S80;ICD10;Bohnet-Joschko (2022);Superficial injury of knee and lower leg;Superficial injury of knee and lower leg;C2860302;C2860302
+546;Ischaemic heart diseases ;I20;I20;ICD10;Sundmacher et al (2015);Angina pectoris;Angina pectoris;C0002962;C0002962
+547;Ischaemic heart diseases ;I25.0;I25;ICD10;Sundmacher et al (2015);ERROR;Chronic ischemic heart disease;ERROR - atom;C0264694
+548;Ischaemic heart diseases ;I25.1;I25;ICD10;Sundmacher et al (2015);Atherosclerotic heart disease of native coronary artery;Chronic ischemic heart disease;C1956346;C0264694
+549;Ischaemic heart diseases ;I25.5;I25;ICD10;Sundmacher et al (2015);Ischemic cardiomyopathy;Chronic ischemic heart disease;C0349782;C0264694
+550;Ischaemic heart diseases ;I25.6;I25;ICD10;Sundmacher et al (2015);Silent myocardial ischemia;Chronic ischemic heart disease;C0340291;C0264694
+551;Ischaemic heart diseases ;I25.8;I25;ICD10;Sundmacher et al (2015);Other forms of chronic ischemic heart disease;Chronic ischemic heart disease;C0155669;C0264694
+552;Ischaemic heart diseases ;I25.9;I25;ICD10;Sundmacher et al (2015);Chronic ischemic heart disease, unspecified;Chronic ischemic heart disease;C0264694;C0264694
+553;Heart failure ;I50;I50;ICD10;Sundmacher et al (2015);Heart failure;Heart failure;C0018801;C0018801
+554;Other diseases of the circulatory system;I05;I05;ICD10;Sundmacher et al (2015);Rheumatic mitral valve diseases;Rheumatic mitral valve diseases;C0264765;C0264765
+555;Other diseases of the circulatory system;I06;I06;ICD10;Sundmacher et al (2015);Rheumatic aortic valve diseases;Rheumatic aortic valve diseases;C0684196;C0684196
+556;Other diseases of the circulatory system;I08.0;I08;ICD10;Sundmacher et al (2015);Rheumatic disorders of both mitral and aortic valves;Multiple valve diseases;;
+557;Other diseases of the circulatory system;I49.8;I49;ICD10;Sundmacher et al (2015);Other specified cardiac arrhythmias;Other cardiac arrhythmias;C0428908;C0494598
+558;Other diseases of the circulatory system;I49.9;I49;ICD10;Sundmacher et al (2015);Cardiac arrhythmia, unspecified;Other cardiac arrhythmias;C0003811;C0494598
+559;Other diseases of the circulatory system;I67.2;I67;ICD10;Sundmacher et al (2015);Cerebral atherosclerosis;Other cerebrovascular diseases;;C0393949
+560;Other diseases of the circulatory system;I67.4;I67;ICD10;Sundmacher et al (2015);Hypertensive encephalopathy;Other cerebrovascular diseases;C0151620;C0393949
+561;Other diseases of the circulatory system;I70;I70;ICD10;Sundmacher et al (2015);Atherosclerosis;Atherosclerosis;C0264956;C0264956
+562;Other diseases of the circulatory system;I73;I73;ICD10;Sundmacher et al (2015);Other peripheral vascular diseases;Other peripheral vascular diseases;C0553983;C0553983
+563;Other diseases of the circulatory system;I78;I78;ICD10;Sundmacher et al (2015);Diseases of capillaries;Diseases of capillaries;C0155765;C0155765
+564;Other diseases of the circulatory system;I80.0;I80;ICD10;Sundmacher et al (2015);Phlebitis and thrombophlebitis of superficial vessels of lower extremities;Phlebitis and thrombophlebitis;;C0031542
+565;Other diseases of the circulatory system;I80.80;I80;ICD10;Sundmacher et al (2015);ERROR;Phlebitis and thrombophlebitis;ERROR - atom;C0031542
+566;Other diseases of the circulatory system;I83a;I83;ICD10;Sundmacher et al (2015);ERROR;Varicose veins of lower extremities;ERROR - atom;C0155778
+567;Other diseases of the circulatory system;I86;I86;ICD10;Sundmacher et al (2015);Varicose veins of other sites;Varicose veins of other sites;C0155797;C0155797
+568;Other diseases of the circulatory system;I87;I87;ICD10;Sundmacher et al (2015);Other disorders of veins;Other disorders of veins;C0494626;C0494626
+569;Other diseases of the circulatory system;I95;I95;ICD10;Sundmacher et al (2015);Hypotension;Hypotension;C0020649;C0020649
+570;Other diseases of the circulatory system;R00.0;R00;ICD10;Sundmacher et al (2015);Tachycardia, unspecified;Abnormalities of heart beat;C0039231;C1744601
+571;Other diseases of the circulatory system;R00.2;R00;ICD10;Sundmacher et al (2015);Palpitations;Abnormalities of heart beat;C0030252;C1744601
+572;Other diseases of the circulatory system;R47.0;R47;ICD10;Sundmacher et al (2015);Dysphasia and aphasia;Speech disturbances, not elsewhere classified;C1313975;C0869217
+573;Other diseases of the circulatory system;I83;I83;ICD10;Sundmacher et al (2015);Varicose veins of lower extremities;Varicose veins of lower extremities;C0155778;C0155778
+574;Other diseases of the circulatory system;I86;I86;ICD10;Sundmacher et al (2015);Varicose veins of other sites;Varicose veins of other sites;C0155797;C0155797
+575;Other diseases of the circulatory system;I87;I87;ICD10;Sundmacher et al (2015);Other disorders of veins;Other disorders of veins;C0494626;C0494626
+576;Other diseases of the circulatory system;I95;I95;ICD10;Sundmacher et al (2015);Hypotension;Hypotension;C0020649;C0020649
+577;Other diseases of the circulatory system;R00.0;R00;ICD10;Sundmacher et al (2015);Tachycardia, unspecified;Abnormalities of heart beat;C0039231;C1744601
+578;Other diseases of the circulatory system;R00.2;R00;ICD10;Sundmacher et al (2015);Palpitations;Abnormalities of heart beat;C0030252;C1744601
+579;Other diseases of the circulatory system;R47.0;R47;ICD10;Sundmacher et al (2015);Dysphasia and aphasia;Speech disturbances, not elsewhere classified;C1313975;C0869217
+580;Bronchitis & COPD;J20;J20;ICD10;Sundmacher et al (2015);Acute bronchitis;Acute bronchitis;C0149514;C0149514
+581;Bronchitis & COPD;J21;J21;ICD10;Sundmacher et al (2015);Acute bronchiolitis;Acute bronchiolitis;;
+582;Bronchitis & COPD;J40;J40;ICD10;Sundmacher et al (2015);Bronchitis, not specified as acute or chronic;Bronchitis, not specified as acute or chronic;C0006277;C0006277
+583;Bronchitis & COPD;J41;J41;ICD10;Sundmacher et al (2015);Simple and mucopurulent chronic bronchitis;Simple and mucopurulent chronic bronchitis;C0392000;C0392000
+584;Bronchitis & COPD;J42;J42;ICD10;Sundmacher et al (2015);Unspecified chronic bronchitis;Unspecified chronic bronchitis;;
+585;Bronchitis & COPD;J43;J43;ICD10;Sundmacher et al (2015);Emphysema;Emphysema;C0034067;C0034067
+586;Bronchitis & COPD;J47;J47;ICD10;Sundmacher et al (2015);Bronchiectasis;Bronchiectasis;;
+587;Mental and behavioural disorders due to use of alcohol or opioids;F10;F10;ICD10;Sundmacher et al (2015);Alcohol related disorders;Alcohol related disorders;C0236664;C0236664
+588;Mental and behavioural disorders due to use of alcohol or opioids;F11;F11;ICD10;Sundmacher et al (2015);Opioid related disorders;Opioid related disorders;C0027412;C0027412
+589;Back pain [dorsopathies];M42;M42;ICD10;Sundmacher et al (2015);Spinal osteochondrosis;Spinal osteochondrosis;C0477611;C0477611
+590;Back pain [dorsopathies];M47;M47;ICD10;Sundmacher et al (2015);Spondylosis;Spondylosis;C0038019;C0038019
+591;Back pain [dorsopathies];M53;M53;ICD10;Sundmacher et al (2015);Other and unspecified dorsopathies, not elsewhere classified;Other and unspecified dorsopathies, not elsewhere classified;C2895415;C2895415
+592;Back pain [dorsopathies];M54;M54;ICD10;Sundmacher et al (2015);Dorsalgia;Dorsalgia;C0004604;C0004604
+593;Hypertension ;I10;I10;ICD10;Sundmacher et al (2015);Essential (primary) hypertension;Essential (primary) hypertension;C0085580;C0085580
+594;Hypertension ;I11;I11;ICD10;Sundmacher et al (2015);Hypertensive heart disease;Hypertensive heart disease;;
+595;Hypertension ;I12;I12;ICD10;Sundmacher et al (2015);Hypertensive chronic kidney disease;Hypertensive chronic kidney disease;C0848548;C0848548
+596;Hypertension ;I13;I13;ICD10;Sundmacher et al (2015);Hypertensive heart and chronic kidney disease;Hypertensive heart and chronic kidney disease;C0155601;C0155601
+597;Hypertension ;I14;I14;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+598;Hypertension ;I15;I15;ICD10;Sundmacher et al (2015);Secondary hypertension;Secondary hypertension;C0155616;C0155616
+599;Gastroenteritis and other diseases of intestines ;K52.2;K52;ICD10;Sundmacher et al (2015);Allergic and dietetic gastroenteritis and colitis;Other and unspecified noninfective gastroenteritis and colitis;;C0029512
+600;Gastroenteritis and other diseases of intestines ;K52.8;K52;ICD10;Sundmacher et al (2015);Other specified noninfective gastroenteritis and colitis;Other and unspecified noninfective gastroenteritis and colitis;C0348738;C0029512
+601;Gastroenteritis and other diseases of intestines ;K52.9;K52;ICD10;Sundmacher et al (2015);Noninfective gastroenteritis and colitis, unspecified;Other and unspecified noninfective gastroenteritis and colitis;C0341276;C0029512
+602;Gastroenteritis and other diseases of intestines ;K57;K57;ICD10;Sundmacher et al (2015);Diverticular disease of intestine;Diverticular disease of intestine;C4317009;C4317009
+603;Gastroenteritis and other diseases of intestines ;K58;K58;ICD10;Sundmacher et al (2015);Irritable bowel syndrome;Irritable bowel syndrome;C0022104;C0022104
+604;Gastroenteritis and other diseases of intestines ;K59.0;K59;ICD10;Sundmacher et al (2015);Constipation;Other functional intestinal disorders;C0009806;C0341089
+605;Intestinal infectious diseases ;A01;A01;ICD10;Sundmacher et al (2015);Typhoid and paratyphoid fevers;Typhoid and paratyphoid fevers;C0275976;C0275976
+606;Intestinal infectious diseases ;A02;A02;ICD10;Sundmacher et al (2015);Other salmonella infections;Other salmonella infections;;
+607;Intestinal infectious diseases ;A04;A04;ICD10;Sundmacher et al (2015);Other bacterial intestinal infections;Other bacterial intestinal infections;C0494023;C0494023
+608;Intestinal infectious diseases ;A05;A05;ICD10;Sundmacher et al (2015);Other bacterial foodborne intoxications, not elsewhere classified;Other bacterial foodborne intoxications, not elsewhere classified;C2880103;C2880103
+609;Intestinal infectious diseases ;A07;A07;ICD10;Sundmacher et al (2015);Other protozoal intestinal diseases;Other protozoal intestinal diseases;C0152506;C0152506
+610;Intestinal infectious diseases ;A08;A08;ICD10;Sundmacher et al (2015);Viral and other specified intestinal infections;Viral and other specified intestinal infections;C0494032;C0494032
+611;Intestinal infectious diseases ;A09;A09;ICD10;Sundmacher et al (2015);Infectious gastroenteritis and colitis, unspecified;Infectious gastroenteritis and colitis, unspecified;C0021342;C0021342
+612;Influenza and pneumonia ;J10;J10;ICD10;Sundmacher et al (2015);Influenza due to other identified influenza virus;Influenza due to other identified influenza virus;C0276353;C0276353
+613;Influenza and pneumonia ;J11;J11;ICD10;Sundmacher et al (2015);Influenza due to unidentified influenza virus;Influenza due to unidentified influenza virus;C2977051;C2977051
+614;Influenza and pneumonia ;J13;J13;ICD10;Sundmacher et al (2015);Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Streptococcus pneumoniae;C0155862;C0155862
+615;Influenza and pneumonia ;J14;J14;ICD10;Sundmacher et al (2015);Pneumonia due to Hemophilus influenzae;Pneumonia due to Hemophilus influenzae;;
+616;Influenza and pneumonia ;J15.3;J15;ICD10;Sundmacher et al (2015);Pneumonia due to streptococcus, group B;Bacterial pneumonia, not elsewhere classified;C0348801;
+617;Influenza and pneumonia ;J15.4;J15;ICD10;Sundmacher et al (2015);Pneumonia due to other streptococci;Bacterial pneumonia, not elsewhere classified;C0375326;
+618;Influenza and pneumonia ;J15.7;J15;ICD10;Sundmacher et al (2015);Pneumonia due to Mycoplasma pneumoniae;Bacterial pneumonia, not elsewhere classified;C0032302;
+619;Influenza and pneumonia ;J15.8;J15;ICD10;Sundmacher et al (2015);Pneumonia due to other specified bacteria;Bacterial pneumonia, not elsewhere classified;C0032286;
+620;Influenza and pneumonia ;J15.9;J15;ICD10;Sundmacher et al (2015);Unspecified bacterial pneumonia;Bacterial pneumonia, not elsewhere classified;;
+621;Influenza and pneumonia ;J16.8;J16;ICD10;Sundmacher et al (2015);Pneumonia due to other specified infectious organisms;Pneumonia due to other infectious organisms, not elsewhere classified;C0348679;C0494644
+622;Influenza and pneumonia ;J18.0;J18;ICD10;Sundmacher et al (2015);Bronchopneumonia, unspecified organism;Pneumonia, unspecified organism;C0006285;C0339951
+623;Influenza and pneumonia ;J18.1;J18;ICD10;Sundmacher et al (2015);Lobar pneumonia, unspecified organism;Pneumonia, unspecified organism;C0339966;C0339951
+624;Influenza and pneumonia ;J18.8;J18;ICD10;Sundmacher et al (2015);Other pneumonia, unspecified organism;Pneumonia, unspecified organism;C0348685;C0339951
+625;Influenza and pneumonia ;J18.9;J18;ICD10;Sundmacher et al (2015);Pneumonia, unspecified organism;Pneumonia, unspecified organism;C0339951;C0339951
+626;Influenza and pneumonia ;J18.9;J18;ICD10;Sundmacher et al (2015);Pneumonia, unspecified organism;Pneumonia, unspecified organism;C0339951;C0339951
+627;Ear nose throat infections ;H66;H66;ICD10;Sundmacher et al (2015);Suppurative and unspecified otitis media;Suppurative and unspecified otitis media;C0029888;C0029888
+628;Ear nose throat infections ;J01;J01;ICD10;Sundmacher et al (2015);Acute sinusitis;Acute sinusitis;;
+629;Ear nose throat infections ;J02;J02;ICD10;Sundmacher et al (2015);Acute pharyngitis;Acute pharyngitis;;
+630;Ear nose throat infections ;J03;J03;ICD10;Sundmacher et al (2015);Acute tonsillitis;Acute tonsillitis;C0001361;C0001361
+631;Ear nose throat infections ;J06;J06;ICD10;Sundmacher et al (2015);Acute upper respiratory infections of multiple and unspecified sites;Acute upper respiratory infections of multiple and unspecified sites;C0264223;C0264223
+632;Ear nose throat infections ;J31;J31;ICD10;Sundmacher et al (2015);Chronic rhinitis, nasopharyngitis and pharyngitis;Chronic rhinitis, nasopharyngitis and pharyngitis;C0494651;C0494651
+633;Ear nose throat infections ;J32;J32;ICD10;Sundmacher et al (2015);Chronic sinusitis;Chronic sinusitis;C0037199;C0037199
+634;Ear nose throat infections ;J35;J35;ICD10;Sundmacher et al (2015);Chronic diseases of tonsils and adenoids;Chronic diseases of tonsils and adenoids;C0155828;C0155828
+635;Depressive disorders;F32;F32;ICD10;Sundmacher et al (2015);Depressive episode;Depressive episode;C0349217;C0349217
+636;Depressive disorders;F33;F33;ICD10;Sundmacher et al (2015);Major depressive disorder, recurrent;Major depressive disorder, recurrent;;
+637;Diabetes mellitus ;E10.2;E10;ICD10;Sundmacher et al (2015);Type 1 diabetes mellitus with kidney complications;Type 1 diabetes mellitus;C2874020;C0011854
+638;Diabetes mellitus ;E10.3;E10;ICD10;Sundmacher et al (2015);Type 1 diabetes mellitus with ophthalmic complications;Type 1 diabetes mellitus;C0348914;C0011854
+639;Diabetes mellitus ;E10.4;E10;ICD10;Sundmacher et al (2015);Type 1 diabetes mellitus with neurological complications;Type 1 diabetes mellitus;C0348915;C0011854
+640;Diabetes mellitus ;E10.5;E10;ICD10;Sundmacher et al (2015);Type 1 diabetes mellitus with circulatory complications;Type 1 diabetes mellitus;C0837011;C0011854
+641;Diabetes mellitus ;E10.6;E10;ICD10;Sundmacher et al (2015);Type 1 diabetes mellitus with other specified complications;Type 1 diabetes mellitus;C0342261;C0011854
+642;Diabetes mellitus ;E10.8;E10;ICD10;Sundmacher et al (2015);Type 1 diabetes mellitus with unspecified complications;Type 1 diabetes mellitus;C1299613;C0011854
+643;Diabetes mellitus ;E10.9;E10;ICD10;Sundmacher et al (2015);Type 1 diabetes mellitus without complications;Type 1 diabetes mellitus;C0494284;C0011854
+644;Diabetes mellitus ;E11;E11;ICD10;Sundmacher et al (2015);Type 2 diabetes mellitus;Type 2 diabetes mellitus;C0011847;C0011847
+645;Diabetes mellitus ;E13.6;E13;ICD10;Sundmacher et al (2015);Other specified diabetes mellitus with other specified complications;Other specified diabetes mellitus;C0348931;
+646;Diabetes mellitus ;E13.7;E13;ICD10;Sundmacher et al (2015);ERROR;Other specified diabetes mellitus;ERROR - atom;
+647;Diabetes mellitus ;E13.9;E13;ICD10;Sundmacher et al (2015);Other specified diabetes mellitus without complications;Other specified diabetes mellitus;C0494293;
+648;Diabetes mellitus ;E14;E14;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+649;Diabetes mellitus ;E16.2;E16;ICD10;Sundmacher et al (2015);Hypoglycemia, unspecified;Other disorders of pancreatic internal secretion;C0020615;C0154189
+650;Gonarthrosis [arthrosis of knee] ;M17.0;M17;ICD10;Sundmacher et al (2015);Bilateral primary osteoarthritis of knee;Osteoarthritis of knee;C2893930;C0409959
+651;Gonarthrosis [arthrosis of knee] ;M17.1;M17;ICD10;Sundmacher et al (2015);Unilateral primary osteoarthritis of knee;Osteoarthritis of knee;;C0409959
+652;Gonarthrosis [arthrosis of knee] ;M17.4;M17;ICD10;Sundmacher et al (2015);Other bilateral secondary osteoarthritis of knee;Osteoarthritis of knee;C2893942;C0409959
+653;Gonarthrosis [arthrosis of knee] ;M17.5;M17;ICD10;Sundmacher et al (2015);Other unilateral secondary osteoarthritis of knee;Osteoarthritis of knee;;C0409959
+654;Gonarthrosis [arthrosis of knee] ;M17.9;M17;ICD10;Sundmacher et al (2015);Osteoarthritis of knee, unspecified;Osteoarthritis of knee;C0409959;C0409959
+655;Soft tissue disorders ;G56.0;G56;ICD10;Sundmacher et al (2015);Carpal tunnel syndrome;Mononeuropathies of upper limb;C0007286;C0494487
+656;Soft tissue disorders ;M67.4;M67;ICD10;Sundmacher et al (2015);Ganglion;Other disorders of synovium and tendon;C1258666;C0494980
+657;Soft tissue disorders ;M71.3;M71;ICD10;Sundmacher et al (2015);Other bursal cyst;Other bursopathies;C0085648;C0494983
+658;Soft tissue disorders ;M75;M75;ICD10;Sundmacher et al (2015);Shoulder lesions;Shoulder lesions;C0494989;C0494989
+659;Soft tissue disorders ;M76;M76;ICD10;Sundmacher et al (2015);Enthesopathies, lower limb, excluding foot;Enthesopathies, lower limb, excluding foot;C0494990;C0494990
+660;Soft tissue disorders ;M77;M77;ICD10;Sundmacher et al (2015);Other enthesopathies;Other enthesopathies;C0494992;C0494992
+661;Soft tissue disorders ;M79b;M79;ICD10;Sundmacher et al (2015);ERROR;Other and unspecified soft tissue disorders, not elsewhere classified;ERROR - atom;C2896437
+662;Other avoidable mental and behavioural disorders ;F40;F40;ICD10;Sundmacher et al (2015);Phobic anxiety disorders;Phobic anxiety disorders;C0349231;C0349231
+663;Other avoidable mental and behavioural disorders ;F41;F41;ICD10;Sundmacher et al (2015);Other anxiety disorders;Other anxiety disorders;C0349232;C0349232
+664;Other avoidable mental and behavioural disorders ;F43;F43;ICD10;Sundmacher et al (2015);Reaction to severe stress, and adjustment disorders;Reaction to severe stress, and adjustment disorders;C0494406;C0494406
+665;Other avoidable mental and behavioural disorders ;F45;F45;ICD10;Sundmacher et al (2015);Somatoform disorders;Somatoform disorders;C0037650;C0037650
+666;Other avoidable mental and behavioural disorders ;F50.0;F50;ICD10;Sundmacher et al (2015);Anorexia nervosa;Eating disorders;C0003125;C0013473
+667;Other avoidable mental and behavioural disorders ;F50.2;F50;ICD10;Sundmacher et al (2015);Bulimia nervosa;Eating disorders;C0006370;C0013473
+668;Other avoidable mental and behavioural disorders ;F60;F60;ICD10;Sundmacher et al (2015);Specific personality disorders;Specific personality disorders;C0349272;C0349272
+669;Diseases of the eye ;H25;H25;ICD10;Sundmacher et al (2015);Age-related cataract;Age-related cataract;C0036646;C0036646
+670;Diseases of the eye ;H40;H40;ICD10;Sundmacher et al (2015);Glaucoma;Glaucoma;C0017601;C0017601
+671;Diseases of urinary system ;N30;N30;ICD10;Sundmacher et al (2015);Cystitis;Cystitis;C0010692;C0010692
+672;Diseases of urinary system ;N34;N34;ICD10;Sundmacher et al (2015);Urethritis and urethral syndrome;Urethritis and urethral syndrome;C0495067;C0495067
+673;Diseases of urinary system ;N39.0;N39;ICD10;Sundmacher et al (2015);Urinary tract infection, site not specified;Other disorders of urinary system;C0042029;C0178288
+674;Sleep disorders;G47;G47;ICD10;Sundmacher et al (2015);Sleep disorders;Sleep disorders;C0851578;C0851578
+675;Diseases of the skin and subcutaneous tissue ;A46;A46;ICD10;Sundmacher et al (2015);Erysipelas;Erysipelas;C0014733;C0014733
+676;Diseases of the skin and subcutaneous tissue ;L01;L01;ICD10;Sundmacher et al (2015);Impetigo;Impetigo;C0021099;C0021099
+677;Diseases of the skin and subcutaneous tissue ;L02;L02;ICD10;Sundmacher et al (2015);Cutaneous abscess, furuncle and carbuncle;Cutaneous abscess, furuncle and carbuncle;C0494813;C0494813
+678;Diseases of the skin and subcutaneous tissue ;L04;L04;ICD10;Sundmacher et al (2015);Acute lymphadenitis;Acute lymphadenitis;;
+679;Diseases of the skin and subcutaneous tissue ;L08.0;L08;ICD10;Sundmacher et al (2015);Pyoderma;Other local infections of skin and subcutaneous tissue;;C0157707
+680;Diseases of the skin and subcutaneous tissue ;L08.8;L08;ICD10;Sundmacher et al (2015);Other specified local infections of the skin and subcutaneous tissue;Other local infections of skin and subcutaneous tissue;C0029813;C0157707
+681;Diseases of the skin and subcutaneous tissue ;L08.9;L08;ICD10;Sundmacher et al (2015);Local infection of the skin and subcutaneous tissue, unspecified;Other local infections of skin and subcutaneous tissue;C0406047;C0157707
+682;Diseases of the skin and subcutaneous tissue ;L60.0;L60;ICD10;Sundmacher et al (2015);Ingrowing nail;Nail disorders;C0027343;C0027339
+683;Diseases of the skin and subcutaneous tissue ;L72.1;L72;ICD10;Sundmacher et al (2015);Pilar and trichodermal cyst;Follicular cysts of skin and subcutaneous tissue;C3264463;C0477515
+684;Diseases of the skin and subcutaneous tissue ;L98.0;L98;ICD10;Sundmacher et al (2015);Pyogenic granuloma;Other disorders of skin and subcutaneous tissue, not elsewhere classified;C0263218;C0494889
+685;Thyroid disorder ;E03;E03;ICD10;Sundmacher et al (2015);Other hypothyroidism;Other hypothyroidism;C0494271;C0494271
+686;Thyroid disorder ;E04;E04;ICD10;Sundmacher et al (2015);Other nontoxic goiter;Other nontoxic goiter;C0494274;C0494274
+687;Thyroid disorder ;E05;E05;ICD10;Sundmacher et al (2015);Thyrotoxicosis [hyperthyroidism];Thyrotoxicosis [hyperthyroidism];C0494276;C0494276
+688;Metabolic disorders;E86;E86;ICD10;Sundmacher et al (2015);Volume depletion;Volume depletion;C0546884;C0546884
+689;Metabolic disorders;E87.6;E87;ICD10;Sundmacher et al (2015);Hypokalemia;Other disorders of fluid, electrolyte and acid-base balance;C0020621;C0494355
+690;Metabolic disorders;E89.0;E89;ICD10;Sundmacher et al (2015);Postprocedural hypothyroidism;Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified;;C2874314
+691;Melanoma and other malignant neoplasms of skin ;C43;C43;ICD10;Sundmacher et al (2015);Malignant melanoma of skin;Malignant melanoma of skin;C0151779;C0151779
+692;Melanoma and other malignant neoplasms of skin ;C44;C44;ICD10;Sundmacher et al (2015);Other and unspecified malignant neoplasm of skin;Other and unspecified malignant neoplasm of skin;C1321904;C1321904
+693;Gastritis and duodenitis ;K21;K21;ICD10;Sundmacher et al (2015);Gastro-esophageal reflux disease;Gastro-esophageal reflux disease;C0017168;C0017168
+694;Gastritis and duodenitis ;K29.7;K29;ICD10;Sundmacher et al (2015);Gastritis, unspecified;Gastritis and duodenitis;C0017152;C0267166
+695;Gastritis and duodenitis ;K29.9;K29;ICD10;Sundmacher et al (2015);Gastroduodenitis, unspecified;Gastritis and duodenitis;C0267166;C0267166
+696;Gastritis and duodenitis ;K30;K30;ICD10;Sundmacher et al (2015);Functional dyspepsia;Functional dyspepsia;C0267167;C0267167
+697;Gastritis and duodenitis ;K31;K31;ICD10;Sundmacher et al (2015);Other diseases of stomach and duodenum;Other diseases of stomach and duodenum;C0156084;C0156084
+698;Migraine and headache syndromes ;G43;G43;ICD10;Sundmacher et al (2015);Migraine;Migraine;C0149931;C0149931
+699;Migraine and headache syndromes ;G44.0;G44;ICD10;Sundmacher et al (2015);Cluster headaches and other trigeminal autonomic cephalgias (TAC);Other headache syndromes;C2875218;C0494479
+700;Migraine and headache syndromes ;G44.1;G44;ICD10;Sundmacher et al (2015);Vascular headache, not elsewhere classified;Other headache syndromes;C0869050;C0494479
+701;Migraine and headache syndromes ;G44.3;G44;ICD10;Sundmacher et al (2015);Post-traumatic headache;Other headache syndromes;C0032816;C0494479
+702;Migraine and headache syndromes ;G44.4;G44;ICD10;Sundmacher et al (2015);Drug-induced headache, not elsewhere classified;Other headache syndromes;C0869051;C0494479
+703;Migraine and headache syndromes ;G44.8;G44;ICD10;Sundmacher et al (2015);Other specified headache syndromes;Other headache syndromes;C0477374;C0494479
+704;Migraine and headache syndromes ;R51;R51;ICD10;Sundmacher et al (2015);Headache;Headache;C0018681;C0018681
+705;Malnutrition & nutritional deficiencies;D50;D50;ICD10;Sundmacher et al (2015);Iron deficiency anemia;Iron deficiency anemia;C0008272;C0008272
+706;Malnutrition & nutritional deficiencies;D51;D51;ICD10;Sundmacher et al (2015);Vitamin B12 deficiency anemia;Vitamin B12 deficiency anemia;C2004521;C2004521
+707;Malnutrition & nutritional deficiencies;D52;D52;ICD10;Sundmacher et al (2015);Folate deficiency anemia;Folate deficiency anemia;C0151482;C0151482
+708;Malnutrition & nutritional deficiencies;D53.1;D53;ICD10;Sundmacher et al (2015);Other megaloblastic anemias, not elsewhere classified;Other nutritional anemias;C0869045;
+709;Malnutrition & nutritional deficiencies;D56b;D56;ICD10;Sundmacher et al (2015);ERROR;Thalassemia;ERROR - atom;C0039730
+710;Malnutrition & nutritional deficiencies;E40;E40;ICD10;Sundmacher et al (2015);Kwashiorkor;Kwashiorkor;C0022806;C0022806
+711;Malnutrition & nutritional deficiencies;E41;E41;ICD10;Sundmacher et al (2015);Nutritional marasmus;Nutritional marasmus;C0086588;C0086588
+712;Malnutrition & nutritional deficiencies;E42;E42;ICD10;Sundmacher et al (2015);Marasmic kwashiorkor;Marasmic kwashiorkor;;
+713;Malnutrition & nutritional deficiencies;E43;E43;ICD10;Sundmacher et al (2015);Unspecified severe protein-calorie malnutrition;Unspecified severe protein-calorie malnutrition;;
+714;Malnutrition & nutritional deficiencies;E44;E44;ICD10;Sundmacher et al (2015);Protein-calorie malnutrition of moderate and mild degree;Protein-calorie malnutrition of moderate and mild degree;C2874217;C2874217
+715;Malnutrition & nutritional deficiencies;E45;E45;ICD10;Sundmacher et al (2015);Retarded development following protein-calorie malnutrition;Retarded development following protein-calorie malnutrition;;
+716;Malnutrition & nutritional deficiencies;E46;E46;ICD10;Sundmacher et al (2015);Unspecified protein-calorie malnutrition;Unspecified protein-calorie malnutrition;C0162429;C0162429
+717;Malnutrition & nutritional deficiencies;E47;E47;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+718;Malnutrition & nutritional deficiencies;E48;E48;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+719;Malnutrition & nutritional deficiencies;E49;E49;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+720;Malnutrition & nutritional deficiencies;E50;E50;ICD10;Sundmacher et al (2015);Vitamin A deficiency;Vitamin A deficiency;C0042842;C0042842
+721;Malnutrition & nutritional deficiencies;E51;E51;ICD10;Sundmacher et al (2015);Thiamine deficiency;Thiamine deficiency;C0039841;C0039841
+722;Malnutrition & nutritional deficiencies;E52;E52;ICD10;Sundmacher et al (2015);Niacin deficiency [pellagra];Niacin deficiency [pellagra];C4317126;C4317126
+723;Malnutrition & nutritional deficiencies;E53;E53;ICD10;Sundmacher et al (2015);Deficiency of other B group vitamins;Deficiency of other B group vitamins;C0494324;C0494324
+724;Malnutrition & nutritional deficiencies;E54;E54;ICD10;Sundmacher et al (2015);Ascorbic acid deficiency;Ascorbic acid deficiency;C0003969;C0003969
+725;Malnutrition & nutritional deficiencies;E55;E55;ICD10;Sundmacher et al (2015);Vitamin D deficiency;Vitamin D deficiency;C0042870;C0042870
+726;Malnutrition & nutritional deficiencies;E56;E56;ICD10;Sundmacher et al (2015);Other vitamin deficiencies;Other vitamin deficiencies;C0011157;C0011157
+727;Malnutrition & nutritional deficiencies;E57;E57;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+728;Malnutrition & nutritional deficiencies;E58;E58;ICD10;Sundmacher et al (2015);Dietary calcium deficiency;Dietary calcium deficiency;C0342922;C0342922
+729;Malnutrition & nutritional deficiencies;E59;E59;ICD10;Sundmacher et al (2015);Dietary selenium deficiency;Dietary selenium deficiency;;
+730;Malnutrition & nutritional deficiencies;E60;E60;ICD10;Sundmacher et al (2015);Dietary zinc deficiency;Dietary zinc deficiency;C0451818;C0451818
+731;Malnutrition & nutritional deficiencies;E61;E61;ICD10;Sundmacher et al (2015);Deficiency of other nutrient elements;Deficiency of other nutrient elements;C0494325;C0494325
+732;Malnutrition & nutritional deficiencies;E62;E62;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+733;Malnutrition & nutritional deficiencies;E63;E63;ICD10;Sundmacher et al (2015);Other nutritional deficiencies;Other nutritional deficiencies;C0154241;C0154241
+734;Malnutrition & nutritional deficiencies;E64;E64;ICD10;Sundmacher et al (2015);Sequelae of malnutrition and other nutritional deficiencies;Sequelae of malnutrition and other nutritional deficiencies;C0348952;C0348952
+735;Malnutrition & nutritional deficiencies;R63.6;R63;ICD10;Sundmacher et al (2015);Underweight;Symptoms and signs concerning food and fluid intake;C0041667;C3646024
+736;Alcoholic liver disease ;K70;K70;ICD10;Sundmacher et al (2015);Alcoholic liver disease;Alcoholic liver disease;C0023896;C0023896
+737;Dental diseases ;K02;K02;ICD10;Sundmacher et al (2015);Dental caries;Dental caries;C3714731;C3714731
+738;Dental diseases ;K04;K04;ICD10;Sundmacher et al (2015);Diseases of pulp and periapical tissues;Diseases of pulp and periapical tissues;C0155933;C0155933
+739;Dental diseases ;K05;K05;ICD10;Sundmacher et al (2015);Gingivitis and periodontal diseases;Gingivitis and periodontal diseases;C0494704;C0494704
+740;Dental diseases ;K06;K06;ICD10;Sundmacher et al (2015);Other disorders of gingiva and edentulous alveolar ridge;Other disorders of gingiva and edentulous alveolar ridge;C0494706;C0494706
+741;Dental diseases ;K08;K08;ICD10;Sundmacher et al (2015);Other disorders of teeth and supporting structures;Other disorders of teeth and supporting structures;C0494707;C0494707
+742;Dental diseases ;K12;K12;ICD10;Sundmacher et al (2015);Stomatitis and related lesions;Stomatitis and related lesions;C0494713;C0494713
+743;Dental diseases ;K13;K13;ICD10;Sundmacher et al (2015);Other diseases of lip and oral mucosa;Other diseases of lip and oral mucosa;;
+744;Inflammatory diseases of female pelvic organs and disorders of female genital tract;N70;N70;ICD10;Sundmacher et al (2015);Salpingitis and oophoritis;Salpingitis and oophoritis;;
+745;Inflammatory diseases of female pelvic organs and disorders of female genital tract;N71;N71;ICD10;Sundmacher et al (2015);Inflammatory disease of uterus, except cervix;Inflammatory disease of uterus, except cervix;;
+746;Inflammatory diseases of female pelvic organs and disorders of female genital tract;N72;N72;ICD10;Sundmacher et al (2015);Inflammatory disease of cervix uteri;Inflammatory disease of cervix uteri;C0007860;C0007860
+747;Inflammatory diseases of female pelvic organs and disorders of female genital tract;N75;N75;ICD10;Sundmacher et al (2015);Diseases of Bartholin's gland;Diseases of Bartholin's gland;C0477776;C0477776
+748;Inflammatory diseases of female pelvic organs and disorders of female genital tract;N76;N76;ICD10;Sundmacher et al (2015);Other inflammation of vagina and vulva;Other inflammation of vagina and vulva;C0495091;C0495091
+749;Inflammatory diseases of female pelvic organs and disorders of female genital tract;N84.1;N84;ICD10;Sundmacher et al (2015);Polyp of cervix uteri;Polyp of female genital tract;C0007855;C0477791
+750;Inflammatory diseases of female pelvic organs and disorders of female genital tract;N86;N86;ICD10;Sundmacher et al (2015);Erosion and ectropion of cervix uteri;Erosion and ectropion of cervix uteri;;
+751;Inflammatory diseases of female pelvic organs and disorders of female genital tract;N87;N87;ICD10;Sundmacher et al (2015);Dysplasia of cervix uteri;Dysplasia of cervix uteri;C0007868;C0007868
+752;Dementia ;F01;F01;ICD10;Sundmacher et al (2015);Vascular dementia;Vascular dementia;C0011263;C0011263
+753;Dementia ;F03;F03;ICD10;Sundmacher et al (2015);Unspecified dementia;Unspecified dementia;C0011265;C0011265
+754;Maternal disorders related to pregnancy ;O23;O23;ICD10;Sundmacher et al (2015);Infections of genitourinary tract in pregnancy;Infections of genitourinary tract in pregnancy;C0156756;C0156756
+755;Maternal disorders related to pregnancy ;O24;O24;ICD10;Sundmacher et al (2015);Diabetes mellitus in pregnancy, childbirth, and the puerperium;Diabetes mellitus in pregnancy, childbirth, and the puerperium;C0341893;C0341893
+756;Diseases of male genital organs ;N41;N41;ICD10;Sundmacher et al (2015);Inflammatory diseases of prostate;Inflammatory diseases of prostate;C0033581;C0033581
+757;Diseases of male genital organs ;N45;N45;ICD10;Sundmacher et al (2015);Orchitis and epididymitis;Orchitis and epididymitis;C0149881;C0149881
+758;Diseases of male genital organs ;N48.4;N48;ICD10;Sundmacher et al (2015);ERROR;Other disorders of penis;ERROR - atom;C0495079
+759;Asthma ;J45;J45;ICD10;Sundmacher et al (2015);Asthma;Asthma;C1260881;C1260881
+760;Other polyneuropathies ;G62;G62;ICD10;Sundmacher et al (2015);Other and unspecified polyneuropathies;Other and unspecified polyneuropathies;C2875305;C2875305
+761;Avoidable infectious and parasitic diseases ;A15.3;A15;ICD10;Sundmacher et al (2015);ERROR;Respiratory tuberculosis;ERROR - atom;C0041327
+762;Avoidable infectious and parasitic diseases ;A15.4;A15;ICD10;Sundmacher et al (2015);Tuberculosis of intrathoracic lymph nodes;Respiratory tuberculosis;;C0041327
+763;Avoidable infectious and parasitic diseases ;A15.9;A15;ICD10;Sundmacher et al (2015);Respiratory tuberculosis unspecified;Respiratory tuberculosis;C2880130;C0041327
+764;Avoidable infectious and parasitic diseases ;A16.2;A16;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+765;Avoidable infectious and parasitic diseases ;A16.3;A16;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+766;Avoidable infectious and parasitic diseases ;A16.5;A16;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+767;Avoidable infectious and parasitic diseases ;A16.8;A16;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+768;Avoidable infectious and parasitic diseases ;A16.9;A16;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+769;Avoidable infectious and parasitic diseases ;A34;A34;ICD10;Sundmacher et al (2015);Obstetrical tetanus;Obstetrical tetanus;C0348973;C0348973
+770;Avoidable infectious and parasitic diseases ;A35;A35;ICD10;Sundmacher et al (2015);Other tetanus;Other tetanus;C0039614;C0039614
+771;Avoidable infectious and parasitic diseases ;A36;A36;ICD10;Sundmacher et al (2015);Diphtheria;Diphtheria;C0012546;C0012546
+772;Avoidable infectious and parasitic diseases ;A37;A37;ICD10;Sundmacher et al (2015);Whooping cough;Whooping cough;C0043168;C0043168
+773;Avoidable infectious and parasitic diseases ;A50;A50;ICD10;Sundmacher et al (2015);Congenital syphilis;Congenital syphilis;C0039131;C0039131
+774;Avoidable infectious and parasitic diseases ;A51;A51;ICD10;Sundmacher et al (2015);Early syphilis;Early syphilis;C0348148;C0348148
+775;Avoidable infectious and parasitic diseases ;A52;A52;ICD10;Sundmacher et al (2015);Late syphilis;Late syphilis;C0153188;C0153188
+776;Avoidable infectious and parasitic diseases ;A53;A53;ICD10;Sundmacher et al (2015);Other and unspecified syphilis;Other and unspecified syphilis;C0558995;C0558995
+777;Avoidable infectious and parasitic diseases ;A54;A54;ICD10;Sundmacher et al (2015);Gonococcal infection;Gonococcal infection;C0018081;C0018081
+778;Avoidable infectious and parasitic diseases ;A55;A55;ICD10;Sundmacher et al (2015);Chlamydial lymphogranuloma (venereum);Chlamydial lymphogranuloma (venereum);;
+779;Avoidable infectious and parasitic diseases ;A56;A56;ICD10;Sundmacher et al (2015);Other sexually transmitted chlamydial diseases;Other sexually transmitted chlamydial diseases;;
+780;Avoidable infectious and parasitic diseases ;A57;A57;ICD10;Sundmacher et al (2015);Chancroid;Chancroid;C0007947;C0007947
+781;Avoidable infectious and parasitic diseases ;A58;A58;ICD10;Sundmacher et al (2015);Granuloma inguinale;Granuloma inguinale;C0018190;C0018190
+782;Avoidable infectious and parasitic diseases ;A63;A63;ICD10;Sundmacher et al (2015);Other predominantly sexually transmitted diseases, not elsewhere classified;Other predominantly sexually transmitted diseases, not elsewhere classified;C0494062;C0494062
+783;Avoidable infectious and parasitic diseases ;A64;A64;ICD10;Sundmacher et al (2015);Unspecified sexually transmitted disease;Unspecified sexually transmitted disease;C0036916;C0036916
+784;Avoidable infectious and parasitic diseases ;A80;A80;ICD10;Sundmacher et al (2015);Acute poliomyelitis;Acute poliomyelitis;C0032371;C0032371
+785;Avoidable infectious and parasitic diseases ;B05;B05;ICD10;Sundmacher et al (2015);Measles;Measles;C0025007;C0025007
+786;Avoidable infectious and parasitic diseases ;B06;B06;ICD10;Sundmacher et al (2015);Rubella [German measles];Rubella [German measles];C0035920;C0035920
+787;Avoidable infectious and parasitic diseases ;B07;B07;ICD10;Sundmacher et al (2015);Viral warts;Viral warts;C3665596;C3665596
+788;Avoidable infectious and parasitic diseases ;B15;B15;ICD10;Sundmacher et al (2015);Acute hepatitis A;Acute hepatitis A;C0276434;C0276434
+789;Avoidable infectious and parasitic diseases ;B16.1;B16;ICD10;Sundmacher et al (2015);Acute hepatitis B with delta-agent without hepatic coma;Acute hepatitis B;C0494092;C0276609
+790;Avoidable infectious and parasitic diseases ;B16.9;B16;ICD10;Sundmacher et al (2015);Acute hepatitis B without delta-agent and without hepatic coma;Acute hepatitis B;;C0276609
+791;Avoidable infectious and parasitic diseases ;B17;B17;ICD10;Sundmacher et al (2015);Other acute viral hepatitis;Other acute viral hepatitis;C0494094;C0494094
+792;Avoidable infectious and parasitic diseases ;B18.0;B18;ICD10;Sundmacher et al (2015);Chronic viral hepatitis B with delta-agent;Chronic viral hepatitis;C0400918;C0549126
+793;Avoidable infectious and parasitic diseases ;B18.1;B18;ICD10;Sundmacher et al (2015);Chronic viral hepatitis B without delta-agent;Chronic viral hepatitis;C2911652;C0549126
+794;Avoidable infectious and parasitic diseases ;B20;B20;ICD10;Sundmacher et al (2015);Human immunodeficiency virus [HIV] disease;Human immunodeficiency virus [HIV] disease;C0001857;C0001857
+795;Avoidable infectious and parasitic diseases ;B21;B21;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+796;Avoidable infectious and parasitic diseases ;B22;B22;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+797;Avoidable infectious and parasitic diseases ;B23;B23;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+798;Avoidable infectious and parasitic diseases ;B24;B24;ICD10;Sundmacher et al (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+799;Avoidable infectious and parasitic diseases ;B26;B26;ICD10;Sundmacher et al (2015);Mumps;Mumps;C0026780;C0026780
+800;Avoidable infectious and parasitic diseases ;B34.9;B34;ICD10;Sundmacher et al (2015);Viral infection, unspecified;Viral infection of unspecified site;C0042769;C0042769
+801;Avoidable infectious and parasitic diseases ;B51;B51;ICD10;Sundmacher et al (2015);Plasmodium vivax malaria;Plasmodium vivax malaria;;
+802;Avoidable infectious and parasitic diseases ;B52;B52;ICD10;Sundmacher et al (2015);Plasmodium malariae malaria;Plasmodium malariae malaria;;
+803;Avoidable infectious and parasitic diseases ;B53;B53;ICD10;Sundmacher et al (2015);Other specified malaria;Other specified malaria;C2830251;C2830251
+804;Avoidable infectious and parasitic diseases ;B54;B54;ICD10;Sundmacher et al (2015);Unspecified malaria;Unspecified malaria;C0024530;C0024530
+805;Avoidable infectious and parasitic diseases ;B77;B77;ICD10;Sundmacher et al (2015);Ascariasis;Ascariasis;C0027583;C0027583
+806;Avoidable infectious and parasitic diseases ;B86;B86;ICD10;Sundmacher et al (2015);Scabies;Scabies;C0036262;C0036262
+807;Convulsions, not elsewhere classified ;R56;R56;ICD10;Sundmacher et al (2015);Convulsions, not elsewhere classified;Convulsions, not elsewhere classified;C0495698;C0495698
+808;Decubitus ulcer and pressure area ;L89;L89;ICD10;Sundmacher et al (2015);Pressure ulcer;Pressure ulcer;C0011127;C0011127
+809;Obesity ;E66;E66;ICD10;Sundmacher et al (2015);Overweight and obesity;Overweight and obesity;C1561826;C1561826
+810;Perforated, bleeding ulcer ;K25.9;K25;ICD10;Sundmacher et al (2015);Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation;Gastric ulcer;C0494724;C1275742
+811;Perforated, bleeding ulcer ;K27;K27;ICD10;Sundmacher et al (2015);Peptic ulcer, site unspecified;Peptic ulcer, site unspecified;C0030920;C0030920
+812;Perforated, bleeding ulcer ;L97;L97;ICD10;Sundmacher et al (2015);Non-pressure chronic ulcer of lower limb, not elsewhere classified;Non-pressure chronic ulcer of lower limb, not elsewhere classified;;
+813;Rare diseases with <5000 cases each ;F80;F80;ICD10;Sundmacher et al (2015);Specific developmental disorders of speech and language;Specific developmental disorders of speech and language;C0494423;C0494423
+814;Rare diseases with <5000 cases each ;R63.0;R63;ICD10;Sundmacher et al (2015);Anorexia;Symptoms and signs concerning food and fluid intake;C0003123;C3646024
+815;Rare diseases with <5000 cases each ;R63.3;R63;ICD10;Sundmacher et al (2015);Feeding difficulties;Symptoms and signs concerning food and fluid intake;C0232466;C3646024
+816;Rare diseases with <5000 cases each ;R63.8;R63;ICD10;Sundmacher et al (2015);Other symptoms and signs concerning food and fluid intake;Symptoms and signs concerning food and fluid intake;C0478153;C3646024
+817;appendicite acuta con complicazioni;540.0;540;ICD9;Pirani et al (2006);Acute appendicitis with generalized peritonitis;Acute appendicitis;C0156092;C0085693
+818;appendicite acuta con complicazioni;540.1;540;ICD9;Pirani et al (2006);Acute appendicitis with peritoneal abscess;Acute appendicitis;C0156093;C0085693
+819;asma ;493;493;ICD9;Pirani et al (2006);Asthma;Asthma;C0004096;C0004096
+820;convulsioni ed epilessia;345;345;ICD9;Pirani et al (2006);Epilepsy and recurrent seizures;Epilepsy and recurrent seizures;C1719410;C1719410
+821;convulsioni ed epilessia;780.3;780;ICD9;Pirani et al (2006);Convulsions;General symptoms;C4048158;C0159028
+822;gastroenterite;008.6;8;ICD9;Pirani et al (2006);Enteritis due to specified virus;Intestinal infections due to other organisms;C0152517;C0152518
+823;gastroenterite;008.8;8;ICD9;Pirani et al (2006);Intestinal infection due to other organism, not elsewhere classified;Intestinal infections due to other organisms;C0489952;C0152518
+824;gastroenterite;009.0;9;ICD9;Pirani et al (2006);Infectious colitis, enteritis, and gastroenteritis;Ill-defined intestinal infections;C1279224;C0152519
+825;gastroenterite;009.1;9;ICD9;Pirani et al (2006);Colitis, enteritis, and gastroenteritis of presumed infectious origin;Ill-defined intestinal infections;C0595979;C0152519
+826;gastroenterite;009.2;9;ICD9;Pirani et al (2006);Infectious diarrhea;Ill-defined intestinal infections;C0013369;C0152519
+827;gastroenterite;009.3;9;ICD9;Pirani et al (2006);Diarrhea of presumed infectious origin;Ill-defined intestinal infections;C0152522;C0152519
+828;gastroenterite;558.9;558;ICD9;Pirani et al (2006);Other and unspecified noninfectious gastroenteritis and colitis;Other and unspecified noninfectious gastroenteritis and colitis;C0029512;C0029512
+829;infezioni del tratto urinario;590.0;590;ICD9;Pirani et al (2006);Chronic pyelonephritis;Infections of kidney;C0085697;C0021313
+830;infezioni del tratto urinario;590.1;590;ICD9;Pirani et al (2006);Acute pyelonephritis;Infections of kidney;C0520575;C0021313
+831;infezioni del tratto urinario;590.2;590;ICD9;Pirani et al (2006);Renal and perinephric abscess;Infections of kidney;C0156253;C0021313
+832;infezioni del tratto urinario;590.3;590;ICD9;Pirani et al (2006);Pyeloureteritis cystica;Infections of kidney;C0156254;C0021313
+833;infezioni del tratto urinario;590.4;590;ICD9;Pirani et al (2006);ERROR;Infections of kidney;ERROR - atom;C0021313
+834;infezioni del tratto urinario;590.5;590;ICD9;Pirani et al (2006);ERROR;Infections of kidney;ERROR - atom;C0021313
+835;infezioni del tratto urinario;590.6;590;ICD9;Pirani et al (2006);ERROR;Infections of kidney;ERROR - atom;C0021313
+836;infezioni del tratto urinario;590.7;590;ICD9;Pirani et al (2006);ERROR;Infections of kidney;ERROR - atom;C0021313
+837;infezioni del tratto urinario;590.8;590;ICD9;Pirani et al (2006);Other pyelonephritis or pyonephrosis, not specified as acute or chronic;Infections of kidney;C0156255;C0021313
+838;infezioni del tratto urinario;590.9;590;ICD9;Pirani et al (2006);Infection of kidney, unspecified;Infections of kidney;C0021313;C0021313
+839;infezioni del tratto urinario;595.0;595;ICD9;Pirani et al (2006);Acute cystitis;Cystitis;C0149523;C0010692
+840;infezioni del tratto urinario;595.9;595;ICD9;Pirani et al (2006);Cystitis, unspecified;Cystitis;C0010692;C0010692
+841;infezioni del tratto urinario;599.0;599;ICD9;Pirani et al (2006);Urinary tract infection, site not specified;Other disorders of urethra and urinary tract;C0042029;C0546812
+842;infezioni ORL/infezioni acute;382;382;ICD9;Pirani et al (2006);Suppurative and unspecified otitis media;Suppurative and unspecified otitis media;C0029888;C0029888
+843;infezioni ORL/infezioni acute;462;462;ICD9;Pirani et al (2006);Acute pharyngitis;Acute pharyngitis;C0001344;C0001344
+844;infezioni ORL/infezioni acute;463;463;ICD9;Pirani et al (2006);Acute tonsillitis;Acute tonsillitis;C0001361;C0001361
+845;infezioni ORL/infezioni acute;465;465;ICD9;Pirani et al (2006);Acute upper respiratory infections of multiple or unspecified sites;Acute upper respiratory infections of multiple or unspecified sites;C0155816;C0155816
+846;infezioni ORL/infezioni acute;472.1;472;ICD9;Pirani et al (2006);Chronic pharyngitis;Chronic pharyngitis and nasopharyngitis;C0155825;C0155824
+847;delle vie respiratorie alte con codice di procedura ;020.01;20;ICD9;Pirani et al (2006);ERROR;Plague;ERROR - atom;C0032064
+848;patologie immunizzabili;32;32;ICD9;Pirani et al (2006);Diphtheria;Diphtheria;C0012546;C0012546
+849;patologie immunizzabili;33;33;ICD9;Pirani et al (2006);Whooping cough;Whooping cough;C0043168;C0043168
+850;patologie immunizzabili;37;37;ICD9;Pirani et al (2006);Tetanus;Tetanus;C0039614;C0039614
+851;patologie immunizzabili;45;45;ICD9;Pirani et al (2006);Acute poliomyelitis;Acute poliomyelitis;C0032371;C0032371
+852;patologie immunizzabili;55;55;ICD9;Pirani et al (2006);Measles;Measles;C0025007;C0025007
+853;patologie immunizzabili;070.2;70;ICD9;Pirani et al (2006);Viral hepatitis B with hepatic coma;Viral hepatitis;C0153076;C0042721
+854;patologie immunizzabili;070.3;70;ICD9;Pirani et al (2006);Viral hepatitis B without mention of hepatic coma;Viral hepatitis;C0700211;C0042721
+855;patologie immunizzabili;72;72;ICD9;Pirani et al (2006);Mumps;Mumps;C0026780;C0026780
+856;patologie immunizzabili;320.0;320;ICD9;Pirani et al (2006);Hemophilus meningitis;Bacterial meningitis;C0025292;C0085437
+857;polmonite batterica;481;481;ICD9;Pirani et al (2006);Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia];Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia];C0155862;C0155862
+858;polmonite batterica;482.2;482;ICD9;Pirani et al (2006);Pneumonia due to Hemophilus influenzae [H. influenzae];Other bacterial pneumonia;C0276026;C0155858
+859;polmonite batterica;482.3;482;ICD9;Pirani et al (2006);Pneumonia due to Streptococcus;Other bacterial pneumonia;C0155862;C0155858
+860;polmonite batterica;482.9;482;ICD9;Pirani et al (2006);Bacterial pneumonia, unspecified;Other bacterial pneumonia;C0004626;C0155858
+861;polmonite batterica;483;483;ICD9;Pirani et al (2006);Pneumonia due to other specified organism;Pneumonia due to other specified organism;C0032287;C0032287
+862;polmonite batterica;485;485;ICD9;Pirani et al (2006);Bronchopneumonia, organism unspecified;Bronchopneumonia, organism unspecified;C0006285;C0006285
+863;polmonite batterica;486;486;ICD9;Pirani et al (2006);Pneumonia, organism unspecified;Pneumonia, organism unspecified;C0339951;C0339951
+864;angina pectoris ;413;413;ICD9;Pirani et al (2006);Angina pectoris;Angina pectoris;C0002962;C0002962
+865;appendicite acuta con complicazioni;540.0;540;ICD9;Pirani et al (2006);Acute appendicitis with generalized peritonitis;Acute appendicitis;C0156092;C0085693
+866;appendicite acuta con complicazioni;540.1;540;ICD9;Pirani et al (2006);Acute appendicitis with peritoneal abscess;Acute appendicitis;C0156093;C0085693
+867;asma;493;493;ICD9;Pirani et al (2006);Asthma;Asthma;C0004096;C0004096
+868;deficienze nutrizionali;260;260;ICD9;Pirani et al (2006);Kwashiorkor;Kwashiorkor;C0022806;C0022806
+869;deficienze nutrizionali;261;261;ICD9;Pirani et al (2006);Nutritional marasmus;Nutritional marasmus;C0086588;C0086588
+870;deficienze nutrizionali;262;262;ICD9;Pirani et al (2006);Other severe protein-calorie malnutrition;Other severe protein-calorie malnutrition;C0267981;C0267981
+871;deficienze nutrizionali; 268.0;26;ICD9;Pirani et al (2006);ERROR;ERROR;ERROR - atom;ERROR - atom
+872;deficienze nutrizionali; 268.1;26;ICD9;Pirani et al (2006);ERROR;ERROR;ERROR - atom;ERROR - atom
+873;diabete;250.1;250;ICD9;Pirani et al (2006);Diabetes with ketoacidosis;Diabetes mellitus;C0011880;C0011849
+874;diabete;250.2;250;ICD9;Pirani et al (2006);Diabetes mellitus with hyperosmolarity;Diabetes mellitus;C0375121;C0011849
+875;diabete;250.3;250;ICD9;Pirani et al (2006);Diabetes with other coma;Diabetes mellitus;C0011870;C0011849
+876;diabete;250.4;250;ICD9;Pirani et al (2006);Diabetes with renal manifestations;Diabetes mellitus;C0011881;C0011849
+877;diabete;250.5;250;ICD9;Pirani et al (2006);Diabetes with ophthalmic manifestations;Diabetes mellitus;C0342245;C0011849
+878;diabete;250.6;250;ICD9;Pirani et al (2006);Diabetes with neurological manifestations;Diabetes mellitus;C0011882;C0011849
+879;diabete;250.7;250;ICD9;Pirani et al (2006);Diabetes with peripheral circulatory disorders;Diabetes mellitus;C0011871;C0011849
+880;diabete;250.8;250;ICD9;Pirani et al (2006);Diabetes with other specified manifestations;Diabetes mellitus;C0154183;C0011849
+881;diabete;250.9;250;ICD9;Pirani et al (2006);Diabetes with unspecified complication;Diabetes mellitus;C0342257;C0011849
+882;diabete; 251.0;251;ICD9;Pirani et al (2006);ERROR;Other disorders of pancreatic internal secretion;ERROR - atom;C0154189
+883;diabete; 785.4;785;ICD9;Pirani et al (2006);;;;
+884;diabete;250.7;250;ICD9;Pirani et al (2006);;;;
+885;amputazione degli arti inferiori;084.10;84;ICD9;Pirani et al (2006);ERROR;Malaria;ERROR - atom;C0024530
+886;amputazione degli arti inferiori;084.11;85;ICD9;Pirani et al (2006);ERROR;Leishmaniasis;ERROR - atom;C0023281
+887;amputazione degli arti inferiori;084.12;86;ICD9;Pirani et al (2006);ERROR;Trypanosomiasis;ERROR - atom;C0041227
+888;amputazione degli arti inferiori;084.13;87;ICD9;Pirani et al (2006);ERROR;Relapsing fever;ERROR - atom;C0035021
+889;amputazione degli arti inferiori;084.14;88;ICD9;Pirani et al (2006);ERROR;Other arthropod-borne diseases;ERROR - atom;C0153126
+890;amputazione degli arti inferiori;084.15;89;ICD9;Pirani et al (2006);ERROR;ERROR;ERROR - atom;ERROR - atom
+891;amputazione degli arti inferiori;084.16;90;ICD9;Pirani et al (2006);ERROR;Congenital syphilis;ERROR - atom;C0039131
+892;amputazione degli arti inferiori;084.17;91;ICD9;Pirani et al (2006);ERROR;Early syphilis, symptomatic;ERROR - atom;C0153139
+893;amputazione degli arti inferiori;084.18;92;ICD9;Pirani et al (2006);ERROR;Early syphilis, latent;ERROR - atom;C0275842
+894;amputazione degli arti inferiori;084.19;93;ICD9;Pirani et al (2006);ERROR;Cardiovascular syphilis;ERROR - atom;C0039130
+895;amputazione degli arti inferiori; 250.0;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+896;amputazione degli arti inferiori; 250.1;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+897;amputazione degli arti inferiori; 250.2;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+898;amputazione degli arti inferiori; 250.3;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+899;amputazione degli arti inferiori; 250.4;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+900;amputazione degli arti inferiori; 250.5;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+901;amputazione degli arti inferiori; 250.6;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+902;amputazione degli arti inferiori; 250.7;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+903;amputazione degli arti inferiori; 250.8;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+904;amputazione degli arti inferiori; 250.9;25;ICD9;Pirani et al (2006);ERROR;Melioidosis;ERROR - atom;C0025229
+905;disordini del metabolismo idro-elettrolitici;276.5;276;ICD9;Pirani et al (2006);Volume depletion;Disorders of fluid, electrolyte, and acid-base balance;C0546884;C0267994
+906;disordini del metabolismo idro-elettrolitici;276.8;276;ICD9;Pirani et al (2006);Hypopotassemia;Disorders of fluid, electrolyte, and acid-base balance;C0020621;C0267994
+907;infezioni del tratto urinario ;590.0;590;ICD9;Pirani et al (2006);Chronic pyelonephritis;Infections of kidney;C0085697;C0021313
+908;infezioni del tratto urinario ;590.1;590;ICD9;Pirani et al (2006);Acute pyelonephritis;Infections of kidney;C0520575;C0021313
+909;infezioni del tratto urinario ;590.2;590;ICD9;Pirani et al (2006);Renal and perinephric abscess;Infections of kidney;C0156253;C0021313
+910;infezioni del tratto urinario ;590.3;590;ICD9;Pirani et al (2006);Pyeloureteritis cystica;Infections of kidney;C0156254;C0021313
+911;infezioni del tratto urinario ;590.4;590;ICD9;Pirani et al (2006);ERROR;Infections of kidney;ERROR - atom;C0021313
+912;infezioni del tratto urinario ;590.5;590;ICD9;Pirani et al (2006);ERROR;Infections of kidney;ERROR - atom;C0021313
+913;infezioni del tratto urinario ;590.6;590;ICD9;Pirani et al (2006);ERROR;Infections of kidney;ERROR - atom;C0021313
+914;infezioni del tratto urinario ;590.7;590;ICD9;Pirani et al (2006);ERROR;Infections of kidney;ERROR - atom;C0021313
+915;infezioni del tratto urinario ;590.8;590;ICD9;Pirani et al (2006);Other pyelonephritis or pyonephrosis, not specified as acute or chronic;Infections of kidney;C0156255;C0021313
+916;infezioni del tratto urinario ;590.9;590;ICD9;Pirani et al (2006);Infection of kidney, unspecified;Infections of kidney;C0021313;C0021313
+917;infezioni del tratto urinario ;595.0;595;ICD9;Pirani et al (2006);Acute cystitis;Cystitis;C0149523;C0010692
+918;infezioni del tratto urinario ;595.9;595;ICD9;Pirani et al (2006);Cystitis, unspecified;Cystitis;C0010692;C0010692
+919;infezioni del tratto urinario ;599.0;599;ICD9;Pirani et al (2006);Urinary tract infection, site not specified;Other disorders of urethra and urinary tract;C0042029;C0546812
+920;insufficienza cardiaca ;428;428;ICD9;Pirani et al (2006);Heart failure;Heart failure;C0018801;C0018801
+921;insufficienza cardiaca ; 518.4;518;ICD9;Pirani et al (2006);ERROR;Other diseases of lung;ERROR - atom;C0348712
+922;ipertensione ;401.0;401;ICD9;Pirani et al (2006);Malignant essential hypertension;Essential hypertension;C0024588;C0085580
+923;ipertensione ;402.0;402;ICD9;Pirani et al (2006);Malignant hypertensive heart disease;Hypertensive heart disease;C0155584;C0152105
+924;ipertensione ;403.0;403;ICD9;Pirani et al (2006);Hypertensive chronic kidney disease, malignant;Hypertensive chronic kidney disease;C1719462;C3695318
+925;ipertensione ;404.0;404;ICD9;Pirani et al (2006);Hypertensive heart and chronic kidney disease, malignant;Hypertensive heart and chronic kidney disease;C1719468;C1719469
+926;ipertensione ;405.0;405;ICD9;Pirani et al (2006);Malignant secondary hypertension;Secondary hypertension;C0155617;C0155616
+927;ipertensione ;437.2;437;ICD9;Pirani et al (2006);Hypertensive encephalopathy;Other and ill-defined cerebrovascular disease;C0151620;C0155729
+928;malattie infiammatorie dell’ovaio;614;614;ICD9;Pirani et al (2006);Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum;Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum;C0156326;C0156326
+929;malattie polmonari cronico-ostruttive ;491;491;ICD9;Pirani et al (2006);Chronic bronchitis;Chronic bronchitis;C0008677;C0008677
+930;malattie polmonari cronico-ostruttive ;492;492;ICD9;Pirani et al (2006);Emphysema;Emphysema;C0034067;C0034067
+931;malattie polmonari cronico-ostruttive ;494;494;ICD9;Pirani et al (2006);Bronchiectasis;Bronchiectasis;C0006267;C0006267
+932;malattie polmonari cronico-ostruttive ;496;496;ICD9;Pirani et al (2006);Chronic airway obstruction, not elsewhere classified;Chronic airway obstruction, not elsewhere classified;C0302378;C0302378
+933;malattie polmonari cronico-ostruttive ;466.0;466;ICD9;Pirani et al (2006);Acute bronchitis;Acute bronchitis and bronchiolitis;C0149514;C0155820
+934;polmonite batterica;481;481;ICD9;Pirani et al (2006);Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia];Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia];C0155862;C0155862
+935;polmonite batterica; 482.2;482;ICD9;Pirani et al (2006);ERROR;Other bacterial pneumonia;ERROR - atom;C0155858
+936;polmonite batterica; 482.3;482;ICD9;Pirani et al (2006);ERROR;Other bacterial pneumonia;ERROR - atom;C0155858
+937;polmonite batterica; 482.9;482;ICD9;Pirani et al (2006);ERROR;Other bacterial pneumonia;ERROR - atom;C0155858
+938;polmonite batterica;483;483;ICD9;Pirani et al (2006);Pneumonia due to other specified organism;Pneumonia due to other specified organism;C0032287;C0032287
+939;ulcera perforata con emorragia ;531.0;531;ICD9;Pirani et al (2006);Acute gastric ulcer with hemorrhage;Gastric ulcer;C0155967;C0038358
+940;ulcera perforata con emorragia ; 531.2;531;ICD9;Pirani et al (2006);ERROR;Gastric ulcer;ERROR - atom;C0038358
+941;ulcera perforata con emorragia ; 531.4;531;ICD9;Pirani et al (2006);ERROR;Gastric ulcer;ERROR - atom;C0038358
+942;ulcera perforata con emorragia ; 531.6;531;ICD9;Pirani et al (2006);ERROR;Gastric ulcer;ERROR - atom;C0038358
+943;ulcera perforata con emorragia ;532.0;532;ICD9;Pirani et al (2006);Acute duodenal ulcer with hemorrhage;Duodenal ulcer;C0155992;C0013295
+944;ulcera perforata con emorragia ; 532.2;532;ICD9;Pirani et al (2006);ERROR;Duodenal ulcer;ERROR - atom;C0013295
+945;ulcera perforata con emorragia ; 532.4;532;ICD9;Pirani et al (2006);ERROR;Duodenal ulcer;ERROR - atom;C0013295
+946;ulcera perforata con emorragia ; 532.6;532;ICD9;Pirani et al (2006);ERROR;Duodenal ulcer;ERROR - atom;C0013295
+947;ulcera perforata con emorragia ;533.0;533;ICD9;Pirani et al (2006);Acute peptic ulcer of unspecified site with hemorrhage;Peptic ulcer, site unspecified;C0267288;C0030920
+948;ulcera perforata con emorragia ; 533.2;533;ICD9;Pirani et al (2006);ERROR;Peptic ulcer, site unspecified;ERROR - atom;C0030920
+949;ulcera perforata con emorragia ; 533.4;533;ICD9;Pirani et al (2006);ERROR;Peptic ulcer, site unspecified;ERROR - atom;C0030920
+950;ulcera perforata con emorragia ; 533.6;533;ICD9;Pirani et al (2006);ERROR;Peptic ulcer, site unspecified;ERROR - atom;C0030920
+951;Angina ;I20;I20;ICD10;Health Services Delivery Programme Latvia (2015);Angina pectoris;Angina pectoris;C0002962;C0002962
+952;Angina ; I240; I240;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+953;Angina ; I248; I248;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+954;Angina ; I249; I249;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+955;Asthma ;J45;J45;ICD10;Health Services Delivery Programme Latvia (2015);Asthma;Asthma;C1260881;C1260881
+956;Asthma ; J46; J46;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+957;Cellulitis ;L03;L03;ICD10;Health Services Delivery Programme Latvia (2015);Cellulitis and acute lymphangitis;Cellulitis and acute lymphangitis;C2888134;C2888134
+958;Cellulitis ; L04; L04;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+959;Cellulitis ; L08; L08;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+960;Cellulitis ; L88; L88;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+961;Cellulitis ; L980; L980;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+962;Cellulitis ; L983; L983;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+963;Chronic obstructive pulmonary disease ;J20;J20;ICD10;Health Services Delivery Programme Latvia (2015);Acute bronchitis;Acute bronchitis;C0149514;C0149514
+964;Chronic obstructive pulmonary disease ; J41; J41;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+965;Chronic obstructive pulmonary disease ; J42; J42;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+966;Chronic obstructive pulmonary disease ; J43; J43;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+967;Chronic obstructive pulmonary disease ; J44; J44;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+968;Chronic obstructive pulmonary disease ; J47; J47;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+969;Congestive heart failure ;I50;I50;ICD10;Health Services Delivery Programme Latvia (2015);Heart failure;Heart failure;C0018801;C0018801
+970;Congestive heart failure ; I110; I110;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+971;Congestive heart failure ; J81; J81;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+972;Convulsions and epilepsy ;G40;G40;ICD10;Health Services Delivery Programme Latvia (2015);Epilepsy and recurrent seizures;Epilepsy and recurrent seizures;C1719410;C1719410
+973;Convulsions and epilepsy ; G41; G41;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+974;Convulsions and epilepsy ; O15; O15;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+975;Convulsions and epilepsy ; R56; R56;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+976;Dental conditions ;A690;A690;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+977;Dental conditions ; K02; K02;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+978;Dental conditions ; K03; K03;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+979;Dental conditions ; K04; K04;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+980;Dental conditions ; K05; K05;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+981;Dental conditions ; K06; K06;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+982;Dental conditions ; K08; K08;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+983;Dental conditions ; K098; K098;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+984;Dental conditions ; K099; K099;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+985;Dental conditions ; K12; K12;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+986;Dental conditions ; K13; K13;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+987;Diabetes (in any field) ;E10.5;E10;ICD10;Health Services Delivery Programme Latvia (2015);Type 1 diabetes mellitus with circulatory complications;Type 1 diabetes mellitus;C0837011;C0011854
+988;Diabetes (in any field) ; E10.6; E10;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+989;Diabetes (in any field) ; E10.9; E10;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+990;Diabetes (in any field) ; E11.5; E11;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+991;Diabetes (in any field) ; E11.6; E11;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+992;Diabetes (in any field) ; E11.9; E11;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+993;Diabetes complications ;E100;E100;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+994;Diabetes complications ;E101;E101;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+995;Diabetes complications ;E102;E102;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+996;Diabetes complications ;E103;E103;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+997;Diabetes complications ;E104;E104;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+998;Diabetes complications ;E105;E105;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+999;Diabetes complications ;E106;E106;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1000;Diabetes complications ;E107;E107;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1001;Diabetes complications ;E108;E108;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1002;Diabetes complications ; E110; E110;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1003;Diabetes complications ; E111; E111;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1004;Diabetes complications ; E112; E112;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1005;Diabetes complications ; E113; E113;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1006;Diabetes complications ; E114; E114;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1007;Diabetes complications ; E115; E115;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1008;Diabetes complications ; E116; E116;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1009;Diabetes complications ; E117; E117;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1010;Diabetes complications ; E118; E118;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1011;Diabetes complications ; E120; E120;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1012;Diabetes complications ; E121; E121;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1013;Diabetes complications ; E122; E122;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1014;Diabetes complications ; E123; E123;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1015;Diabetes complications ; E124; E124;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1016;Diabetes complications ; E125; E125;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1017;Diabetes complications ; E126; E126;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1018;Diabetes complications ; E127; E127;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1019;Diabetes complications ; E128; E128;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1020;Diabetes complications ; E130; E130;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1021;Diabetes complications ; E131; E131;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1022;Diabetes complications ; E132; E132;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1023;Diabetes complications ; E133; E133;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1024;Diabetes complications ; E134; E134;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1025;Diabetes complications ; E135; E135;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1026;Diabetes complications ; E136; E136;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1027;Diabetes complications ; E137; E137;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1028;Diabetes complications ; E138; E138;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1029;Diabetes complications ; E140; E140;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1030;Diabetes complications ; E141; E141;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1031;Diabetes complications ; E142; E142;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1032;Diabetes complications ; E143; E143;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1033;Diabetes complications ; E144; E144;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1034;Diabetes complications ; E145; E145;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1035;Diabetes complications ; E146; E146;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1036;Diabetes complications ; E147; E147;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1037;Diabetes complications ; E148; E148;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1038;Gastroenteritis ;K522;K522;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1039;Gastroenteritis ; K528; K528;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1040;Gastroenteritis ; K529; K529;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1041;Hypertension ;I10;I10;ICD10;Health Services Delivery Programme Latvia (2015);Essential (primary) hypertension;Essential (primary) hypertension;C0085580;C0085580
+1042;Hypertension ; I119; I119;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1043;Immunization-preventable conditions ;A15;A15;ICD10;Health Services Delivery Programme Latvia (2015);Respiratory tuberculosis;Respiratory tuberculosis;C0041327;C0041327
+1044;Immunization-preventable conditions ; A16; A16;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1045;Immunization-preventable conditions ; A19;A19;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1046;Immunization-preventable conditions ; A35; A35;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1047;Immunization-preventable conditions ; A36; A36;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1048;Immunization-preventable conditions ; A37; A37;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1049;Immunization-preventable conditions ; A80; A80;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1050;Immunization-preventable conditions ; B05; B05;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1051;Immunization-preventable conditions ; B06; B06;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1052;Immunization-preventable conditions ; B26; B26;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1053;Immunization-preventable conditions ; B161; B161;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1054;Immunization-preventable conditions ; B169; B169;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1055;Immunization-preventable conditions ; B180; B180;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1056;Immunization-preventable conditions ; B181; B181;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1057;Immunization-preventable conditions ; G000; G000;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1058;Immunization-preventable conditions ; J10; J10;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1059;Immunization-preventable conditions ; J11; J11;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1060;Immunization-preventable conditions ; M014; M014;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1061;Iron deficiency anaemia ;D501;D501;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1062;Iron deficiency anaemia ; D508; D508;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1063;Iron deficiency anaemia ; D509; D509;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1064;Kidney/urinary infection ;N10;N10;ICD10;Health Services Delivery Programme Latvia (2015);Acute pyelonephritis;Acute pyelonephritis;C0520575;C0520575
+1065;Kidney/urinary infection ; N11; N11;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1066;Kidney/urinary infection ; N12; N12;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1067;Kidney/urinary infection ; N136; N136;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1068;Kidney/urinary infection ; N390; N390;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1069;Nutritional deficiency ;E40;E40;ICD10;Health Services Delivery Programme Latvia (2015);Kwashiorkor;Kwashiorkor;C0022806;C0022806
+1070;Nutritional deficiency ;E41;E41;ICD10;Health Services Delivery Programme Latvia (2015);Nutritional marasmus;Nutritional marasmus;C0086588;C0086588
+1071;Nutritional deficiency ;E42;E42;ICD10;Health Services Delivery Programme Latvia (2015);Marasmic kwashiorkor;Marasmic kwashiorkor;;
+1072;Nutritional deficiency ;E43;E43;ICD10;Health Services Delivery Programme Latvia (2015);Unspecified severe protein-calorie malnutrition;Unspecified severe protein-calorie malnutrition;;
+1073;Nutritional deficiency ; E55; E55;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1074;Nutritional deficiency ; E643; E643;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1075;Pelvic inflammatory disease ;N70;N70;ICD10;Health Services Delivery Programme Latvia (2015);Salpingitis and oophoritis;Salpingitis and oophoritis;;
+1076;Pelvic inflammatory disease ; N73; N73;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1077;Pelvic inflammatory disease ; N74; N74;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1078;Perforated or bleeding ulcer ;K250;K250;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1079;Perforated or bleeding ulcer ;K251;K251;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1080;Perforated or bleeding ulcer ;K252;K252;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1081;Perforated or bleeding ulcer ; K254; K254;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1082;Perforated or bleeding ulcer ; K255; K255;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1083;Perforated or bleeding ulcer ; K256; K256;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1084;Perforated or bleeding ulcer ; K260; K260;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1085;Perforated or bleeding ulcer ; K261; K261;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1086;Perforated or bleeding ulcer ; K262; K262;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1087;Perforated or bleeding ulcer ; K264; K264;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1088;Perforated or bleeding ulcer ; K265; K265;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1089;Perforated or bleeding ulcer ; K266; K266;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1090;Perforated or bleeding ulcer ; K270; K270;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1091;Perforated or bleeding ulcer ; K271; K271;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1092;Perforated or bleeding ulcer ; K272; K272;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1093;Perforated or bleeding ulcer ; K274; K274;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1094;Perforated or bleeding ulcer ; K275; K275;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1095;Perforated or bleeding ulcer ; K276; K276;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1096;Perforated or bleeding ulcer ; K280; K280;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1097;Perforated or bleeding ulcer ; K281; K281;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1098;Perforated or bleeding ulcer ; K282; K282;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1099;Perforated or bleeding ulcer ; K284; K284;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1100;Perforated or bleeding ulcer ; K285; K285;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1101;Perforated or bleeding ulcer ; K286; K286;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1102;Pneumonia ;J13;J13;ICD10;Health Services Delivery Programme Latvia (2015);Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Streptococcus pneumoniae;C0155862;C0155862
+1103;Pneumonia ; J14; J14;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1104;Pneumonia ; J153; J153;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1105;Pneumonia ; J154; J154;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1106;Pneumonia ; J157; J157;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1107;Pneumonia ; J159; J159;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1108;Pneumonia ; J168; J168;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1109;Pneumonia ; J181; J181;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
+1110;Pneumonia ; J188; J188;ICD10;Health Services Delivery Programme Latvia (2015);ERROR;ERROR;ERROR - atom;ERROR - atom
