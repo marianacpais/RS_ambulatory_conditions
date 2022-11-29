@@ -1,0 +1,198 @@
+,id,original_description,code,nearest_level1_code,original_code_system,code_description,level1_code_description,parent_ui,parent_name,level1_umls_cui
+0,16,Mood [affective] disorders,F38,F38,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+1,115,Persons with potential health hazards related to communicable diseases,Z24.4,Z24,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+2,116,Persons with potential health hazards related to communicable diseases,Z24.5,Z24,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+3,117,Persons with potential health hazards related to communicable diseases,Z24.6,Z24,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+4,118,Persons with potential health hazards related to communicable diseases,Z25.8,Z25,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+5,119,Persons with potential health hazards related to communicable diseases,Z27.4,Z27,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+6,147,Tuberculosis,A16,A16,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+7,181,Diabetes mellitus (complications) ,E12.0,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+8,182,Diabetes mellitus (complications) ,E12.1,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+9,183,Diabetes mellitus (complications) ,E12.5,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+10,184,Diabetes mellitus (complications) ,E12.6,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+11,185,Diabetes mellitus (complications) ,E12.8,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+12,186,Diabetes mellitus (complications) ,E12.9,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+13,193,Diabetes mellitus (complications) ,E14.0,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+14,194,Diabetes mellitus (complications) ,E14.1,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+15,195,Diabetes mellitus (complications) ,E14.5,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+16,196,Diabetes mellitus (complications) ,E14.6,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+17,197,Diabetes mellitus (complications) ,E14.8,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+18,198,Diabetes mellitus (complications) ,E14.9,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+19,227,Hypertensive diseases,I64,I64,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+20,258,Asthma,J46,J46,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+21,287,Superficial injuries,T00.9,T00,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+22,319,Hipertensi√≥n secundaria maligna,405.0,405,ICD9,Malignant secondary hypertension,Secondary hypertension,401-405.99,HYPERTENSIVE DISEASE,C0155616
+23,466,Gastroenteritis,A08.0,A08,ICD10,Rotaviral enteritis,Viral and other specified intestinal infections,A00-A09,Intestinal infectious diseases (A00-A09),C0494032
+24,467,Gastroenteritis,A08.1,A08,ICD10,Acute gastroenteropathy due to Norwalk agent and other small round viruses,Viral and other specified intestinal infections,A00-A09,Intestinal infectious diseases (A00-A09),C0494032
+25,468,Gastroenteritis,A08.2,A08,ICD10,Adenoviral enteritis,Viral and other specified intestinal infections,A00-A09,Intestinal infectious diseases (A00-A09),C0494032
+26,469,Gastroenteritis,A08.3,A08,ICD10,Other viral enteritis,Viral and other specified intestinal infections,A00-A09,Intestinal infectious diseases (A00-A09),C0494032
+27,470,Gastroenteritis,A08.4,A08,ICD10,"Viral intestinal infection, unspecified",Viral and other specified intestinal infections,A00-A09,Intestinal infectious diseases (A00-A09),C0494032
+28,471,Gastroenteritis,A08.5,A08,ICD10,ERROR,Viral and other specified intestinal infections,A00-A09,Intestinal infectious diseases (A00-A09),C0494032
+29,472,Gastroenteritis,A09.0,A09,ICD10,ERROR,"Infectious gastroenteritis and colitis, unspecified",A00-A09,Intestinal infectious diseases (A00-A09),C0021342
+30,473,Gastroenteritis,A09.9,A09,ICD10,ERROR,"Infectious gastroenteritis and colitis, unspecified",A00-A09,Intestinal infectious diseases (A00-A09),C0021342
+31,484,Physiological jaundice,R17,R17,ICD10,Unspecified jaundice,Unspecified jaundice,R10-R19,Symptoms and signs involving the digestive system and abdomen (R10-R19),C0022346
+32,486,Physiological jaundice,S12.8,S12,ICD10,Fracture of other parts of neck,Fracture of cervical vertebra and other parts of neck,S10-S19,Injuries to the neck (S10-S19),
+33,487,Physiological jaundice,S12.9,S12,ICD10,"Fracture of neck, unspecified",Fracture of cervical vertebra and other parts of neck,S10-S19,Injuries to the neck (S10-S19),
+34,597,Hypertension ,I14,I14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+35,648,Diabetes mellitus ,E14,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+36,717,Malnutrition & nutritional deficiencies,E47,E47,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+37,718,Malnutrition & nutritional deficiencies,E48,E48,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+38,719,Malnutrition & nutritional deficiencies,E49,E49,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+39,727,Malnutrition & nutritional deficiencies,E57,E57,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+40,732,Malnutrition & nutritional deficiencies,E62,E62,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+41,764,Avoidable infectious and parasitic diseases ,A16.2,A16,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+42,765,Avoidable infectious and parasitic diseases ,A16.3,A16,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+43,766,Avoidable infectious and parasitic diseases ,A16.5,A16,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+44,767,Avoidable infectious and parasitic diseases ,A16.8,A16,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+45,768,Avoidable infectious and parasitic diseases ,A16.9,A16,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+46,795,Avoidable infectious and parasitic diseases ,B21,B21,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+47,796,Avoidable infectious and parasitic diseases ,B22,B22,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+48,797,Avoidable infectious and parasitic diseases ,B23,B23,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+49,798,Avoidable infectious and parasitic diseases ,B24,B24,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+50,871,deficienze nutrizionali,268.0,268,ICD9,"Rickets, active",Vitamin D deficiency,260-269.99,NUTRITIONAL DEFICIENCIES,C0042870
+51,872,deficienze nutrizionali,268.1,268,ICD9,"Rickets, late effect",Vitamin D deficiency,260-269.99,NUTRITIONAL DEFICIENCIES,C0042870
+52,890,amputazione degli arti inferiori,084.15,084,ICD9,ERROR,Malaria,080-088.99,RICKETTSIOSES AND OTHER ARTHROPOD-BORNE DISEASES,C0024530
+53,952,Angina ,I24.0,I24,ICD10,Acute coronary thrombosis not resulting in myocardial infarction,Other acute ischemic heart diseases,I20-I25,Ischemic heart diseases (I20-I25),C0348590
+54,953,Angina ,I24.8,I24,ICD10,Other forms of acute ischemic heart disease,Other acute ischemic heart diseases,I20-I25,Ischemic heart diseases (I20-I25),C0348590
+55,954,Angina ,I24.9,I24,ICD10,"Acute ischemic heart disease, unspecified",Other acute ischemic heart diseases,I20-I25,Ischemic heart diseases (I20-I25),C0348590
+56,956,Asthma ,J46,J46,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+57,958,Cellulitis ,L04,L04,ICD10,Acute lymphadenitis,Acute lymphadenitis,L00-L08,Infections of the skin and subcutaneous tissue (L00-L08),
+58,959,Cellulitis ,L08,L08,ICD10,Other local infections of skin and subcutaneous tissue,Other local infections of skin and subcutaneous tissue,L00-L08,Infections of the skin and subcutaneous tissue (L00-L08),C0157707
+59,960,Cellulitis ,L88,L88,ICD10,Pyoderma gangrenosum,Pyoderma gangrenosum,L80-L99,Other disorders of the skin and subcutaneous tissue (L80-L99),
+60,961,Cellulitis ,L98.0,L98,ICD10,Pyogenic granuloma,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",L80-L99,Other disorders of the skin and subcutaneous tissue (L80-L99),C0494889
+61,962,Cellulitis ,L98.3,L98,ICD10,Eosinophilic cellulitis [Wells],"Other disorders of skin and subcutaneous tissue, not elsewhere classified",L80-L99,Other disorders of the skin and subcutaneous tissue (L80-L99),C0494889
+62,964,Chronic obstructive pulmonary disease ,J41,J41,ICD10,Simple and mucopurulent chronic bronchitis,Simple and mucopurulent chronic bronchitis,J40-J47,Chronic lower respiratory diseases (J40-J47),C0392000
+63,965,Chronic obstructive pulmonary disease ,J42,J42,ICD10,Unspecified chronic bronchitis,Unspecified chronic bronchitis,J40-J47,Chronic lower respiratory diseases (J40-J47),
+64,966,Chronic obstructive pulmonary disease ,J43,J43,ICD10,Emphysema,Emphysema,J40-J47,Chronic lower respiratory diseases (J40-J47),C0034067
+65,967,Chronic obstructive pulmonary disease ,J44,J44,ICD10,Other chronic obstructive pulmonary disease,Other chronic obstructive pulmonary disease,J40-J47,Chronic lower respiratory diseases (J40-J47),
+66,968,Chronic obstructive pulmonary disease ,J47,J47,ICD10,Bronchiectasis,Bronchiectasis,J40-J47,Chronic lower respiratory diseases (J40-J47),
+67,970,Congestive heart failure ,I11.0,I11,ICD10,Hypertensive heart disease with heart failure,Hypertensive heart disease,I10-I16,Hypertensive diseases (I10-I16),
+68,971,Congestive heart failure ,J81,J81,ICD10,Pulmonary edema,Pulmonary edema,J80-J84,Other respiratory diseases principally affecting the interstitium (J80-J84),C0034063
+69,973,Convulsions and epilepsy ,G41,G41,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+70,974,Convulsions and epilepsy ,O15,O15,ICD10,Eclampsia,Eclampsia,O10-O16,"Edema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium (O10-O16)",
+71,975,Convulsions and epilepsy ,R56,R56,ICD10,"Convulsions, not elsewhere classified","Convulsions, not elsewhere classified",R50-R69,General symptoms and signs (R50-R69),C0495698
+72,976,Dental conditions ,A69.0,A69,ICD10,Necrotizing ulcerative stomatitis,Other spirochetal infections,A65-A69,Other spirochetal diseases (A65-A69),C0153245
+73,977,Dental conditions ,K02,K02,ICD10,Dental caries,Dental caries,K00-K14,Diseases of oral cavity and salivary glands (K00-K14),C3714731
+74,978,Dental conditions ,K03,K03,ICD10,Other diseases of hard tissues of teeth,Other diseases of hard tissues of teeth,K00-K14,Diseases of oral cavity and salivary glands (K00-K14),C0399347
+75,979,Dental conditions ,K04,K04,ICD10,Diseases of pulp and periapical tissues,Diseases of pulp and periapical tissues,K00-K14,Diseases of oral cavity and salivary glands (K00-K14),C0155933
+76,980,Dental conditions ,K05,K05,ICD10,Gingivitis and periodontal diseases,Gingivitis and periodontal diseases,K00-K14,Diseases of oral cavity and salivary glands (K00-K14),C0494704
+77,981,Dental conditions ,K06,K06,ICD10,Other disorders of gingiva and edentulous alveolar ridge,Other disorders of gingiva and edentulous alveolar ridge,K00-K14,Diseases of oral cavity and salivary glands (K00-K14),C0494706
+78,982,Dental conditions ,K08,K08,ICD10,Other disorders of teeth and supporting structures,Other disorders of teeth and supporting structures,K00-K14,Diseases of oral cavity and salivary glands (K00-K14),C0494707
+79,983,Dental conditions ,K09.8,K09,ICD10,"Other cysts of oral region, not elsewhere classified","Cysts of oral region, not elsewhere classified",K00-K14,Diseases of oral cavity and salivary glands (K00-K14),
+80,984,Dental conditions ,K09.9,K09,ICD10,"Cyst of oral region, unspecified","Cysts of oral region, not elsewhere classified",K00-K14,Diseases of oral cavity and salivary glands (K00-K14),
+81,985,Dental conditions ,K12,K12,ICD10,Stomatitis and related lesions,Stomatitis and related lesions,K00-K14,Diseases of oral cavity and salivary glands (K00-K14),C0494713
+82,986,Dental conditions ,K13,K13,ICD10,Other diseases of lip and oral mucosa,Other diseases of lip and oral mucosa,K00-K14,Diseases of oral cavity and salivary glands (K00-K14),
+83,988,Diabetes (in any field) ,E10.6,E10,ICD10,Type 1 diabetes mellitus with other specified complications,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+84,989,Diabetes (in any field) ,E10.9,E10,ICD10,Type 1 diabetes mellitus without complications,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+85,990,Diabetes (in any field) ,E11.5,E11,ICD10,Type 2 diabetes mellitus with circulatory complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+86,991,Diabetes (in any field) ,E11.6,E11,ICD10,Type 2 diabetes mellitus with other specified complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+87,992,Diabetes (in any field) ,E11.9,E11,ICD10,Type 2 diabetes mellitus without complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+88,993,Diabetes complications ,E10.0,E10,ICD10,ERROR,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+89,994,Diabetes complications ,E10.1,E10,ICD10,Type 1 diabetes mellitus with ketoacidosis,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+90,995,Diabetes complications ,E10.2,E10,ICD10,Type 1 diabetes mellitus with kidney complications,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+91,996,Diabetes complications ,E10.3,E10,ICD10,Type 1 diabetes mellitus with ophthalmic complications,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+92,997,Diabetes complications ,E10.4,E10,ICD10,Type 1 diabetes mellitus with neurological complications,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+93,998,Diabetes complications ,E10.5,E10,ICD10,Type 1 diabetes mellitus with circulatory complications,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+94,999,Diabetes complications ,E10.6,E10,ICD10,Type 1 diabetes mellitus with other specified complications,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+95,1000,Diabetes complications ,E10.7,E10,ICD10,ERROR,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+96,1001,Diabetes complications ,E10.8,E10,ICD10,Type 1 diabetes mellitus with unspecified complications,Type 1 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011854
+97,1002,Diabetes complications ,E11.0,E11,ICD10,Type 2 diabetes mellitus with hyperosmolarity,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+98,1003,Diabetes complications ,E11.1,E11,ICD10,Type 2 diabetes mellitus with ketoacidosis,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+99,1004,Diabetes complications ,E11.2,E11,ICD10,Type 2 diabetes mellitus with kidney complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+100,1005,Diabetes complications ,E11.3,E11,ICD10,Type 2 diabetes mellitus with ophthalmic complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+101,1006,Diabetes complications ,E11.4,E11,ICD10,Type 2 diabetes mellitus with neurological complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+102,1007,Diabetes complications ,E11.5,E11,ICD10,Type 2 diabetes mellitus with circulatory complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+103,1008,Diabetes complications ,E11.6,E11,ICD10,Type 2 diabetes mellitus with other specified complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+104,1009,Diabetes complications ,E11.7,E11,ICD10,ERROR,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+105,1010,Diabetes complications ,E11.8,E11,ICD10,Type 2 diabetes mellitus with unspecified complications,Type 2 diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),C0011847
+106,1011,Diabetes complications ,E12.0,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+107,1012,Diabetes complications ,E12.1,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+108,1013,Diabetes complications ,E12.2,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+109,1014,Diabetes complications ,E12.3,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+110,1015,Diabetes complications ,E12.4,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+111,1016,Diabetes complications ,E12.5,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+112,1017,Diabetes complications ,E12.6,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+113,1018,Diabetes complications ,E12.7,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+114,1019,Diabetes complications ,E12.8,E12,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+115,1020,Diabetes complications ,E13.0,E13,ICD10,Other specified diabetes mellitus with hyperosmolarity,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+116,1021,Diabetes complications ,E13.1,E13,ICD10,Other specified diabetes mellitus with ketoacidosis,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+117,1022,Diabetes complications ,E13.2,E13,ICD10,Other specified diabetes mellitus with kidney complications,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+118,1023,Diabetes complications ,E13.3,E13,ICD10,Other specified diabetes mellitus with ophthalmic complications,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+119,1024,Diabetes complications ,E13.4,E13,ICD10,Other specified diabetes mellitus with neurological complications,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+120,1025,Diabetes complications ,E13.5,E13,ICD10,Other specified diabetes mellitus with circulatory complications,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+121,1026,Diabetes complications ,E13.6,E13,ICD10,Other specified diabetes mellitus with other specified complications,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+122,1027,Diabetes complications ,E13.7,E13,ICD10,ERROR,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+123,1028,Diabetes complications ,E13.8,E13,ICD10,Other specified diabetes mellitus with unspecified complications,Other specified diabetes mellitus,E08-E13,Diabetes mellitus (E08-E13),
+124,1029,Diabetes complications ,E14.0,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+125,1030,Diabetes complications ,E14.1,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+126,1031,Diabetes complications ,E14.2,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+127,1032,Diabetes complications ,E14.3,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+128,1033,Diabetes complications ,E14.4,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+129,1034,Diabetes complications ,E14.5,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+130,1035,Diabetes complications ,E14.6,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+131,1036,Diabetes complications ,E14.7,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+132,1037,Diabetes complications ,E14.8,E14,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+133,1038,Gastroenteritis ,K52.2,K52,ICD10,Allergic and dietetic gastroenteritis and colitis,Other and unspecified noninfective gastroenteritis and colitis,K50-K52,Noninfective enteritis and colitis (K50-K52),C0029512
+134,1039,Gastroenteritis ,K52.8,K52,ICD10,Other specified noninfective gastroenteritis and colitis,Other and unspecified noninfective gastroenteritis and colitis,K50-K52,Noninfective enteritis and colitis (K50-K52),C0029512
+135,1040,Gastroenteritis ,K52.9,K52,ICD10,"Noninfective gastroenteritis and colitis, unspecified",Other and unspecified noninfective gastroenteritis and colitis,K50-K52,Noninfective enteritis and colitis (K50-K52),C0029512
+136,1042,Hypertension ,I11.9,I11,ICD10,Hypertensive heart disease without heart failure,Hypertensive heart disease,I10-I16,Hypertensive diseases (I10-I16),
+137,1044,Immunization-preventable conditions ,A16,A16,ICD10,ERROR,ERROR,ERROR,ERROR,ERROR - atom
+138,1045,Immunization-preventable conditions ,A19,A19,ICD10,Miliary tuberculosis,Miliary tuberculosis,A15-A19,Tuberculosis (A15-A19),
+139,1046,Immunization-preventable conditions ,A35,A35,ICD10,Other tetanus,Other tetanus,A30-A49,Other bacterial diseases (A30-A49),C0039614
+140,1047,Immunization-preventable conditions ,A36,A36,ICD10,Diphtheria,Diphtheria,A30-A49,Other bacterial diseases (A30-A49),C0012546
+141,1048,Immunization-preventable conditions ,A37,A37,ICD10,Whooping cough,Whooping cough,A30-A49,Other bacterial diseases (A30-A49),C0043168
+142,1049,Immunization-preventable conditions ,A80,A80,ICD10,Acute poliomyelitis,Acute poliomyelitis,A80-A89,Viral and prion infections of the central nervous system (A80-A89),C0032371
+143,1050,Immunization-preventable conditions ,B05,B05,ICD10,Measles,Measles,B00-B09,Viral infections characterized by skin and mucous membrane lesions (B00-B09),C0025007
+144,1051,Immunization-preventable conditions ,B06,B06,ICD10,Rubella [German measles],Rubella [German measles],B00-B09,Viral infections characterized by skin and mucous membrane lesions (B00-B09),C0035920
+145,1052,Immunization-preventable conditions ,B26,B26,ICD10,Mumps,Mumps,B25-B34,Other viral diseases (B25-B34),C0026780
+146,1053,Immunization-preventable conditions ,B16.1,B16,ICD10,Acute hepatitis B with delta-agent without hepatic coma,Acute hepatitis B,B15-B19,Viral hepatitis (B15-B19),C0276609
+147,1054,Immunization-preventable conditions ,B16.9,B16,ICD10,Acute hepatitis B without delta-agent and without hepatic coma,Acute hepatitis B,B15-B19,Viral hepatitis (B15-B19),C0276609
+148,1055,Immunization-preventable conditions ,B18.0,B18,ICD10,Chronic viral hepatitis B with delta-agent,Chronic viral hepatitis,B15-B19,Viral hepatitis (B15-B19),C0549126
+149,1056,Immunization-preventable conditions ,B18.1,B18,ICD10,Chronic viral hepatitis B without delta-agent,Chronic viral hepatitis,B15-B19,Viral hepatitis (B15-B19),C0549126
+150,1057,Immunization-preventable conditions ,G00.0,G00,ICD10,Hemophilus meningitis,"Bacterial meningitis, not elsewhere classified",G00-G09,Inflammatory diseases of the central nervous system (G00-G09),
+151,1058,Immunization-preventable conditions ,J10,J10,ICD10,Influenza due to other identified influenza virus,Influenza due to other identified influenza virus,J09-J18,Influenza and pneumonia (J09-J18),C0276353
+152,1059,Immunization-preventable conditions ,J11,J11,ICD10,Influenza due to unidentified influenza virus,Influenza due to unidentified influenza virus,J09-J18,Influenza and pneumonia (J09-J18),C2977051
+153,1060,Immunization-preventable conditions ,M01.4,M01,ICD10,ERROR,Direct infections of joint in infectious and parasitic diseases classified elsewhere,M00-M02,Infectious arthropathies (M00-M02),C0694513
+154,1061,Iron deficiency anaemia ,D50.1,D50,ICD10,Sideropenic dysphagia,Iron deficiency anemia,D50-D53,Nutritional anemias (D50-D53),C0008272
+155,1062,Iron deficiency anaemia ,D50.8,D50,ICD10,Other iron deficiency anemias,Iron deficiency anemia,D50-D53,Nutritional anemias (D50-D53),C0008272
+156,1063,Iron deficiency anaemia ,D50.9,D50,ICD10,"Iron deficiency anemia, unspecified",Iron deficiency anemia,D50-D53,Nutritional anemias (D50-D53),C0008272
+157,1065,Kidney/urinary infection ,N11,N11,ICD10,Chronic tubulo-interstitial nephritis,Chronic tubulo-interstitial nephritis,N10-N16,Renal tubulo-interstitial diseases (N10-N16),
+158,1066,Kidney/urinary infection ,N12,N12,ICD10,"Tubulo-interstitial nephritis, not specified as acute or chronic","Tubulo-interstitial nephritis, not specified as acute or chronic",N10-N16,Renal tubulo-interstitial diseases (N10-N16),C0027707
+159,1067,Kidney/urinary infection ,N13.6,N13,ICD10,Pyonephrosis,Obstructive and reflux uropathy,N10-N16,Renal tubulo-interstitial diseases (N10-N16),C0477732
+160,1068,Kidney/urinary infection ,N39.0,N39,ICD10,"Urinary tract infection, site not specified",Other disorders of urinary system,N30-N39,Other diseases of the urinary system (N30-N39),C0178288
+161,1073,Nutritional deficiency ,E55,E55,ICD10,Vitamin D deficiency,Vitamin D deficiency,E50-E64,Other nutritional deficiencies (E50-E64),C0042870
+162,1074,Nutritional deficiency ,E64.3,E64,ICD10,Sequelae of rickets,Sequelae of malnutrition and other nutritional deficiencies,E50-E64,Other nutritional deficiencies (E50-E64),C0348952
+163,1076,Pelvic inflammatory disease ,N73,N73,ICD10,Other female pelvic inflammatory diseases,Other female pelvic inflammatory diseases,N70-N77,Inflammatory diseases of female pelvic organs (N70-N77),C0495087
+164,1077,Pelvic inflammatory disease ,N74,N74,ICD10,Female pelvic inflammatory disorders in diseases classified elsewhere,Female pelvic inflammatory disorders in diseases classified elsewhere,N70-N77,Inflammatory diseases of female pelvic organs (N70-N77),C0694530
+165,1078,Perforated or bleeding ulcer ,K25.0,K25,ICD10,Acute gastric ulcer with hemorrhage,Gastric ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1275742
+166,1079,Perforated or bleeding ulcer ,K25.1,K25,ICD10,Acute gastric ulcer with perforation,Gastric ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1275742
+167,1080,Perforated or bleeding ulcer ,K25.2,K25,ICD10,Acute gastric ulcer with both hemorrhage and perforation,Gastric ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1275742
+168,1081,Perforated or bleeding ulcer ,K25.4,K25,ICD10,Chronic or unspecified gastric ulcer with hemorrhage,Gastric ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1275742
+169,1082,Perforated or bleeding ulcer ,K25.5,K25,ICD10,Chronic or unspecified gastric ulcer with perforation,Gastric ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1275742
+170,1083,Perforated or bleeding ulcer ,K25.6,K25,ICD10,Chronic or unspecified gastric ulcer with both hemorrhage and perforation,Gastric ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1275742
+171,1084,Perforated or bleeding ulcer ,K26.0,K26,ICD10,Acute duodenal ulcer with hemorrhage,Duodenal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0013295
+172,1085,Perforated or bleeding ulcer ,K26.1,K26,ICD10,Acute duodenal ulcer with perforation,Duodenal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0013295
+173,1086,Perforated or bleeding ulcer ,K26.2,K26,ICD10,Acute duodenal ulcer with both hemorrhage and perforation,Duodenal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0013295
+174,1087,Perforated or bleeding ulcer ,K26.4,K26,ICD10,Chronic or unspecified duodenal ulcer with hemorrhage,Duodenal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0013295
+175,1088,Perforated or bleeding ulcer ,K265,K26,ICD10,ERROR,Duodenal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0013295
+176,1089,Perforated or bleeding ulcer ,K266,K26,ICD10,ERROR,Duodenal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0013295
+177,1090,Perforated or bleeding ulcer ,K27.0,K27,ICD10,"Acute peptic ulcer, site unspecified, with hemorrhage","Peptic ulcer, site unspecified",K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0030920
+178,1091,Perforated or bleeding ulcer ,K27.1,K27,ICD10,"Acute peptic ulcer, site unspecified, with perforation","Peptic ulcer, site unspecified",K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0030920
+179,1092,Perforated or bleeding ulcer ,K27.2,K27,ICD10,"Acute peptic ulcer, site unspecified, with both hemorrhage and perforation","Peptic ulcer, site unspecified",K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0030920
+180,1093,Perforated or bleeding ulcer ,K27.4,K27,ICD10,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage","Peptic ulcer, site unspecified",K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0030920
+181,1094,Perforated or bleeding ulcer ,K27.5,K27,ICD10,"Chronic or unspecified peptic ulcer, site unspecified, with perforation","Peptic ulcer, site unspecified",K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0030920
+182,1095,Perforated or bleeding ulcer ,K27.6,K27,ICD10,"Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation","Peptic ulcer, site unspecified",K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C0030920
+183,1096,Perforated or bleeding ulcer ,K28.0,K28,ICD10,Acute gastrojejunal ulcer with hemorrhage,Gastrojejunal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1384631
+184,1097,Perforated or bleeding ulcer ,K28.1,K28,ICD10,Acute gastrojejunal ulcer with perforation,Gastrojejunal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1384631
+185,1098,Perforated or bleeding ulcer ,K28.2,K28,ICD10,Acute gastrojejunal ulcer with both hemorrhage and perforation,Gastrojejunal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1384631
+186,1099,Perforated or bleeding ulcer ,K28.4,K28,ICD10,Chronic or unspecified gastrojejunal ulcer with hemorrhage,Gastrojejunal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1384631
+187,1100,Perforated or bleeding ulcer ,K28.5,K28,ICD10,Chronic or unspecified gastrojejunal ulcer with perforation,Gastrojejunal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1384631
+188,1101,Perforated or bleeding ulcer ,K28.6,K28,ICD10,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation,Gastrojejunal ulcer,K20-K31,"Diseases of esophagus, stomach and duodenum (K20-K31)",C1384631
+189,1103,Pneumonia ,J14,J14,ICD10,Pneumonia due to Hemophilus influenzae,Pneumonia due to Hemophilus influenzae,J09-J18,Influenza and pneumonia (J09-J18),
+190,1104,Pneumonia ,J15.3,J15,ICD10,"Pneumonia due to streptococcus, group B","Bacterial pneumonia, not elsewhere classified",J09-J18,Influenza and pneumonia (J09-J18),
+191,1105,Pneumonia ,J15.4,J15,ICD10,Pneumonia due to other streptococci,"Bacterial pneumonia, not elsewhere classified",J09-J18,Influenza and pneumonia (J09-J18),
+192,1106,Pneumonia ,J15.7,J15,ICD10,Pneumonia due to Mycoplasma pneumoniae,"Bacterial pneumonia, not elsewhere classified",J09-J18,Influenza and pneumonia (J09-J18),
+193,1107,Pneumonia ,J15.9,J15,ICD10,Unspecified bacterial pneumonia,"Bacterial pneumonia, not elsewhere classified",J09-J18,Influenza and pneumonia (J09-J18),
+194,1108,Pneumonia ,J16.8,J16,ICD10,Pneumonia due to other specified infectious organisms,"Pneumonia due to other infectious organisms, not elsewhere classified",J09-J18,Influenza and pneumonia (J09-J18),C0494644
+195,1109,Pneumonia ,J18.1,J18,ICD10,"Lobar pneumonia, unspecified organism","Pneumonia, unspecified organism",J09-J18,Influenza and pneumonia (J09-J18),C0339951
+196,1110,Pneumonia ,J18.8,J18,ICD10,"Other pneumonia, unspecified organism","Pneumonia, unspecified organism",J09-J18,Influenza and pneumonia (J09-J18),C0339951
